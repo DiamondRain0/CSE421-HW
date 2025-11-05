@@ -1,83 +1,101 @@
 #include "mbed.h"
-#include "mfcc.h" // Include your custom MFCC library header
-
+#include "mfcc.h"
 #include <vector>
-#include <cmath> // For sin()
+#include <cstdint>
+#include <cstdio>
+#include <cstring>
 
-// Blinking rate in milliseconds from the original example
-#define BLINKING_RATE     500ms
-#define M_PI 3.14
+#define CMD_SEND_AUDIO 0x01
+#define MAX_SAMPLES 16000  // limit to avoid memory crash (adjust per your RAM)
+#define M_PI 3.14159265358979323846
 
-int main()
-{
-    // Initialize the digital pin LED1 as an output for the blinky part
-    DigitalOut led(LED1);
+DigitalOut led(LED1);
+BufferedSerial pc(USBTX, USBRX, 115200);
 
-    // Use printf for serial output.
-    printf("\n--- Mbed OS MFCC with Dummy Value Test ---\n");
+bool read_bytes(void* dst, size_t len) {
+    uint8_t* ptr = static_cast<uint8_t*>(dst);
+    size_t received = 0;
+    while (received < len) {
+        ssize_t n = pc.read(ptr + received, len - received);
+        if (n > 0) {
+            received += n;
+            led = !led;  // blink on activity
+        } else {
+            ThisThread::sleep_for(1ms);
+        }
+    }
+    return true;
+}
 
-    // --- MFCC Parameters ---
+int main() {
+    printf("\n--- Mbed MFCC Audio Receiver (Safe) ---\n");
+
     const int FRAME_LENGTH = 1024;
     const int NUM_MEL_FILTERS = 20;
     const int NUM_MFCC_COEFFS = 13;
-
-
-    // =================================================================
-    // STEP 1: MAKE A DUMMY AUDIO VALUE
-    // =================================================================
-    printf("1. Creating a dummy audio frame of size %d...\n", FRAME_LENGTH);
-    
-    // We create a std::vector to hold our 16-bit integer audio samples.
-    std::vector<int16_t> dummy_audio_data(FRAME_LENGTH);
-
-    // Let's create a sound that's a mix of two frequencies:
-    // - A low-frequency hum at 250 Hz
-    // - A higher-frequency tone at 1200 Hz
-    // This will give us a more interesting result than a single tone.
-    float freq1 = 250.0f;
-    float freq2 = 1200.0f;
-    for (int i = 0; i < FRAME_LENGTH; ++i) {
-        // Calculate the value of each sine wave at this point in time
-        float sample1 = 0.6f * sin(2.0f * M_PI * freq1 * static_cast<float>(i) / Mfcc::SAMPLE_RATE); // Main tone
-        float sample2 = 0.4f * sin(2.0f * M_PI * freq2 * static_cast<float>(i) / Mfcc::SAMPLE_RATE); // Overtone
-        
-        // Add the waves together and scale the result [-1.0, 1.0] to the int16_t range [-32767, 32767]
-        dummy_audio_data[i] = static_cast<int16_t>((sample1 + sample2) * 32767.0f);
-    }
-    printf("   (Dummy data created with 250Hz and 1200Hz tones)\n");
-
-
-    // --- Initialize the MFCC processor ---
-    // This is done after creating the data, but could be done at any time before computing.
-    printf("2. Initializing the MFCC processor...\n");
     Mfcc mfcc_processor(FRAME_LENGTH, NUM_MEL_FILTERS, NUM_MFCC_COEFFS);
 
-
-    // =================================================================
-    // STEP 2: SEND THE DUMMY VALUE TO THE MFCC PROCESSOR
-    // =================================================================
-    printf("3. Sending dummy data to the MFCC compute method...\n");
-    
-    // This is the core action: we pass our vector of dummy data to the processor.
-    // It returns a new vector containing the floating-point feature values.
-    std::vector<float> features = mfcc_processor.compute(dummy_audio_data);
-
-
-    // --- Print the results ---
-    printf("4. MFCC processing complete. Results:\n");
-    printf("======================================\n");
-    printf("      FINAL MFCC 'FINGERPRINT'\n");
-    printf("======================================\n");
-    for (size_t i = 0; i < features.size(); ++i) {
-        printf("  Coeff %2d:  %f\n", (int)i, features[i]);
-    }
-    printf("======================================\n");
-    printf("Test complete. Now blinking the LED.\n");
-
-
-    // The original blinky functionality starts here
     while (true) {
-        led = !led;
-        ThisThread::sleep_for(BLINKING_RATE);
+        uint8_t cmd = 0;
+        ssize_t n = pc.read(&cmd, 1);
+        if (n <= 0) {
+            ThisThread::sleep_for(5ms);
+            continue;
+        }
+
+        if (cmd == CMD_SEND_AUDIO) {
+            printf("[MBED] CMD: SEND_AUDIO received.\n");
+
+            // --- Header ---
+            uint32_t num_samples = 0;
+            uint32_t sample_rate = 0;
+            read_bytes(&num_samples, sizeof(num_samples));
+            read_bytes(&sample_rate, sizeof(sample_rate));
+
+            printf("[MBED] Header: %lu samples @ %lu Hz\n",
+                   (unsigned long)num_samples, (unsigned long)sample_rate);
+
+            // Validate header
+            if (num_samples == 0 || num_samples > MAX_SAMPLES || sample_rate > 96000) {
+                printf("[MBED] ⚠️ Invalid header! num_samples=%lu, sample_rate=%lu\n",
+                       (unsigned long)num_samples, (unsigned long)sample_rate);
+                continue;
+            }
+
+            std::vector<int16_t> samples(num_samples);
+
+            // --- Receive Samples ---
+            size_t bytes_to_receive = num_samples * sizeof(int16_t);
+            size_t received = 0;
+            while (received < bytes_to_receive) {
+                uint8_t buf[256];
+                ssize_t chunk = pc.read(buf, sizeof(buf));
+                if (chunk > 0) {
+                    memcpy(reinterpret_cast<uint8_t*>(&samples[0]) + received, buf, chunk);
+                    received += chunk;
+                    led = !led;  // blink per chunk
+                } else {
+                    ThisThread::sleep_for(1ms);
+                }
+            }
+
+            led = 1; // steady ON when done
+            printf("[MBED] Received %lu bytes.\n", (unsigned long)received);
+
+            // --- Compute MFCC ---
+            std::vector<float> features = mfcc_processor.compute(samples);
+
+            printf("======================================\n");
+            printf("      FINAL MFCC 'FINGERPRINT'\n");
+            printf("======================================\n");
+            for (size_t i = 0; i < features.size(); ++i) {
+                printf("Coeff %2d:  %f\n", (int)i, features[i]);
+            }
+            printf("======================================\n");
+            printf("[END_OF_FEATURES]\n");
+            printf("[MBED] Ready for next file.\n");
+
+            led = 0; // turn off
+        }
     }
 }
