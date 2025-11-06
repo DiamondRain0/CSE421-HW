@@ -89,9 +89,7 @@ Figure 1.4: main.cpp
 Figure 1.5: Result of Part-1
 
 
-## Part-2 (Application: Feature Extraction from Audio
-
-## Signals)
+## Part-2 (Application: Feature Extraction from Audio Signals)
 
 ### 2.1. Implementation Overview
 
@@ -160,7 +158,52 @@ data reduction and information preservation makes MFCCs an ideal feature set for
 and accurate classification on resource-constrained microcontrollers.
 
 
-#### 2.1.4 Example Output
+#### **2.2.4 System Architecture and Workflow**
+
+The feature extraction pipeline is built as a two-part system: a high-performance embedded processing engine on the STM32 microcontroller, and a flexible host-side control script running on a PC. This separation enables the microcontroller to focus on low-latency signal processing, while the host script handles dataset management and workflow coordination.
+
+##### **Embedded System (STM32) Implementation**
+
+The STM32 runs a C++ application that performs all core signal processing tasks. Its workflow includes:
+
+* **Command Reception:**
+  The device waits for a specific start command over the serial port.
+
+* **Data Ingestion:**
+  Upon receiving the command, it reads a header containing metadata such as sample count, then loads the specified audio bytes into a buffer.
+
+* **MFCC Computation:**
+  A single high-level function executes the entire MFCC pipeline, using the ARM CMSIS-DSP library for computationally intensive steps like FFT.
+
+* **Result Transmission:**
+  The 13 computed MFCC coefficients are formatted into a readable string and sent back to the host, ending with a designated “end-of-features” token.
+
+This streamlined process ensures efficient use of microcontroller resources without filesystem overhead.
+
+##### **Host PC (Python) Implementation**
+
+The Python script acts as the system controller and automation layer. Its operations include:
+
+* **Connection and Initialization:**
+  Automatically detects and opens a serial connection to the STM32.
+
+* **File Iteration:**
+  Scans a directory for `.wav` files, enabling large-batch dataset processing.
+
+* **Data Transmission:**
+  For each file, it reads raw audio data, constructs the metadata header, sends the start command, and transmits audio payloads to trigger processing.
+
+* **Response Handling:**
+  Listens for incoming lines, parsing floating-point MFCC values until the end-of-features token is received.
+  
+* **Data Logging:**
+  Stores each MFCC vector in a log file and associates it with the corresponding filename to build a structured dataset.
+
+This request–response protocol ensures synchronized and reliable communication between PC and microcontroller.
+
+
+#### 2.1.5 Example Output
+
 
 <img width="431" height="767" alt="image" src="https://github.com/user-attachments/assets/21dd3cb2-97f4-4683-9f4b-f59a6b85e309" />
 
