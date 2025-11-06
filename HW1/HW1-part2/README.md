@@ -1,132 +1,104 @@
-![](./resources/official_armmbed_example_badge.png)
+# Embedded MFCC Feature Extraction for Audio Signals
 
-# MFCC Feature Extraction on Mbed OS (Bare Metal)
+This project implements a complete, end-to-end audio feature extraction pipeline on an STM32F746NG Discovery board. The system is designed to compute Mel-Frequency Cepstral Coefficients (MFCCs) from raw audio signals, converting large audio files into compact, information-rich feature vectors suitable for machine learning applications like keyword spotting or voice command recognition.
 
-This example demonstrates how to perform **Mel-Frequency Cepstral Coefficient (MFCC)** feature extraction on embedded devices using **Arm Mbed OS** and **CMSIS-DSP**.  
-MFCCs are widely used in **speech recognition**, **keyword spotting**, and **audio classification**.  
-This project shows how to compute MFCCs efficiently on a bare-metal embedded system.
+The project operates in a bare-metal Mbed OS environment, ensuring minimal resource overhead and high performance. It uses a host-client model, where a Python script on a PC sends audio data to the STM32 board, which performs the computation and returns the results.
 
-You can build this project with all supported [Mbed OS build tools](https://os.mbed.com/docs/mbed-os/latest/tools/index.html).  
-The example specifically refers to the command-line interface tool [Arm Mbed CLI](https://github.com/ARMmbed/mbed-cli#installing-mbed-cli).
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Hardware and Software Requirements](#hardware-and-software-requirements)
+- [System Architecture](#system-architecture)
+- [File Structure](#file-structure)
+- [Communication Protocol](#communication-protocol)
 
----
+## Project Overview
 
-## Application Functionality
+The core goal of this project is to demonstrate an efficient implementation of the MFCC algorithm on a resource-constrained microcontroller. By offloading the computationally intensive feature extraction task to the embedded device, this system serves as a foundation for on-device machine learning, where data can be processed locally without needing to stream it to the cloud.
 
-The application creates a **dummy audio frame** composed of two sine waves (250 Hz and 1200 Hz) and passes it to the MFCC processor.  
-The MFCC algorithm converts this waveform into a **13-element feature vector**, representing the frequency characteristics of the sound.  
-After processing, the result is printed via serial, and the LED on the board blinks continuously.
+The pipeline includes:
+1.  **Audio Data Transmission:** A Python script sends `.wav` files to the board via serial.
+2.  **Embedded Signal Processing:** The STM32 board computes a 13-coefficient MFCC vector from the raw audio.
+3.  **Optimized Computation:** The implementation leverages the **ARM CMSIS-DSP library** for high-performance FFT and signal processing functions.
+4.  **Feature Return:** The board sends the computed MFCC vector back to the Python script for logging and analysis.
 
----
+## Features
+- **Bare-metal Mbed OS 6 Implementation:** Runs with minimal overhead for maximum performance.
+- **End-to-End Pipeline:** Handles everything from reading `.wav` files to generating MFCC feature vectors.
+- **ARM CMSIS-DSP Integration:** Uses hardware-accelerated libraries for optimized FFT calculations.
+- **Host-Client Architecture:** A Python script automates testing and data collection.
+- **Data Reduction:** Demonstrates a >95% reduction in data size from raw audio to MFCC features.
+- **High-Quality Features:** The extracted features are shown to be highly discriminative for classification tasks.
 
-## Expected Output
+## Hardware and Software Requirements
 
-After flashing the binary and opening the serial terminal, you should see something similar to:
-```
---- Mbed OS MFCC with Dummy Value Test ---
-1. Creating a dummy audio frame of size 1024...
-   (Dummy data created with 250Hz and 1200Hz tones)
-2. Initializing the MFCC processor...
-3. Sending dummy data to the MFCC compute method...
-4. MFCC processing complete. Results:
-======================================
-      FINAL MFCC 'FINGERPRINT'
-======================================
-  Coeff  0:  -3.210000
-  Coeff  1:  12.880000
-  Coeff  2:   8.410000
-  Coeff  3:   1.750000
-  ...
-======================================
-Test complete. Now blinking the LED.
-```
+### Hardware
+- **STM32F746NG Discovery Board**
+- USB-A to Micro-USB cable
 
----
+### Software
+- **Mbed Studio:** For compiling and flashing the embedded application.
+- **Python 3.x:** For running the host script.
+- **Required Python Library:**
+  ```bash
+  pip install pyserial
+  ```
 
-## Project Structure
+## System Architecture
 
-```
-├── main.cpp              # Entry point (dummy signal + MFCC test)
-├── mfcc.cpp              # MFCC feature extraction implementation
-├── mfcc.h                # MFCC class definition and constants
-├── mbed-os/              # Mbed OS source
-└── README.md             # Project documentation
+The system is composed of two main components:
+1.  **Embedded Application (Client):** A C++ program running on the STM32. It listens for commands, receives audio data, performs MFCC calculations, and sends back the results.
+2.  **Host Script (Host):** A Python script running on a PC. It reads audio files, sends them to the STM32, and logs the returned feature vectors.
 
-```
----
+This architecture allows for easy testing and batch processing of large audio datasets.
 
-## Core Algorithm Steps
+## File Structure
 
-1. Windowing – applies a Hamming window to the signal to reduce spectral leakage.
-
-2. FFT – computes the frequency spectrum using CMSIS-DSP’s arm_rfft_fast_f32.
-
-3. Power Spectrum – calculates magnitude squared values from FFT output.
-
-4. Mel Filterbank – applies a triangular filter bank spaced on the Mel scale (human hearing).
-
-5. Logarithm – converts power values to log scale.
-
-6. DCT (Discrete Cosine Transform) – decorrelates features and produces the MFCCs.
-
-7. Output – returns 13 MFCC coefficients as a feature vector.
-
----
-
-## Configuration
-
-You can adjust these parameters in main.cpp or mfcc.h:
-
-| Parameter         | Description                              | Default |
-| ----------------- | ---------------------------------------- | ------- |
-| `FRAME_LENGTH`    | FFT length (number of samples per frame) | 1024    |
-| `NUM_MEL_FILTERS` | Number of Mel filters                    | 20      |
-| `NUM_MFCC_COEFFS` | Number of output MFCC coefficients       | 13      |
-| `SAMPLE_RATE`     | Sampling rate (Hz)                       | 8000    |
-| `MEL_LOW_FREQ`    | Lowest frequency for Mel filterbank      | 20      |
-| `MEL_HIGH_FREQ`   | Highest frequency (Nyquist)              | 4000    |
-
-
-Example usage: 
-```
-Mfcc mfcc_processor(FRAME_LENGTH, NUM_MEL_FILTERS, NUM_MFCC_COEFFS);
-std::vector<float> features = mfcc_processor.compute(audio_frame);
+The project is organized for clarity and modularity:
 
 ```
----
+.
+├── mbed-os/                # Mbed OS library
+├── external/               # External libraries
+│   └── CMSIS_5/            # ARM CMSIS-DSP library
+├── mfcc.cpp                # MFCC implementation logic
+├── mfcc.h                  # MFCC header file
+├── main.cpp                # Core application logic and serial communication
+├── mbed_app.json           # Mbed project configuration
+└── script.py          # Python script to communicate with the board
+```
 
-## Requirements
+- **`main.cpp`**: Handles the serial communication protocol and orchestrates the feature extraction workflow.
+- **`mfcc.cpp` / `mfcc.h`**: A self-contained module implementing the MFCC calculation based on standard algorithms.
+- **`external/`**: Contains the ARM CMSIS-DSP library, manually integrated for optimized math functions.
 
-- Mbed OS 6.0+
+## Setup and Installation
 
-- CMSIS-DSP library (included with Mbed OS)
-
-- C++17 compatible toolchain
-
-- Any Arm Cortex-M board with sufficient RAM (≥ 32 KB recommended)
-
----
-
-## Troubleshooting
-
-- Missing CMSIS-DSP symbols:
-    Ensure CMSIS-DSP is included in mbed_app.json:
-    ```
-    {
-        "target.include_dirs": [
-                    "external/CMSIS-DSP/Include"
-                ]
-    }
+1.  **Clone the Repository:**
+    ```bash
+    git clone <repository-url>
     ```
 
----
+2.  **Set up the Embedded Project:**
+    - Open the project in **Mbed Studio**.
+    - Ensure the **STM32F746NG Discovery board** is selected as the build target.
+    - Compile the project and flash it to your board using the "Run program" button.
 
-## Related Links
+3.  **Set up the Python Environment:**
+    - Install the required `pyserial` library:
+      ```bash
+      pip install pyserial
+      ```
+    - Connect the flashed STM32 board to your PC. Identify its serial port (e.g., `COM3`, `/dev/ttyACM0`).
+    - Update the serial port in the host Python script and run it to begin sending audio data and collecting MFCC features.
 
-[MFCC Wikipedia](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum)
+## Communication Protocol
 
-[CMSIS-DSP Documentation](https://arm-software.github.io/CMSIS_5/DSP/html/index.html)
+The communication between the Python script and the STM32 board is a simple, text-based serial protocol:
 
-[Mbed OS Official Docs](https://os.mbed.com/docs/mbed-os/v6.16/introduction/index.html)
-
-[Mbed OS Serial Communication](https://os.mbed.com/docs/mbed-os/v6.16/program-setup/serial-communication.html)
+1.  **Host Sends Command:** The Python script sends a start command (e.g., `SEND_AUDIO\n`).
+2.  **Host Sends Header:** The script sends metadata, such as the number of audio samples.
+3.  **Host Sends Payload:** The script sends the raw audio bytes.
+4.  **Board Computes:** The STM32 receives the data and computes the MFCCs.
+5.  **Board Responds:** The board sends back the computed MFCC coefficients, formatted as text lines (e.g., `Coeff 0: -2.642317`).
+6.  **End of Transmission:** The board sends a unique token (`[END_OF_FEATURES]\n`) to signal that the entire vector has been sent. The Python script listens for this token to complete the transaction.
