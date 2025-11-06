@@ -10,6 +10,7 @@ The project operates in a bare-metal Mbed OS environment, ensuring minimal resou
 - [Hardware and Software Requirements](#hardware-and-software-requirements)
 - [System Architecture](#system-architecture)
 - [File Structure](#file-structure)
+- [Setup and Installation](#setup-and-installation)
 - [Communication Protocol](#communication-protocol)
 
 ## Project Overview
