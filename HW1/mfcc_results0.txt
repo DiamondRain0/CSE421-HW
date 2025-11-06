@@ -1,0 +1,6800 @@
+File: 0_george_0.wav
+Audio size: 4768 bytes
+Feature size: 269 bytes
+Coeff  0:  14.938661
+Coeff  1:  -1.566095
+Coeff  2:  7.994683
+Coeff  3:  -0.441560
+Coeff  4:  -5.972045
+Coeff  5:  -3.094534
+Coeff  6:  -1.200926
+Coeff  7:  -3.326427
+Coeff  8:  -0.856755
+Coeff  9:  1.109998
+Coeff 10:  -1.151371
+Coeff 11:  0.581843
+Coeff 12:  -0.960726
+----------------------------------------
+File: 0_george_1.wav
+Audio size: 9454 bytes
+Feature size: 268 bytes
+Coeff  0:  -7.772279
+Coeff  1:  6.743990
+Coeff  2:  5.962379
+Coeff  3:  -0.167595
+Coeff  4:  -0.333413
+Coeff  5:  -3.805700
+Coeff  6:  -0.409760
+Coeff  7:  -0.568848
+Coeff  8:  -1.342845
+Coeff  9:  0.366921
+Coeff 10:  -1.245353
+Coeff 11:  -0.538352
+Coeff 12:  0.602480
+----------------------------------------
+File: 0_george_10.wav
+Audio size: 11916 bytes
+Feature size: 269 bytes
+Coeff  0:  -33.705807
+Coeff  1:  -1.568055
+Coeff  2:  0.127864
+Coeff  3:  1.075741
+Coeff  4:  -0.719953
+Coeff  5:  -1.353779
+Coeff  6:  0.566802
+Coeff  7:  -1.471871
+Coeff  8:  -0.173152
+Coeff  9:  -0.235355
+Coeff 10:  -0.743689
+Coeff 11:  0.478277
+Coeff 12:  -0.187687
+----------------------------------------
+File: 0_george_11.wav
+Audio size: 7322 bytes
+Feature size: 266 bytes
+Coeff  0:  4.331668
+Coeff  1:  1.669104
+Coeff  2:  6.228844
+Coeff  3:  0.909086
+Coeff  4:  -4.812156
+Coeff  5:  -4.662464
+Coeff  6:  0.203970
+Coeff  7:  -1.598349
+Coeff  8:  -1.022510
+Coeff  9:  1.145475
+Coeff 10:  -1.036932
+Coeff 11:  -0.083452
+Coeff 12:  -0.060760
+----------------------------------------
+File: 0_george_12.wav
+Audio size: 8100 bytes
+Feature size: 265 bytes
+Coeff  0:  0.554215
+Coeff  1:  2.637780
+Coeff  2:  6.372445
+Coeff  3:  1.846359
+Coeff  4:  -3.942029
+Coeff  5:  -4.666272
+Coeff  6:  0.530762
+Coeff  7:  -1.426939
+Coeff  8:  -0.739519
+Coeff  9:  1.088888
+Coeff 10:  -1.163698
+Coeff 11:  -1.215104
+Coeff 12:  0.435469
+----------------------------------------
+File: 0_george_13.wav
+Audio size: 8698 bytes
+Feature size: 265 bytes
+Coeff  0:  1.706535
+Coeff  1:  2.199395
+Coeff  2:  5.442914
+Coeff  3:  1.507756
+Coeff  4:  -4.310795
+Coeff  5:  -5.014639
+Coeff  6:  0.331958
+Coeff  7:  -1.111996
+Coeff  8:  -0.530816
+Coeff  9:  1.323286
+Coeff 10:  -0.813978
+Coeff 11:  -0.871735
+Coeff 12:  0.630692
+----------------------------------------
+File: 0_george_14.wav
+Audio size: 8608 bytes
+Feature size: 266 bytes
+Coeff  0:  10.762419
+Coeff  1:  -1.148289
+Coeff  2:  6.703997
+Coeff  3:  1.551099
+Coeff  4:  -6.185723
+Coeff  5:  -3.351139
+Coeff  6:  0.359117
+Coeff  7:  -3.131545
+Coeff  8:  -1.482435
+Coeff  9:  0.599866
+Coeff 10:  -1.747428
+Coeff 11:  0.498369
+Coeff 12:  0.523091
+----------------------------------------
+File: 0_george_15.wav
+Audio size: 8372 bytes
+Feature size: 266 bytes
+Coeff  0:  -2.708671
+Coeff  1:  2.106982
+Coeff  2:  4.981028
+Coeff  3:  1.632789
+Coeff  4:  -3.298129
+Coeff  5:  -3.644403
+Coeff  6:  0.399434
+Coeff  7:  -1.786645
+Coeff  8:  -1.556993
+Coeff  9:  1.415132
+Coeff 10:  -0.596690
+Coeff 11:  -0.193941
+Coeff 12:  0.437279
+----------------------------------------
+File: 0_george_16.wav
+Audio size: 10108 bytes
+Feature size: 266 bytes
+Coeff  0:  -7.548899
+Coeff  1:  5.075908
+Coeff  2:  5.459657
+Coeff  3:  1.330403
+Coeff  4:  -3.161979
+Coeff  5:  -4.523953
+Coeff  6:  1.134164
+Coeff  7:  -1.208441
+Coeff  8:  -1.205762
+Coeff  9:  1.007378
+Coeff 10:  -0.305217
+Coeff 11:  -0.849676
+Coeff 12:  0.322864
+----------------------------------------
+File: 0_george_17.wav
+Audio size: 9348 bytes
+Feature size: 267 bytes
+Coeff  0:  -10.164194
+Coeff  1:  7.327544
+Coeff  2:  5.569721
+Coeff  3:  1.177291
+Coeff  4:  -2.890980
+Coeff  5:  -4.593211
+Coeff  6:  0.634802
+Coeff  7:  -1.316326
+Coeff  8:  -1.156764
+Coeff  9:  0.933493
+Coeff 10:  -0.714092
+Coeff 11:  -0.840136
+Coeff 12:  0.321525
+----------------------------------------
+File: 0_george_18.wav
+Audio size: 11162 bytes
+Feature size: 266 bytes
+Coeff  0:  -7.684155
+Coeff  1:  5.576784
+Coeff  2:  4.936058
+Coeff  3:  1.613666
+Coeff  4:  -2.254896
+Coeff  5:  -4.768701
+Coeff  6:  0.506367
+Coeff  7:  -1.690964
+Coeff  8:  -1.669591
+Coeff  9:  0.921573
+Coeff 10:  -0.448151
+Coeff 11:  -0.791954
+Coeff 12:  1.143105
+----------------------------------------
+File: 0_george_19.wav
+Audio size: 8930 bytes
+Feature size: 267 bytes
+Coeff  0:  -7.159413
+Coeff  1:  5.776913
+Coeff  2:  5.361444
+Coeff  3:  1.318176
+Coeff  4:  -2.717856
+Coeff  5:  -4.364672
+Coeff  6:  -0.007187
+Coeff  7:  -1.606754
+Coeff  8:  -1.301001
+Coeff  9:  1.449136
+Coeff 10:  -0.259918
+Coeff 11:  -1.433645
+Coeff 12:  0.614838
+----------------------------------------
+File: 0_george_2.wav
+Audio size: 10664 bytes
+Feature size: 266 bytes
+Coeff  0:  -4.844862
+Coeff  1:  4.411458
+Coeff  2:  4.993237
+Coeff  3:  1.108615
+Coeff  4:  -1.194198
+Coeff  5:  -4.332969
+Coeff  6:  0.736139
+Coeff  7:  -1.405548
+Coeff  8:  -2.662198
+Coeff  9:  1.277081
+Coeff 10:  -1.027826
+Coeff 11:  -0.371446
+Coeff 12:  1.448222
+----------------------------------------
+File: 0_george_20.wav
+Audio size: 8694 bytes
+Feature size: 266 bytes
+Coeff  0:  -6.600261
+Coeff  1:  5.002396
+Coeff  2:  5.540824
+Coeff  3:  0.228123
+Coeff  4:  -1.926928
+Coeff  5:  -2.485956
+Coeff  6:  0.947730
+Coeff  7:  -1.262424
+Coeff  8:  -0.762270
+Coeff  9:  0.495660
+Coeff 10:  -1.053024
+Coeff 11:  -0.698343
+Coeff 12:  0.257399
+----------------------------------------
+File: 0_george_21.wav
+Audio size: 8520 bytes
+Feature size: 266 bytes
+Coeff  0:  -3.084423
+Coeff  1:  3.832644
+Coeff  2:  4.568781
+Coeff  3:  1.145996
+Coeff  4:  -1.563691
+Coeff  5:  -3.686405
+Coeff  6:  0.468690
+Coeff  7:  -1.708658
+Coeff  8:  -0.636568
+Coeff  9:  0.886648
+Coeff 10:  -0.759741
+Coeff 11:  -0.794806
+Coeff 12:  0.558004
+----------------------------------------
+File: 0_george_22.wav
+Audio size: 7926 bytes
+Feature size: 266 bytes
+Coeff  0:  2.517125
+Coeff  1:  2.304723
+Coeff  2:  5.833748
+Coeff  3:  1.316335
+Coeff  4:  -2.814113
+Coeff  5:  -3.617784
+Coeff  6:  0.733608
+Coeff  7:  -0.858864
+Coeff  8:  -0.956357
+Coeff  9:  0.298870
+Coeff 10:  -1.498171
+Coeff 11:  -1.546718
+Coeff 12:  -0.116058
+----------------------------------------
+File: 0_george_23.wav
+Audio size: 7968 bytes
+Feature size: 269 bytes
+Coeff  0:  4.369651
+Coeff  1:  0.714387
+Coeff  2:  7.200012
+Coeff  3:  -0.649295
+Coeff  4:  -5.653032
+Coeff  5:  -6.421247
+Coeff  6:  -3.108647
+Coeff  7:  -4.718903
+Coeff  8:  -2.336071
+Coeff  9:  -0.359384
+Coeff 10:  -2.014403
+Coeff 11:  -1.530469
+Coeff 12:  -2.118050
+----------------------------------------
+File: 0_george_24.wav
+Audio size: 7814 bytes
+Feature size: 267 bytes
+Coeff  0:  -3.980088
+Coeff  1:  2.752053
+Coeff  2:  6.077665
+Coeff  3:  0.378549
+Coeff  4:  -2.200431
+Coeff  5:  -2.995334
+Coeff  6:  0.770137
+Coeff  7:  -0.629557
+Coeff  8:  -0.817433
+Coeff  9:  1.022480
+Coeff 10:  -0.866382
+Coeff 11:  -1.264194
+Coeff 12:  -0.156895
+----------------------------------------
+File: 0_george_25.wav
+Audio size: 7374 bytes
+Feature size: 270 bytes
+Coeff  0:  11.356829
+Coeff  1:  -2.020771
+Coeff  2:  6.272755
+Coeff  3:  -0.166465
+Coeff  4:  -5.714490
+Coeff  5:  -5.615929
+Coeff  6:  -2.461613
+Coeff  7:  -3.934233
+Coeff  8:  -2.400038
+Coeff  9:  0.056085
+Coeff 10:  -2.706169
+Coeff 11:  -1.378503
+Coeff 12:  -1.799486
+----------------------------------------
+File: 0_george_26.wav
+Audio size: 9882 bytes
+Feature size: 266 bytes
+Coeff  0:  4.435510
+Coeff  1:  1.370750
+Coeff  2:  6.374742
+Coeff  3:  2.173425
+Coeff  4:  -3.070527
+Coeff  5:  -4.962111
+Coeff  6:  0.539200
+Coeff  7:  -0.509891
+Coeff  8:  -0.714019
+Coeff  9:  1.218066
+Coeff 10:  -0.811783
+Coeff 11:  -1.455272
+Coeff 12:  -0.000349
+----------------------------------------
+File: 0_george_27.wav
+Audio size: 8898 bytes
+Feature size: 266 bytes
+Coeff  0:  -6.166705
+Coeff  1:  2.423034
+Coeff  2:  5.191793
+Coeff  3:  0.548574
+Coeff  4:  -0.294798
+Coeff  5:  -3.473037
+Coeff  6:  0.411197
+Coeff  7:  -1.067558
+Coeff  8:  -1.306630
+Coeff  9:  1.043118
+Coeff 10:  -0.406040
+Coeff 11:  -0.701665
+Coeff 12:  0.255188
+----------------------------------------
+File: 0_george_28.wav
+Audio size: 8948 bytes
+Feature size: 265 bytes
+Coeff  0:  0.553193
+Coeff  1:  2.672263
+Coeff  2:  5.597205
+Coeff  3:  1.016770
+Coeff  4:  -1.339359
+Coeff  5:  -4.697578
+Coeff  6:  0.352268
+Coeff  7:  -0.383525
+Coeff  8:  -1.785412
+Coeff  9:  0.511761
+Coeff 10:  -0.210758
+Coeff 11:  -1.190227
+Coeff 12:  0.511078
+----------------------------------------
+File: 0_george_29.wav
+Audio size: 8416 bytes
+Feature size: 265 bytes
+Coeff  0:  2.274075
+Coeff  1:  0.978593
+Coeff  2:  6.217294
+Coeff  3:  1.070401
+Coeff  4:  -2.748358
+Coeff  5:  -3.731472
+Coeff  6:  0.082813
+Coeff  7:  -0.996210
+Coeff  8:  -0.530181
+Coeff  9:  1.246877
+Coeff 10:  -1.307200
+Coeff 11:  -0.615545
+Coeff 12:  0.468713
+----------------------------------------
+File: 0_george_3.wav
+Audio size: 10014 bytes
+Feature size: 266 bytes
+Coeff  0:  -0.071373
+Coeff  1:  2.322867
+Coeff  2:  6.691886
+Coeff  3:  1.122126
+Coeff  4:  -3.072142
+Coeff  5:  -4.692279
+Coeff  6:  0.357445
+Coeff  7:  -1.826175
+Coeff  8:  -1.255677
+Coeff  9:  2.239136
+Coeff 10:  -0.738014
+Coeff 11:  -0.733330
+Coeff 12:  0.090113
+----------------------------------------
+File: 0_george_30.wav
+Audio size: 6572 bytes
+Feature size: 269 bytes
+Coeff  0:  15.329829
+Coeff  1:  -1.493628
+Coeff  2:  7.086017
+Coeff  3:  0.601007
+Coeff  4:  -4.706161
+Coeff  5:  -4.101646
+Coeff  6:  -0.800744
+Coeff  7:  -1.822268
+Coeff  8:  -0.687438
+Coeff  9:  0.733758
+Coeff 10:  -2.065202
+Coeff 11:  -0.554417
+Coeff 12:  -0.627814
+----------------------------------------
+File: 0_george_31.wav
+Audio size: 4348 bytes
+Feature size: 271 bytes
+Coeff  0:  17.240286
+Coeff  1:  -0.468096
+Coeff  2:  -2.047590
+Coeff  3:  -1.043543
+Coeff  4:  -3.044013
+Coeff  5:  -5.185222
+Coeff  6:  -1.593691
+Coeff  7:  -0.471246
+Coeff  8:  0.970887
+Coeff  9:  -1.335967
+Coeff 10:  -1.224964
+Coeff 11:  -0.188161
+Coeff 12:  -1.988901
+----------------------------------------
+File: 0_george_32.wav
+Audio size: 8966 bytes
+Feature size: 267 bytes
+Coeff  0:  9.767474
+Coeff  1:  -0.014786
+Coeff  2:  6.507999
+Coeff  3:  0.853456
+Coeff  4:  -5.637115
+Coeff  5:  -5.635429
+Coeff  6:  -0.018392
+Coeff  7:  -1.720433
+Coeff  8:  -0.333276
+Coeff  9:  0.978909
+Coeff 10:  -1.309231
+Coeff 11:  -0.316274
+Coeff 12:  0.190635
+----------------------------------------
+File: 0_george_33.wav
+Audio size: 7318 bytes
+Feature size: 269 bytes
+Coeff  0:  13.260210
+Coeff  1:  -1.562492
+Coeff  2:  6.205120
+Coeff  3:  1.169509
+Coeff  4:  -5.717745
+Coeff  5:  -6.084176
+Coeff  6:  -2.546051
+Coeff  7:  -3.975638
+Coeff  8:  -1.757228
+Coeff  9:  0.663441
+Coeff 10:  -1.413814
+Coeff 11:  -1.086574
+Coeff 12:  -1.881601
+----------------------------------------
+File: 0_george_34.wav
+Audio size: 7242 bytes
+Feature size: 267 bytes
+Coeff  0:  16.673271
+Coeff  1:  -0.897810
+Coeff  2:  6.216686
+Coeff  3:  0.336402
+Coeff  4:  -6.306481
+Coeff  5:  -4.755074
+Coeff  6:  -0.155324
+Coeff  7:  -1.349807
+Coeff  8:  0.209959
+Coeff  9:  1.644822
+Coeff 10:  -2.133422
+Coeff 11:  0.186207
+Coeff 12:  -0.496244
+----------------------------------------
+File: 0_george_35.wav
+Audio size: 6836 bytes
+Feature size: 268 bytes
+Coeff  0:  15.987615
+Coeff  1:  -1.368533
+Coeff  2:  6.008401
+Coeff  3:  0.803452
+Coeff  4:  -6.765814
+Coeff  5:  -5.465139
+Coeff  6:  -0.693627
+Coeff  7:  -1.732850
+Coeff  8:  -0.253085
+Coeff  9:  2.062152
+Coeff 10:  -1.430050
+Coeff 11:  0.292660
+Coeff 12:  -0.429629
+----------------------------------------
+File: 0_george_36.wav
+Audio size: 6540 bytes
+Feature size: 269 bytes
+Coeff  0:  14.405200
+Coeff  1:  -1.295083
+Coeff  2:  5.006868
+Coeff  3:  0.713647
+Coeff  4:  -5.696936
+Coeff  5:  -6.256451
+Coeff  6:  -2.266790
+Coeff  7:  -3.828905
+Coeff  8:  -1.216306
+Coeff  9:  1.376485
+Coeff 10:  -1.446600
+Coeff 11:  -0.771735
+Coeff 12:  -1.710335
+----------------------------------------
+File: 0_george_37.wav
+Audio size: 5158 bytes
+Feature size: 266 bytes
+Coeff  0:  7.735884
+Coeff  1:  0.725137
+Coeff  2:  4.527054
+Coeff  3:  1.534223
+Coeff  4:  -5.516899
+Coeff  5:  -5.754272
+Coeff  6:  -0.331747
+Coeff  7:  -1.683736
+Coeff  8:  -0.522671
+Coeff  9:  0.905913
+Coeff 10:  -1.637458
+Coeff 11:  0.130635
+Coeff 12:  -0.060290
+----------------------------------------
+File: 0_george_38.wav
+Audio size: 5368 bytes
+Feature size: 267 bytes
+Coeff  0:  13.594823
+Coeff  1:  -1.201401
+Coeff  2:  5.898698
+Coeff  3:  1.213154
+Coeff  4:  -5.369285
+Coeff  5:  -4.600824
+Coeff  6:  -0.480208
+Coeff  7:  -2.160184
+Coeff  8:  -1.033100
+Coeff  9:  0.522501
+Coeff 10:  -2.323304
+Coeff 11:  0.226250
+Coeff 12:  0.600792
+----------------------------------------
+File: 0_george_39.wav
+Audio size: 5930 bytes
+Feature size: 268 bytes
+Coeff  0:  17.978903
+Coeff  1:  -1.425918
+Coeff  2:  5.644195
+Coeff  3:  0.973243
+Coeff  4:  -6.138520
+Coeff  5:  -4.894082
+Coeff  6:  -0.045499
+Coeff  7:  -1.250234
+Coeff  8:  -0.471441
+Coeff  9:  1.028881
+Coeff 10:  -1.934576
+Coeff 11:  -0.382281
+Coeff 12:  0.155356
+----------------------------------------
+File: 0_george_4.wav
+Audio size: 8646 bytes
+Feature size: 265 bytes
+Coeff  0:  5.672555
+Coeff  1:  1.020165
+Coeff  2:  6.692749
+Coeff  3:  1.184883
+Coeff  4:  -3.660952
+Coeff  5:  -5.392733
+Coeff  6:  0.113511
+Coeff  7:  -1.935516
+Coeff  8:  -0.505428
+Coeff  9:  1.691835
+Coeff 10:  -1.653931
+Coeff 11:  -0.051867
+Coeff 12:  0.173936
+----------------------------------------
+File: 0_george_40.wav
+Audio size: 8248 bytes
+Feature size: 266 bytes
+Coeff  0:  -6.557642
+Coeff  1:  4.974072
+Coeff  2:  5.161744
+Coeff  3:  1.083686
+Coeff  4:  -1.930366
+Coeff  5:  -3.032290
+Coeff  6:  1.101648
+Coeff  7:  -2.041388
+Coeff  8:  -1.154559
+Coeff  9:  0.381074
+Coeff 10:  -1.056002
+Coeff 11:  -0.576087
+Coeff 12:  0.933230
+----------------------------------------
+File: 0_george_41.wav
+Audio size: 6052 bytes
+Feature size: 269 bytes
+Coeff  0:  4.625242
+Coeff  1:  1.820022
+Coeff  2:  2.427513
+Coeff  3:  -0.230054
+Coeff  4:  -4.358416
+Coeff  5:  -8.142775
+Coeff  6:  -3.352982
+Coeff  7:  -2.847224
+Coeff  8:  -4.234637
+Coeff  9:  -0.928362
+Coeff 10:  -3.426370
+Coeff 11:  -3.297218
+Coeff 12:  -1.506989
+----------------------------------------
+File: 0_george_42.wav
+Audio size: 6818 bytes
+Feature size: 266 bytes
+Coeff  0:  4.061708
+Coeff  1:  0.639075
+Coeff  2:  5.008902
+Coeff  3:  1.703105
+Coeff  4:  -3.452589
+Coeff  5:  -5.963365
+Coeff  6:  -0.938821
+Coeff  7:  -1.231377
+Coeff  8:  -1.005141
+Coeff  9:  1.721054
+Coeff 10:  -0.600915
+Coeff 11:  -1.419625
+Coeff 12:  0.006929
+----------------------------------------
+File: 0_george_43.wav
+Audio size: 6600 bytes
+Feature size: 267 bytes
+Coeff  0:  9.670220
+Coeff  1:  -1.338271
+Coeff  2:  5.801423
+Coeff  3:  1.495915
+Coeff  4:  -4.005021
+Coeff  5:  -5.642306
+Coeff  6:  -0.082524
+Coeff  7:  -1.474974
+Coeff  8:  -0.855089
+Coeff  9:  2.367444
+Coeff 10:  -1.246421
+Coeff 11:  -0.322544
+Coeff 12:  0.293882
+----------------------------------------
+File: 0_george_44.wav
+Audio size: 7298 bytes
+Feature size: 265 bytes
+Coeff  0:  3.824827
+Coeff  1:  0.121748
+Coeff  2:  5.467143
+Coeff  3:  1.369240
+Coeff  4:  -3.535376
+Coeff  5:  -5.070190
+Coeff  6:  0.303837
+Coeff  7:  -0.893139
+Coeff  8:  -0.829479
+Coeff  9:  2.094767
+Coeff 10:  -1.141558
+Coeff 11:  -0.818242
+Coeff 12:  0.486520
+----------------------------------------
+File: 0_george_45.wav
+Audio size: 7994 bytes
+Feature size: 266 bytes
+Coeff  0:  -0.868169
+Coeff  1:  2.758882
+Coeff  2:  5.181934
+Coeff  3:  1.080909
+Coeff  4:  -2.085523
+Coeff  5:  -5.351592
+Coeff  6:  0.588149
+Coeff  7:  -0.295298
+Coeff  8:  -1.170114
+Coeff  9:  1.229227
+Coeff 10:  -0.963203
+Coeff 11:  -1.428582
+Coeff 12:  0.381449
+----------------------------------------
+File: 0_george_46.wav
+Audio size: 7466 bytes
+Feature size: 266 bytes
+Coeff  0:  8.728552
+Coeff  1:  0.044600
+Coeff  2:  5.602045
+Coeff  3:  0.547089
+Coeff  4:  -3.726679
+Coeff  5:  -5.387344
+Coeff  6:  -0.133640
+Coeff  7:  -0.820403
+Coeff  8:  -1.048513
+Coeff  9:  1.904500
+Coeff 10:  -1.734577
+Coeff 11:  -0.497844
+Coeff 12:  0.685279
+----------------------------------------
+File: 0_george_47.wav
+Audio size: 7770 bytes
+Feature size: 265 bytes
+Coeff  0:  1.631791
+Coeff  1:  1.551694
+Coeff  2:  5.031547
+Coeff  3:  1.446808
+Coeff  4:  -3.034246
+Coeff  5:  -4.116102
+Coeff  6:  0.815381
+Coeff  7:  -1.178583
+Coeff  8:  -0.980785
+Coeff  9:  1.843066
+Coeff 10:  -1.729554
+Coeff 11:  -0.503927
+Coeff 12:  0.197452
+----------------------------------------
+File: 0_george_48.wav
+Audio size: 8032 bytes
+Feature size: 265 bytes
+Coeff  0:  5.876166
+Coeff  1:  0.243161
+Coeff  2:  5.832968
+Coeff  3:  1.179848
+Coeff  4:  -3.340700
+Coeff  5:  -4.740874
+Coeff  6:  0.247502
+Coeff  7:  -0.943440
+Coeff  8:  -0.623381
+Coeff  9:  1.835320
+Coeff 10:  -1.443025
+Coeff 11:  -0.770792
+Coeff 12:  0.334557
+----------------------------------------
+File: 0_george_49.wav
+Audio size: 8164 bytes
+Feature size: 265 bytes
+Coeff  0:  5.347655
+Coeff  1:  0.787941
+Coeff  2:  5.314713
+Coeff  3:  0.929476
+Coeff  4:  -3.499208
+Coeff  5:  -5.372232
+Coeff  6:  0.070610
+Coeff  7:  -0.267914
+Coeff  8:  -1.091908
+Coeff  9:  2.098354
+Coeff 10:  -1.056297
+Coeff 11:  -0.867468
+Coeff 12:  0.243287
+----------------------------------------
+File: 0_george_5.wav
+Audio size: 10290 bytes
+Feature size: 266 bytes
+Coeff  0:  -9.357483
+Coeff  1:  4.283621
+Coeff  2:  6.418676
+Coeff  3:  1.078373
+Coeff  4:  -1.472248
+Coeff  5:  -4.873327
+Coeff  6:  1.013622
+Coeff  7:  -1.241249
+Coeff  8:  -1.330163
+Coeff  9:  0.486076
+Coeff 10:  -1.530273
+Coeff 11:  -1.079026
+Coeff 12:  1.114012
+----------------------------------------
+File: 0_george_6.wav
+Audio size: 10296 bytes
+Feature size: 266 bytes
+Coeff  0:  -5.273576
+Coeff  1:  4.858871
+Coeff  2:  6.665491
+Coeff  3:  1.597637
+Coeff  4:  -1.633093
+Coeff  5:  -4.234111
+Coeff  6:  0.051184
+Coeff  7:  -1.063691
+Coeff  8:  -2.304389
+Coeff  9:  0.521433
+Coeff 10:  -1.457364
+Coeff 11:  -0.610315
+Coeff 12:  1.731990
+----------------------------------------
+File: 0_george_7.wav
+Audio size: 10762 bytes
+Feature size: 266 bytes
+Coeff  0:  -3.977649
+Coeff  1:  4.054417
+Coeff  2:  6.591324
+Coeff  3:  1.986079
+Coeff  4:  -2.654362
+Coeff  5:  -4.370581
+Coeff  6:  0.305786
+Coeff  7:  -1.096423
+Coeff  8:  -1.364586
+Coeff  9:  0.789025
+Coeff 10:  -1.408123
+Coeff 11:  -1.217044
+Coeff 12:  0.963013
+----------------------------------------
+File: 0_george_8.wav
+Audio size: 8418 bytes
+Feature size: 265 bytes
+Coeff  0:  1.782637
+Coeff  1:  2.493515
+Coeff  2:  6.741448
+Coeff  3:  1.686469
+Coeff  4:  -3.177860
+Coeff  5:  -5.106267
+Coeff  6:  0.187654
+Coeff  7:  -1.665514
+Coeff  8:  -1.348713
+Coeff  9:  1.793816
+Coeff 10:  -1.022285
+Coeff 11:  -0.786381
+Coeff 12:  0.380668
+----------------------------------------
+File: 0_george_9.wav
+Audio size: 9204 bytes
+Feature size: 266 bytes
+Coeff  0:  -6.684713
+Coeff  1:  5.959288
+Coeff  2:  5.479136
+Coeff  3:  1.364861
+Coeff  4:  -2.172127
+Coeff  5:  -4.281574
+Coeff  6:  1.532290
+Coeff  7:  -1.046504
+Coeff  8:  -2.334243
+Coeff  9:  0.805529
+Coeff 10:  -0.670087
+Coeff 11:  -1.139711
+Coeff 12:  0.986601
+----------------------------------------
+File: 0_jackson_0.wav
+Audio size: 10296 bytes
+Feature size: 267 bytes
+Coeff  0:  0.600174
+Coeff  1:  12.278503
+Coeff  2:  5.073392
+Coeff  3:  0.952920
+Coeff  4:  -2.426019
+Coeff  5:  -2.111928
+Coeff  6:  -0.055208
+Coeff  7:  -0.730207
+Coeff  8:  -1.127426
+Coeff  9:  -0.235788
+Coeff 10:  2.186477
+Coeff 11:  -1.015355
+Coeff 12:  1.207209
+----------------------------------------
+File: 0_jackson_1.wav
+Audio size: 8522 bytes
+Feature size: 264 bytes
+Coeff  0:  5.034018
+Coeff  1:  8.774515
+Coeff  2:  9.626898
+Coeff  3:  -1.551354
+Coeff  4:  -5.340813
+Coeff  5:  0.901271
+Coeff  6:  -0.464388
+Coeff  7:  -2.247175
+Coeff  8:  -0.576932
+Coeff  9:  2.499627
+Coeff 10:  1.134212
+Coeff 11:  0.263414
+Coeff 12:  1.072004
+----------------------------------------
+File: 0_jackson_10.wav
+Audio size: 10902 bytes
+Feature size: 268 bytes
+Coeff  0:  -5.200879
+Coeff  1:  10.274923
+Coeff  2:  8.623583
+Coeff  3:  -1.006085
+Coeff  4:  -1.990378
+Coeff  5:  -1.660927
+Coeff  6:  -1.058974
+Coeff  7:  0.437610
+Coeff  8:  -1.263698
+Coeff  9:  -1.451380
+Coeff 10:  2.626522
+Coeff 11:  -0.929453
+Coeff 12:  0.995280
+----------------------------------------
+File: 0_jackson_11.wav
+Audio size: 9828 bytes
+Feature size: 266 bytes
+Coeff  0:  5.277423
+Coeff  1:  7.985606
+Coeff  2:  8.835312
+Coeff  3:  -1.179698
+Coeff  4:  -6.744386
+Coeff  5:  -0.043845
+Coeff  6:  -0.176827
+Coeff  7:  -0.359909
+Coeff  8:  -0.887565
+Coeff  9:  0.881075
+Coeff 10:  1.214353
+Coeff 11:  -1.013412
+Coeff 12:  1.158759
+----------------------------------------
+File: 0_jackson_12.wav
+Audio size: 8174 bytes
+Feature size: 264 bytes
+Coeff  0:  8.902948
+Coeff  1:  6.797182
+Coeff  2:  9.122117
+Coeff  3:  -1.397170
+Coeff  4:  -6.705785
+Coeff  5:  0.191025
+Coeff  6:  -0.614874
+Coeff  7:  -1.128912
+Coeff  8:  -0.739954
+Coeff  9:  1.718283
+Coeff 10:  1.560072
+Coeff 11:  0.523749
+Coeff 12:  0.739871
+----------------------------------------
+File: 0_jackson_13.wav
+Audio size: 9432 bytes
+Feature size: 269 bytes
+Coeff  0:  -12.980830
+Coeff  1:  10.319260
+Coeff  2:  9.964521
+Coeff  3:  -0.239160
+Coeff  4:  -3.322646
+Coeff  5:  -0.062354
+Coeff  6:  -1.377428
+Coeff  7:  -1.026324
+Coeff  8:  0.895649
+Coeff  9:  -1.624518
+Coeff 10:  2.089062
+Coeff 11:  -0.757775
+Coeff 12:  0.526749
+----------------------------------------
+File: 0_jackson_14.wav
+Audio size: 9964 bytes
+Feature size: 268 bytes
+Coeff  0:  -6.895791
+Coeff  1:  8.289225
+Coeff  2:  9.268366
+Coeff  3:  0.331830
+Coeff  4:  -3.196917
+Coeff  5:  -1.650634
+Coeff  6:  -1.092490
+Coeff  7:  -0.844511
+Coeff  8:  -0.612703
+Coeff  9:  -0.664105
+Coeff 10:  1.896281
+Coeff 11:  -0.914261
+Coeff 12:  -0.562391
+----------------------------------------
+File: 0_jackson_15.wav
+Audio size: 10220 bytes
+Feature size: 267 bytes
+Coeff  0:  -16.132040
+Coeff  1:  8.702481
+Coeff  2:  8.874388
+Coeff  3:  0.711330
+Coeff  4:  -1.676423
+Coeff  5:  -0.345357
+Coeff  6:  -2.009752
+Coeff  7:  -0.713606
+Coeff  8:  1.224014
+Coeff  9:  -0.885723
+Coeff 10:  1.830569
+Coeff 11:  -0.684889
+Coeff 12:  0.477900
+----------------------------------------
+File: 0_jackson_16.wav
+Audio size: 8846 bytes
+Feature size: 265 bytes
+Coeff  0:  9.106030
+Coeff  1:  7.887565
+Coeff  2:  8.373751
+Coeff  3:  -0.260555
+Coeff  4:  -6.720413
+Coeff  5:  -0.344136
+Coeff  6:  -0.596538
+Coeff  7:  -0.501820
+Coeff  8:  -1.248828
+Coeff  9:  1.623361
+Coeff 10:  1.042651
+Coeff 11:  0.368014
+Coeff 12:  1.034099
+----------------------------------------
+File: 0_jackson_17.wav
+Audio size: 8474 bytes
+Feature size: 266 bytes
+Coeff  0:  18.739271
+Coeff  1:  4.421520
+Coeff  2:  6.483238
+Coeff  3:  -0.374347
+Coeff  4:  -5.344123
+Coeff  5:  -2.585559
+Coeff  6:  -1.136462
+Coeff  7:  -1.664309
+Coeff  8:  0.225254
+Coeff  9:  1.586122
+Coeff 10:  2.299352
+Coeff 11:  -0.058536
+Coeff 12:  1.261719
+----------------------------------------
+File: 0_jackson_18.wav
+Audio size: 10470 bytes
+Feature size: 267 bytes
+Coeff  0:  -8.039896
+Coeff  1:  11.854205
+Coeff  2:  7.975117
+Coeff  3:  1.568336
+Coeff  4:  -3.837116
+Coeff  5:  -1.651996
+Coeff  6:  0.272179
+Coeff  7:  -1.548339
+Coeff  8:  -0.897377
+Coeff  9:  -1.025385
+Coeff 10:  2.709887
+Coeff 11:  -1.237711
+Coeff 12:  0.654411
+----------------------------------------
+File: 0_jackson_19.wav
+Audio size: 10206 bytes
+Feature size: 268 bytes
+Coeff  0:  -3.784245
+Coeff  1:  11.220598
+Coeff  2:  7.693759
+Coeff  3:  -0.148307
+Coeff  4:  -5.005300
+Coeff  5:  -0.899791
+Coeff  6:  -0.277589
+Coeff  7:  -0.386962
+Coeff  8:  -0.171291
+Coeff  9:  0.156269
+Coeff 10:  2.903501
+Coeff 11:  -1.759355
+Coeff 12:  0.347158
+----------------------------------------
+File: 0_jackson_2.wav
+Audio size: 8514 bytes
+Feature size: 263 bytes
+Coeff  0:  6.954655
+Coeff  1:  9.738098
+Coeff  2:  8.656867
+Coeff  3:  -1.799652
+Coeff  4:  -7.234396
+Coeff  5:  0.873105
+Coeff  6:  -1.159160
+Coeff  7:  -2.153580
+Coeff  8:  0.153685
+Coeff  9:  2.212555
+Coeff 10:  1.305661
+Coeff 11:  0.815294
+Coeff 12:  1.508163
+----------------------------------------
+File: 0_jackson_20.wav
+Audio size: 9940 bytes
+Feature size: 266 bytes
+Coeff  0:  -14.904432
+Coeff  1:  9.983725
+Coeff  2:  9.108058
+Coeff  3:  -1.399687
+Coeff  4:  -0.961139
+Coeff  5:  -0.999149
+Coeff  6:  -0.150765
+Coeff  7:  0.766121
+Coeff  8:  1.133135
+Coeff  9:  0.729320
+Coeff 10:  2.116849
+Coeff 11:  -0.751159
+Coeff 12:  0.813276
+----------------------------------------
+File: 0_jackson_21.wav
+Audio size: 9594 bytes
+Feature size: 265 bytes
+Coeff  0:  -7.541955
+Coeff  1:  8.536312
+Coeff  2:  8.530986
+Coeff  3:  -0.618358
+Coeff  4:  -3.129361
+Coeff  5:  -0.923369
+Coeff  6:  0.791720
+Coeff  7:  -1.028554
+Coeff  8:  0.041994
+Coeff  9:  -0.698838
+Coeff 10:  2.838733
+Coeff 11:  0.160933
+Coeff 12:  0.003494
+----------------------------------------
+File: 0_jackson_22.wav
+Audio size: 9652 bytes
+Feature size: 267 bytes
+Coeff  0:  -7.195263
+Coeff  1:  8.508846
+Coeff  2:  9.526254
+Coeff  3:  -1.007605
+Coeff  4:  -3.625524
+Coeff  5:  -0.119645
+Coeff  6:  -0.146575
+Coeff  7:  -0.624432
+Coeff  8:  -0.626710
+Coeff  9:  0.216697
+Coeff 10:  1.765200
+Coeff 11:  -0.549931
+Coeff 12:  1.435929
+----------------------------------------
+File: 0_jackson_23.wav
+Audio size: 9440 bytes
+Feature size: 268 bytes
+Coeff  0:  -7.231308
+Coeff  1:  7.227412
+Coeff  2:  10.119974
+Coeff  3:  -1.606385
+Coeff  4:  -3.249418
+Coeff  5:  0.140329
+Coeff  6:  -0.604060
+Coeff  7:  -0.360314
+Coeff  8:  -0.795380
+Coeff  9:  -0.376184
+Coeff 10:  3.120521
+Coeff 11:  -0.811330
+Coeff 12:  0.640818
+----------------------------------------
+File: 0_jackson_24.wav
+Audio size: 10272 bytes
+Feature size: 267 bytes
+Coeff  0:  -20.034883
+Coeff  1:  10.872842
+Coeff  2:  9.975620
+Coeff  3:  -1.565566
+Coeff  4:  -0.293774
+Coeff  5:  -2.786032
+Coeff  6:  0.042277
+Coeff  7:  -0.703488
+Coeff  8:  -0.483151
+Coeff  9:  0.161616
+Coeff 10:  1.118106
+Coeff 11:  0.254697
+Coeff 12:  0.183032
+----------------------------------------
+File: 0_jackson_25.wav
+Audio size: 9884 bytes
+Feature size: 268 bytes
+Coeff  0:  -12.985329
+Coeff  1:  11.204468
+Coeff  2:  9.865753
+Coeff  3:  -0.970467
+Coeff  4:  -3.609559
+Coeff  5:  0.098178
+Coeff  6:  0.092713
+Coeff  7:  -0.739091
+Coeff  8:  -0.454241
+Coeff  9:  -1.188777
+Coeff 10:  2.498581
+Coeff 11:  -0.638786
+Coeff 12:  0.787929
+----------------------------------------
+File: 0_jackson_26.wav
+Audio size: 9326 bytes
+Feature size: 264 bytes
+Coeff  0:  8.249977
+Coeff  1:  4.738285
+Coeff  2:  6.413815
+Coeff  3:  2.634322
+Coeff  4:  -5.051727
+Coeff  5:  -1.298483
+Coeff  6:  0.141954
+Coeff  7:  -2.063505
+Coeff  8:  -1.317089
+Coeff  9:  0.449641
+Coeff 10:  0.702185
+Coeff 11:  -1.597018
+Coeff 12:  0.539646
+----------------------------------------
+File: 0_jackson_27.wav
+Audio size: 10330 bytes
+Feature size: 267 bytes
+Coeff  0:  -11.378084
+Coeff  1:  9.611065
+Coeff  2:  8.689699
+Coeff  3:  -0.510004
+Coeff  4:  -1.104038
+Coeff  5:  -2.598152
+Coeff  6:  0.894516
+Coeff  7:  -0.628554
+Coeff  8:  0.507705
+Coeff  9:  0.165355
+Coeff 10:  0.848264
+Coeff 11:  -0.174381
+Coeff 12:  -0.622237
+----------------------------------------
+File: 0_jackson_28.wav
+Audio size: 10288 bytes
+Feature size: 266 bytes
+Coeff  0:  -10.697514
+Coeff  1:  8.916285
+Coeff  2:  9.636264
+Coeff  3:  0.034011
+Coeff  4:  -0.935048
+Coeff  5:  -4.326484
+Coeff  6:  1.995872
+Coeff  7:  -0.680784
+Coeff  8:  0.218048
+Coeff  9:  0.468877
+Coeff 10:  0.712034
+Coeff 11:  -1.434087
+Coeff 12:  -0.328971
+----------------------------------------
+File: 0_jackson_29.wav
+Audio size: 9242 bytes
+Feature size: 265 bytes
+Coeff  0:  -8.560287
+Coeff  1:  9.083191
+Coeff  2:  8.801689
+Coeff  3:  -0.307203
+Coeff  4:  -2.466455
+Coeff  5:  -2.472498
+Coeff  6:  1.469768
+Coeff  7:  -1.746691
+Coeff  8:  0.439604
+Coeff  9:  0.328629
+Coeff 10:  0.703308
+Coeff 11:  -1.346353
+Coeff 12:  0.063094
+----------------------------------------
+File: 0_jackson_3.wav
+Audio size: 9576 bytes
+Feature size: 267 bytes
+Coeff  0:  -8.703242
+Coeff  1:  9.448463
+Coeff  2:  11.654670
+Coeff  3:  -2.304830
+Coeff  4:  -3.576272
+Coeff  5:  -0.685263
+Coeff  6:  -0.546288
+Coeff  7:  0.334059
+Coeff  8:  0.630114
+Coeff  9:  -0.874011
+Coeff 10:  2.294921
+Coeff 11:  -0.218034
+Coeff 12:  0.179378
+----------------------------------------
+File: 0_jackson_30.wav
+Audio size: 10240 bytes
+Feature size: 268 bytes
+Coeff  0:  -15.352599
+Coeff  1:  12.609353
+Coeff  2:  6.980690
+Coeff  3:  0.187377
+Coeff  4:  -1.435999
+Coeff  5:  -1.927746
+Coeff  6:  0.580231
+Coeff  7:  -1.341133
+Coeff  8:  0.744613
+Coeff  9:  -0.771456
+Coeff 10:  0.567474
+Coeff 11:  -0.587176
+Coeff 12:  -0.031365
+----------------------------------------
+File: 0_jackson_31.wav
+Audio size: 9142 bytes
+Feature size: 265 bytes
+Coeff  0:  -5.228702
+Coeff  1:  7.775640
+Coeff  2:  8.627443
+Coeff  3:  0.821906
+Coeff  4:  -3.440386
+Coeff  5:  -1.692736
+Coeff  6:  0.769857
+Coeff  7:  -1.611634
+Coeff  8:  -0.318374
+Coeff  9:  1.036168
+Coeff 10:  1.124778
+Coeff 11:  -1.369225
+Coeff 12:  0.415760
+----------------------------------------
+File: 0_jackson_32.wav
+Audio size: 9878 bytes
+Feature size: 266 bytes
+Coeff  0:  -0.940604
+Coeff  1:  8.183279
+Coeff  2:  5.628949
+Coeff  3:  2.924543
+Coeff  4:  -4.278795
+Coeff  5:  -3.272480
+Coeff  6:  1.579204
+Coeff  7:  -1.160672
+Coeff  8:  -1.279842
+Coeff  9:  -1.074858
+Coeff 10:  2.773345
+Coeff 11:  -1.021734
+Coeff 12:  0.270892
+----------------------------------------
+File: 0_jackson_33.wav
+Audio size: 10636 bytes
+Feature size: 269 bytes
+Coeff  0:  -13.412819
+Coeff  1:  10.641836
+Coeff  2:  8.468451
+Coeff  3:  -0.285373
+Coeff  4:  -1.374793
+Coeff  5:  -2.089842
+Coeff  6:  0.994091
+Coeff  7:  -1.024369
+Coeff  8:  0.732506
+Coeff  9:  -0.581987
+Coeff 10:  0.894020
+Coeff 11:  -0.793701
+Coeff 12:  -0.760034
+----------------------------------------
+File: 0_jackson_34.wav
+Audio size: 10532 bytes
+Feature size: 268 bytes
+Coeff  0:  -11.116722
+Coeff  1:  9.463305
+Coeff  2:  7.689214
+Coeff  3:  0.025384
+Coeff  4:  -0.762794
+Coeff  5:  -3.358386
+Coeff  6:  1.678445
+Coeff  7:  -0.968620
+Coeff  8:  -0.047511
+Coeff  9:  -0.153544
+Coeff 10:  1.203520
+Coeff 11:  -1.213048
+Coeff 12:  -0.717278
+----------------------------------------
+File: 0_jackson_35.wav
+Audio size: 10030 bytes
+Feature size: 265 bytes
+Coeff  0:  -1.149419
+Coeff  1:  7.653597
+Coeff  2:  7.507048
+Coeff  3:  0.304340
+Coeff  4:  -2.626542
+Coeff  5:  -3.432296
+Coeff  6:  2.576593
+Coeff  7:  -1.498503
+Coeff  8:  -1.108562
+Coeff  9:  0.455630
+Coeff 10:  1.857739
+Coeff 11:  -1.538711
+Coeff 12:  0.178947
+----------------------------------------
+File: 0_jackson_36.wav
+Audio size: 9564 bytes
+Feature size: 264 bytes
+Coeff  0:  0.352117
+Coeff  1:  6.749259
+Coeff  2:  8.405828
+Coeff  3:  1.488233
+Coeff  4:  -5.268754
+Coeff  5:  -1.209897
+Coeff  6:  0.893559
+Coeff  7:  -1.742402
+Coeff  8:  -1.461747
+Coeff  9:  0.519250
+Coeff 10:  1.834315
+Coeff 11:  -1.631750
+Coeff 12:  0.692401
+----------------------------------------
+File: 0_jackson_37.wav
+Audio size: 9958 bytes
+Feature size: 264 bytes
+Coeff  0:  0.030080
+Coeff  1:  8.562751
+Coeff  2:  6.148041
+Coeff  3:  2.181842
+Coeff  4:  -3.281580
+Coeff  5:  -3.835157
+Coeff  6:  2.442939
+Coeff  7:  -1.759237
+Coeff  8:  -1.574319
+Coeff  9:  0.748053
+Coeff 10:  2.637802
+Coeff 11:  -1.605121
+Coeff 12:  0.166225
+----------------------------------------
+File: 0_jackson_38.wav
+Audio size: 10554 bytes
+Feature size: 269 bytes
+Coeff  0:  -10.077950
+Coeff  1:  11.761733
+Coeff  2:  7.320405
+Coeff  3:  0.710706
+Coeff  4:  -1.166168
+Coeff  5:  -4.296658
+Coeff  6:  1.852265
+Coeff  7:  -1.155099
+Coeff  8:  -0.423876
+Coeff  9:  -0.182738
+Coeff 10:  1.529633
+Coeff 11:  -0.973003
+Coeff 12:  -0.142337
+----------------------------------------
+File: 0_jackson_39.wav
+Audio size: 9296 bytes
+Feature size: 265 bytes
+Coeff  0:  -1.422421
+Coeff  1:  7.285449
+Coeff  2:  7.889188
+Coeff  3:  1.555735
+Coeff  4:  -5.049468
+Coeff  5:  -3.024764
+Coeff  6:  2.104705
+Coeff  7:  -1.984553
+Coeff  8:  -0.953713
+Coeff  9:  0.559308
+Coeff 10:  1.445419
+Coeff 11:  -1.176409
+Coeff 12:  1.201216
+----------------------------------------
+File: 0_jackson_4.wav
+Audio size: 8658 bytes
+Feature size: 265 bytes
+Coeff  0:  2.196512
+Coeff  1:  9.780407
+Coeff  2:  8.677369
+Coeff  3:  -0.880587
+Coeff  4:  -6.362875
+Coeff  5:  -0.335951
+Coeff  6:  0.152442
+Coeff  7:  -0.744533
+Coeff  8:  -0.533884
+Coeff  9:  1.071364
+Coeff 10:  1.336485
+Coeff 11:  -1.463042
+Coeff 12:  1.184957
+----------------------------------------
+File: 0_jackson_40.wav
+Audio size: 11422 bytes
+Feature size: 267 bytes
+Coeff  0:  -9.714334
+Coeff  1:  15.623410
+Coeff  2:  5.115396
+Coeff  3:  0.700438
+Coeff  4:  -1.400696
+Coeff  5:  -2.319060
+Coeff  6:  1.861440
+Coeff  7:  -0.679626
+Coeff  8:  0.050749
+Coeff  9:  -0.669911
+Coeff 10:  1.736327
+Coeff 11:  -1.222958
+Coeff 12:  -0.353032
+----------------------------------------
+File: 0_jackson_41.wav
+Audio size: 11020 bytes
+Feature size: 268 bytes
+Coeff  0:  -11.930908
+Coeff  1:  15.774088
+Coeff  2:  8.399079
+Coeff  3:  -0.613862
+Coeff  4:  -0.127784
+Coeff  5:  -1.869307
+Coeff  6:  1.051260
+Coeff  7:  -1.117432
+Coeff  8:  0.572411
+Coeff  9:  -0.706635
+Coeff 10:  0.603944
+Coeff 11:  -1.291987
+Coeff 12:  0.333017
+----------------------------------------
+File: 0_jackson_42.wav
+Audio size: 10576 bytes
+Feature size: 268 bytes
+Coeff  0:  -15.978755
+Coeff  1:  15.213113
+Coeff  2:  9.564034
+Coeff  3:  -0.690411
+Coeff  4:  0.004684
+Coeff  5:  -2.811715
+Coeff  6:  1.020633
+Coeff  7:  -1.050359
+Coeff  8:  1.328512
+Coeff  9:  -0.891089
+Coeff 10:  -0.122233
+Coeff 11:  -0.462480
+Coeff 12:  0.175088
+----------------------------------------
+File: 0_jackson_43.wav
+Audio size: 9998 bytes
+Feature size: 267 bytes
+Coeff  0:  -8.673159
+Coeff  1:  12.411476
+Coeff  2:  9.012096
+Coeff  3:  -0.154065
+Coeff  4:  -0.983624
+Coeff  5:  -2.970898
+Coeff  6:  2.061529
+Coeff  7:  -1.233175
+Coeff  8:  0.432102
+Coeff  9:  -0.143439
+Coeff 10:  0.283421
+Coeff 11:  -1.743882
+Coeff 12:  0.450754
+----------------------------------------
+File: 0_jackson_44.wav
+Audio size: 10640 bytes
+Feature size: 267 bytes
+Coeff  0:  -13.540627
+Coeff  1:  15.307802
+Coeff  2:  8.963490
+Coeff  3:  0.161024
+Coeff  4:  -0.794520
+Coeff  5:  -3.972084
+Coeff  6:  1.628656
+Coeff  7:  -0.744980
+Coeff  8:  0.558344
+Coeff  9:  -0.666080
+Coeff 10:  0.424502
+Coeff 11:  -1.397942
+Coeff 12:  0.243497
+----------------------------------------
+File: 0_jackson_45.wav
+Audio size: 10518 bytes
+Feature size: 267 bytes
+Coeff  0:  -16.317200
+Coeff  1:  18.085302
+Coeff  2:  7.669302
+Coeff  3:  0.397228
+Coeff  4:  -0.361588
+Coeff  5:  -1.949187
+Coeff  6:  0.043118
+Coeff  7:  -0.625909
+Coeff  8:  0.134846
+Coeff  9:  -0.821761
+Coeff 10:  0.290594
+Coeff 11:  -0.842473
+Coeff 12:  0.235248
+----------------------------------------
+File: 0_jackson_46.wav
+Audio size: 10788 bytes
+Feature size: 270 bytes
+Coeff  0:  -21.347013
+Coeff  1:  15.935343
+Coeff  2:  7.304386
+Coeff  3:  1.802532
+Coeff  4:  -0.968751
+Coeff  5:  -1.308451
+Coeff  6:  -0.695423
+Coeff  7:  -0.186418
+Coeff  8:  0.780690
+Coeff  9:  -0.627478
+Coeff 10:  -0.084454
+Coeff 11:  -0.531519
+Coeff 12:  -0.501031
+----------------------------------------
+File: 0_jackson_47.wav
+Audio size: 10656 bytes
+Feature size: 267 bytes
+Coeff  0:  -15.977581
+Coeff  1:  13.134624
+Coeff  2:  7.486011
+Coeff  3:  1.859452
+Coeff  4:  -0.203895
+Coeff  5:  -3.973013
+Coeff  6:  1.855711
+Coeff  7:  -1.229919
+Coeff  8:  0.284521
+Coeff  9:  0.708339
+Coeff 10:  -0.869357
+Coeff 11:  -1.838591
+Coeff 12:  0.905826
+----------------------------------------
+File: 0_jackson_48.wav
+Audio size: 10374 bytes
+Feature size: 267 bytes
+Coeff  0:  -12.220478
+Coeff  1:  16.108702
+Coeff  2:  8.492735
+Coeff  3:  0.395657
+Coeff  4:  -0.491951
+Coeff  5:  -2.651957
+Coeff  6:  0.709652
+Coeff  7:  -1.335263
+Coeff  8:  0.631679
+Coeff  9:  -0.615619
+Coeff 10:  0.609545
+Coeff 11:  -1.543966
+Coeff 12:  0.942702
+----------------------------------------
+File: 0_jackson_49.wav
+Audio size: 12546 bytes
+Feature size: 268 bytes
+Coeff  0:  -14.655456
+Coeff  1:  16.193254
+Coeff  2:  8.732268
+Coeff  3:  -0.309329
+Coeff  4:  -1.156419
+Coeff  5:  -2.157397
+Coeff  6:  1.309339
+Coeff  7:  -0.238037
+Coeff  8:  0.607621
+Coeff  9:  -0.963224
+Coeff 10:  0.469591
+Coeff 11:  -0.952479
+Coeff 12:  0.381569
+----------------------------------------
+File: 0_jackson_5.wav
+Audio size: 9182 bytes
+Feature size: 267 bytes
+Coeff  0:  -0.646290
+Coeff  1:  10.171669
+Coeff  2:  8.551716
+Coeff  3:  -2.047499
+Coeff  4:  -3.438621
+Coeff  5:  -1.313819
+Coeff  6:  0.498893
+Coeff  7:  -0.656598
+Coeff  8:  -0.694104
+Coeff  9:  0.049619
+Coeff 10:  2.639525
+Coeff 11:  -1.197201
+Coeff 12:  1.005669
+----------------------------------------
+File: 0_jackson_6.wav
+Audio size: 10104 bytes
+Feature size: 265 bytes
+Coeff  0:  -10.300071
+Coeff  1:  8.985044
+Coeff  2:  10.612562
+Coeff  3:  -2.652167
+Coeff  4:  -3.622847
+Coeff  5:  0.764919
+Coeff  6:  0.070876
+Coeff  7:  -0.243820
+Coeff  8:  0.228222
+Coeff  9:  0.122236
+Coeff 10:  2.480682
+Coeff 11:  0.091890
+Coeff 12:  0.316510
+----------------------------------------
+File: 0_jackson_7.wav
+Audio size: 8862 bytes
+Feature size: 265 bytes
+Coeff  0:  11.322471
+Coeff  1:  7.396465
+Coeff  2:  7.020421
+Coeff  3:  -1.216977
+Coeff  4:  -5.659668
+Coeff  5:  0.346906
+Coeff  6:  -0.431508
+Coeff  7:  -1.772207
+Coeff  8:  -0.735685
+Coeff  9:  2.103556
+Coeff 10:  1.532901
+Coeff 11:  0.405135
+Coeff 12:  0.643620
+----------------------------------------
+File: 0_jackson_8.wav
+Audio size: 9258 bytes
+Feature size: 265 bytes
+Coeff  0:  -7.249058
+Coeff  1:  8.146916
+Coeff  2:  9.738152
+Coeff  3:  0.077312
+Coeff  4:  -4.706885
+Coeff  5:  -0.259013
+Coeff  6:  0.799934
+Coeff  7:  -1.187280
+Coeff  8:  0.347584
+Coeff  9:  -0.154894
+Coeff 10:  1.523796
+Coeff 11:  -1.540466
+Coeff 12:  1.077204
+----------------------------------------
+File: 0_jackson_9.wav
+Audio size: 10130 bytes
+Feature size: 265 bytes
+Coeff  0:  -6.226606
+Coeff  1:  9.836980
+Coeff  2:  9.160263
+Coeff  3:  -1.499752
+Coeff  4:  -4.379445
+Coeff  5:  0.577892
+Coeff  6:  0.555469
+Coeff  7:  -1.347516
+Coeff  8:  0.399475
+Coeff  9:  -0.162894
+Coeff 10:  2.447820
+Coeff 11:  -0.440212
+Coeff 12:  0.611272
+----------------------------------------
+File: 0_lucas_0.wav
+Audio size: 10166 bytes
+Feature size: 265 bytes
+Coeff  0:  -43.063015
+Coeff  1:  -0.888565
+Coeff  2:  2.614697
+Coeff  3:  2.020388
+Coeff  4:  -1.147421
+Coeff  5:  2.260149
+Coeff  6:  -0.110270
+Coeff  7:  0.347914
+Coeff  8:  0.524493
+Coeff  9:  0.288175
+Coeff 10:  -0.028612
+Coeff 11:  0.402127
+Coeff 12:  0.147315
+----------------------------------------
+File: 0_lucas_1.wav
+Audio size: 10950 bytes
+Feature size: 266 bytes
+Coeff  0:  -42.812675
+Coeff  1:  0.707887
+Coeff  2:  1.205483
+Coeff  3:  -0.081530
+Coeff  4:  -2.177106
+Coeff  5:  0.824849
+Coeff  6:  -0.253204
+Coeff  7:  0.617699
+Coeff  8:  0.457950
+Coeff  9:  -0.696006
+Coeff 10:  0.162384
+Coeff 11:  -0.398482
+Coeff 12:  0.165946
+----------------------------------------
+File: 0_lucas_10.wav
+Audio size: 8028 bytes
+Feature size: 268 bytes
+Coeff  0:  -11.260336
+Coeff  1:  -1.046276
+Coeff  2:  2.385391
+Coeff  3:  0.289873
+Coeff  4:  -1.758031
+Coeff  5:  0.229295
+Coeff  6:  -0.895496
+Coeff  7:  0.742668
+Coeff  8:  -0.424755
+Coeff  9:  -0.242555
+Coeff 10:  0.198729
+Coeff 11:  -0.029559
+Coeff 12:  -0.448362
+----------------------------------------
+File: 0_lucas_11.wav
+Audio size: 8546 bytes
+Feature size: 262 bytes
+Coeff  0:  -9.373504
+Coeff  1:  -1.770371
+Coeff  2:  5.218609
+Coeff  3:  1.963068
+Coeff  4:  0.924301
+Coeff  5:  2.425315
+Coeff  6:  -0.525470
+Coeff  7:  1.633462
+Coeff  8:  0.035711
+Coeff  9:  0.987595
+Coeff 10:  0.697110
+Coeff 11:  0.455142
+Coeff 12:  0.028977
+----------------------------------------
+File: 0_lucas_12.wav
+Audio size: 8688 bytes
+Feature size: 267 bytes
+Coeff  0:  -16.044601
+Coeff  1:  -3.518336
+Coeff  2:  2.367565
+Coeff  3:  -0.299446
+Coeff  4:  -2.110046
+Coeff  5:  0.158938
+Coeff  6:  -0.884773
+Coeff  7:  0.572219
+Coeff  8:  -0.450192
+Coeff  9:  0.212104
+Coeff 10:  0.079959
+Coeff 11:  0.198238
+Coeff 12:  -0.358475
+----------------------------------------
+File: 0_lucas_13.wav
+Audio size: 9472 bytes
+Feature size: 267 bytes
+Coeff  0:  -19.778826
+Coeff  1:  -2.840971
+Coeff  2:  1.315350
+Coeff  3:  -0.283448
+Coeff  4:  -1.176129
+Coeff  5:  0.671063
+Coeff  6:  -1.486325
+Coeff  7:  0.807702
+Coeff  8:  -0.434292
+Coeff  9:  -0.033096
+Coeff 10:  0.330383
+Coeff 11:  0.144345
+Coeff 12:  0.296008
+----------------------------------------
+File: 0_lucas_14.wav
+Audio size: 8872 bytes
+Feature size: 268 bytes
+Coeff  0:  -24.093420
+Coeff  1:  -1.393880
+Coeff  2:  1.722146
+Coeff  3:  1.036328
+Coeff  4:  -1.723357
+Coeff  5:  1.097300
+Coeff  6:  -0.619085
+Coeff  7:  -0.148257
+Coeff  8:  -1.041532
+Coeff  9:  -0.113841
+Coeff 10:  0.027259
+Coeff 11:  0.049034
+Coeff 12:  -0.195738
+----------------------------------------
+File: 0_lucas_15.wav
+Audio size: 10038 bytes
+Feature size: 265 bytes
+Coeff  0:  -42.643845
+Coeff  1:  -4.034496
+Coeff  2:  1.844579
+Coeff  3:  2.841308
+Coeff  4:  -2.623949
+Coeff  5:  1.128630
+Coeff  6:  0.766597
+Coeff  7:  -0.292716
+Coeff  8:  0.557501
+Coeff  9:  0.353262
+Coeff 10:  -0.276721
+Coeff 11:  0.179743
+Coeff 12:  0.079435
+----------------------------------------
+File: 0_lucas_16.wav
+Audio size: 9566 bytes
+Feature size: 267 bytes
+Coeff  0:  -31.193588
+Coeff  1:  2.741208
+Coeff  2:  1.386610
+Coeff  3:  1.123661
+Coeff  4:  -1.372752
+Coeff  5:  1.304029
+Coeff  6:  -0.279214
+Coeff  7:  1.621542
+Coeff  8:  -0.266014
+Coeff  9:  0.451069
+Coeff 10:  -0.061923
+Coeff 11:  -0.897707
+Coeff 12:  -0.887635
+----------------------------------------
+File: 0_lucas_17.wav
+Audio size: 10152 bytes
+Feature size: 267 bytes
+Coeff  0:  -26.414146
+Coeff  1:  0.446573
+Coeff  2:  2.777443
+Coeff  3:  0.493724
+Coeff  4:  -0.908994
+Coeff  5:  0.626653
+Coeff  6:  -0.371594
+Coeff  7:  1.248127
+Coeff  8:  -0.629109
+Coeff  9:  -0.089155
+Coeff 10:  -0.328394
+Coeff 11:  -0.295388
+Coeff 12:  0.074618
+----------------------------------------
+File: 0_lucas_18.wav
+Audio size: 9792 bytes
+Feature size: 265 bytes
+Coeff  0:  -25.200855
+Coeff  1:  1.085578
+Coeff  2:  0.122368
+Coeff  3:  1.067073
+Coeff  4:  -2.626815
+Coeff  5:  0.748165
+Coeff  6:  0.436173
+Coeff  7:  0.621300
+Coeff  8:  -1.665905
+Coeff  9:  -0.323825
+Coeff 10:  0.816829
+Coeff 11:  -0.512365
+Coeff 12:  0.163931
+----------------------------------------
+File: 0_lucas_19.wav
+Audio size: 10042 bytes
+Feature size: 267 bytes
+Coeff  0:  -29.577332
+Coeff  1:  -1.955139
+Coeff  2:  0.733021
+Coeff  3:  2.005426
+Coeff  4:  -0.189607
+Coeff  5:  0.551972
+Coeff  6:  -1.474874
+Coeff  7:  2.234635
+Coeff  8:  -0.449991
+Coeff  9:  -0.320633
+Coeff 10:  0.264182
+Coeff 11:  0.139779
+Coeff 12:  -0.135442
+----------------------------------------
+File: 0_lucas_2.wav
+Audio size: 11740 bytes
+Feature size: 266 bytes
+Coeff  0:  -14.295699
+Coeff  1:  -5.044974
+Coeff  2:  2.133268
+Coeff  3:  0.635775
+Coeff  4:  -1.183174
+Coeff  5:  1.093290
+Coeff  6:  -0.978348
+Coeff  7:  0.470908
+Coeff  8:  -0.163607
+Coeff  9:  0.578352
+Coeff 10:  0.110767
+Coeff 11:  -0.098302
+Coeff 12:  0.318682
+----------------------------------------
+File: 0_lucas_20.wav
+Audio size: 10314 bytes
+Feature size: 266 bytes
+Coeff  0:  -38.302586
+Coeff  1:  1.734811
+Coeff  2:  2.545672
+Coeff  3:  1.068093
+Coeff  4:  -0.563997
+Coeff  5:  1.243509
+Coeff  6:  0.124220
+Coeff  7:  -0.165602
+Coeff  8:  -0.970634
+Coeff  9:  1.291685
+Coeff 10:  -0.444273
+Coeff 11:  -0.509680
+Coeff 12:  0.506982
+----------------------------------------
+File: 0_lucas_21.wav
+Audio size: 10044 bytes
+Feature size: 265 bytes
+Coeff  0:  -11.065953
+Coeff  1:  1.513466
+Coeff  2:  0.553262
+Coeff  3:  0.225768
+Coeff  4:  -1.925980
+Coeff  5:  1.145728
+Coeff  6:  -0.411926
+Coeff  7:  1.162135
+Coeff  8:  -0.288377
+Coeff  9:  1.047885
+Coeff 10:  0.143298
+Coeff 11:  -0.758327
+Coeff 12:  0.212205
+----------------------------------------
+File: 0_lucas_22.wav
+Audio size: 8790 bytes
+Feature size: 263 bytes
+Coeff  0:  -14.201356
+Coeff  1:  -1.067394
+Coeff  2:  3.159913
+Coeff  3:  1.789204
+Coeff  4:  -1.024368
+Coeff  5:  1.472642
+Coeff  6:  0.558231
+Coeff  7:  1.329998
+Coeff  8:  0.050042
+Coeff  9:  1.217451
+Coeff 10:  0.837211
+Coeff 11:  0.249599
+Coeff 12:  0.485372
+----------------------------------------
+File: 0_lucas_23.wav
+Audio size: 8474 bytes
+Feature size: 266 bytes
+Coeff  0:  -5.420082
+Coeff  1:  -2.715336
+Coeff  2:  0.042729
+Coeff  3:  1.068494
+Coeff  4:  -1.968146
+Coeff  5:  0.531165
+Coeff  6:  -0.969226
+Coeff  7:  0.640282
+Coeff  8:  -0.379401
+Coeff  9:  0.677218
+Coeff 10:  0.251552
+Coeff 11:  -0.570346
+Coeff 12:  -0.008392
+----------------------------------------
+File: 0_lucas_24.wav
+Audio size: 15858 bytes
+Feature size: 269 bytes
+Coeff  0:  -10.899114
+Coeff  1:  -1.203958
+Coeff  2:  2.119469
+Coeff  3:  -0.098940
+Coeff  4:  -1.876115
+Coeff  5:  0.938341
+Coeff  6:  -0.566937
+Coeff  7:  0.195582
+Coeff  8:  -0.579109
+Coeff  9:  0.798381
+Coeff 10:  -0.048379
+Coeff 11:  -0.461137
+Coeff 12:  -0.089108
+----------------------------------------
+File: 0_lucas_25.wav
+Audio size: 9606 bytes
+Feature size: 265 bytes
+Coeff  0:  -11.514846
+Coeff  1:  1.531156
+Coeff  2:  2.937734
+Coeff  3:  1.621895
+Coeff  4:  -1.783952
+Coeff  5:  1.315926
+Coeff  6:  -0.702065
+Coeff  7:  0.817902
+Coeff  8:  -0.355076
+Coeff  9:  0.164669
+Coeff 10:  0.170739
+Coeff 11:  -0.629365
+Coeff 12:  0.079248
+----------------------------------------
+File: 0_lucas_26.wav
+Audio size: 8562 bytes
+Feature size: 268 bytes
+Coeff  0:  -10.631338
+Coeff  1:  -1.919803
+Coeff  2:  1.857941
+Coeff  3:  -0.004078
+Coeff  4:  -1.389308
+Coeff  5:  -0.063352
+Coeff  6:  -0.790931
+Coeff  7:  0.878995
+Coeff  8:  -0.748081
+Coeff  9:  0.059962
+Coeff 10:  0.276027
+Coeff 11:  -0.051159
+Coeff 12:  0.430872
+----------------------------------------
+File: 0_lucas_27.wav
+Audio size: 14374 bytes
+Feature size: 267 bytes
+Coeff  0:  -44.921257
+Coeff  1:  -0.006070
+Coeff  2:  1.714065
+Coeff  3:  0.758174
+Coeff  4:  -0.098698
+Coeff  5:  1.334937
+Coeff  6:  -0.088158
+Coeff  7:  0.565729
+Coeff  8:  -0.274391
+Coeff  9:  0.365709
+Coeff 10:  0.066555
+Coeff 11:  -0.492508
+Coeff 12:  -0.085199
+----------------------------------------
+File: 0_lucas_28.wav
+Audio size: 9102 bytes
+Feature size: 264 bytes
+Coeff  0:  -7.542463
+Coeff  1:  -0.545886
+Coeff  2:  4.308211
+Coeff  3:  1.822536
+Coeff  4:  -0.530251
+Coeff  5:  2.078905
+Coeff  6:  0.400446
+Coeff  7:  1.168442
+Coeff  8:  0.024712
+Coeff  9:  0.572633
+Coeff 10:  0.521975
+Coeff 11:  -0.087299
+Coeff 12:  -0.094733
+----------------------------------------
+File: 0_lucas_29.wav
+Audio size: 8508 bytes
+Feature size: 265 bytes
+Coeff  0:  -6.604336
+Coeff  1:  -2.569866
+Coeff  2:  0.687640
+Coeff  3:  0.054245
+Coeff  4:  -1.724993
+Coeff  5:  0.925189
+Coeff  6:  -0.221656
+Coeff  7:  0.565201
+Coeff  8:  -0.919916
+Coeff  9:  0.594491
+Coeff 10:  0.196154
+Coeff 11:  -0.734605
+Coeff 12:  0.173817
+----------------------------------------
+File: 0_lucas_3.wav
+Audio size: 8910 bytes
+Feature size: 265 bytes
+Coeff  0:  -44.302120
+Coeff  1:  -0.470130
+Coeff  2:  2.261386
+Coeff  3:  1.904023
+Coeff  4:  -0.050564
+Coeff  5:  1.578885
+Coeff  6:  -0.068322
+Coeff  7:  1.264296
+Coeff  8:  -0.103882
+Coeff  9:  0.477942
+Coeff 10:  1.023815
+Coeff 11:  0.295321
+Coeff 12:  0.485040
+----------------------------------------
+File: 0_lucas_30.wav
+Audio size: 9256 bytes
+Feature size: 265 bytes
+Coeff  0:  -7.776623
+Coeff  1:  -3.693577
+Coeff  2:  0.916284
+Coeff  3:  0.721473
+Coeff  4:  -2.191506
+Coeff  5:  1.092687
+Coeff  6:  -0.609283
+Coeff  7:  0.536998
+Coeff  8:  -0.918844
+Coeff  9:  0.219438
+Coeff 10:  0.546781
+Coeff 11:  0.153174
+Coeff 12:  -0.264585
+----------------------------------------
+File: 0_lucas_31.wav
+Audio size: 8350 bytes
+Feature size: 268 bytes
+Coeff  0:  -10.211132
+Coeff  1:  -4.090883
+Coeff  2:  -0.109270
+Coeff  3:  0.153601
+Coeff  4:  -1.842278
+Coeff  5:  0.520562
+Coeff  6:  -1.437804
+Coeff  7:  0.467290
+Coeff  8:  -0.358770
+Coeff  9:  0.323290
+Coeff 10:  -0.012274
+Coeff 11:  -0.411946
+Coeff 12:  0.448625
+----------------------------------------
+File: 0_lucas_32.wav
+Audio size: 8616 bytes
+Feature size: 266 bytes
+Coeff  0:  -10.414274
+Coeff  1:  -2.436695
+Coeff  2:  0.820757
+Coeff  3:  0.062617
+Coeff  4:  -1.259135
+Coeff  5:  1.000686
+Coeff  6:  -0.194736
+Coeff  7:  1.363899
+Coeff  8:  -0.267318
+Coeff  9:  0.903597
+Coeff 10:  0.899205
+Coeff 11:  -0.290610
+Coeff 12:  0.348727
+----------------------------------------
+File: 0_lucas_33.wav
+Audio size: 8450 bytes
+Feature size: 269 bytes
+Coeff  0:  -12.598808
+Coeff  1:  -1.550037
+Coeff  2:  1.428586
+Coeff  3:  -0.162170
+Coeff  4:  -2.250904
+Coeff  5:  -0.032034
+Coeff  6:  -1.366315
+Coeff  7:  0.869333
+Coeff  8:  -0.636657
+Coeff  9:  0.275597
+Coeff 10:  0.606342
+Coeff 11:  -0.349296
+Coeff 12:  -0.076562
+----------------------------------------
+File: 0_lucas_34.wav
+Audio size: 10414 bytes
+Feature size: 267 bytes
+Coeff  0:  -16.550005
+Coeff  1:  -3.602099
+Coeff  2:  -0.515593
+Coeff  3:  0.215205
+Coeff  4:  -2.316761
+Coeff  5:  0.096846
+Coeff  6:  -1.257706
+Coeff  7:  1.157686
+Coeff  8:  -1.068829
+Coeff  9:  0.056179
+Coeff 10:  0.052797
+Coeff 11:  -0.238600
+Coeff 12:  0.010398
+----------------------------------------
+File: 0_lucas_35.wav
+Audio size: 9586 bytes
+Feature size: 264 bytes
+Coeff  0:  -34.281097
+Coeff  1:  1.525419
+Coeff  2:  2.126271
+Coeff  3:  1.093874
+Coeff  4:  -1.526982
+Coeff  5:  0.441329
+Coeff  6:  0.257779
+Coeff  7:  1.947422
+Coeff  8:  -0.311295
+Coeff  9:  0.718697
+Coeff 10:  0.483872
+Coeff 11:  -0.519470
+Coeff 12:  0.133569
+----------------------------------------
+File: 0_lucas_36.wav
+Audio size: 12572 bytes
+Feature size: 264 bytes
+Coeff  0:  -42.351185
+Coeff  1:  0.013147
+Coeff  2:  0.226403
+Coeff  3:  2.119862
+Coeff  4:  1.027510
+Coeff  5:  1.236108
+Coeff  6:  -0.190331
+Coeff  7:  1.434117
+Coeff  8:  0.571252
+Coeff  9:  -0.700810
+Coeff 10:  -0.099573
+Coeff 11:  0.030232
+Coeff 12:  0.026212
+----------------------------------------
+File: 0_lucas_37.wav
+Audio size: 9522 bytes
+Feature size: 265 bytes
+Coeff  0:  -12.344779
+Coeff  1:  -1.677376
+Coeff  2:  1.691910
+Coeff  3:  0.628126
+Coeff  4:  -1.040708
+Coeff  5:  0.585875
+Coeff  6:  -0.756895
+Coeff  7:  0.754997
+Coeff  8:  -0.566487
+Coeff  9:  0.723550
+Coeff 10:  0.738533
+Coeff 11:  0.495265
+Coeff 12:  0.696407
+----------------------------------------
+File: 0_lucas_38.wav
+Audio size: 9672 bytes
+Feature size: 267 bytes
+Coeff  0:  -10.642189
+Coeff  1:  -2.376481
+Coeff  2:  0.150384
+Coeff  3:  0.239377
+Coeff  4:  -1.074342
+Coeff  5:  1.093000
+Coeff  6:  -0.497032
+Coeff  7:  0.482620
+Coeff  8:  -0.922205
+Coeff  9:  0.268871
+Coeff 10:  -0.105504
+Coeff 11:  -0.296593
+Coeff 12:  0.528922
+----------------------------------------
+File: 0_lucas_39.wav
+Audio size: 14778 bytes
+Feature size: 267 bytes
+Coeff  0:  -12.424836
+Coeff  1:  -2.456454
+Coeff  2:  0.219918
+Coeff  3:  0.397841
+Coeff  4:  -1.170068
+Coeff  5:  0.707197
+Coeff  6:  -0.256696
+Coeff  7:  0.601309
+Coeff  8:  -0.068015
+Coeff  9:  0.178870
+Coeff 10:  -0.033529
+Coeff 11:  -0.481518
+Coeff 12:  0.016948
+----------------------------------------
+File: 0_lucas_4.wav
+Audio size: 8144 bytes
+Feature size: 267 bytes
+Coeff  0:  -13.567501
+Coeff  1:  -3.978981
+Coeff  2:  2.016498
+Coeff  3:  0.494661
+Coeff  4:  -1.413033
+Coeff  5:  0.888448
+Coeff  6:  -1.059337
+Coeff  7:  0.450328
+Coeff  8:  -0.432224
+Coeff  9:  0.024384
+Coeff 10:  -0.190863
+Coeff 11:  -0.311164
+Coeff 12:  0.001636
+----------------------------------------
+File: 0_lucas_40.wav
+Audio size: 9148 bytes
+Feature size: 265 bytes
+Coeff  0:  -4.045378
+Coeff  1:  -3.268637
+Coeff  2:  1.169710
+Coeff  3:  0.956794
+Coeff  4:  -0.696196
+Coeff  5:  0.846012
+Coeff  6:  -0.229125
+Coeff  7:  1.117909
+Coeff  8:  -0.126526
+Coeff  9:  0.650296
+Coeff 10:  0.433807
+Coeff 11:  -0.104424
+Coeff 12:  0.134550
+----------------------------------------
+File: 0_lucas_41.wav
+Audio size: 8868 bytes
+Feature size: 264 bytes
+Coeff  0:  -4.824156
+Coeff  1:  -2.247675
+Coeff  2:  1.558801
+Coeff  3:  0.479250
+Coeff  4:  -2.212942
+Coeff  5:  0.286403
+Coeff  6:  -0.246431
+Coeff  7:  1.473288
+Coeff  8:  -0.322869
+Coeff  9:  0.803459
+Coeff 10:  0.617886
+Coeff 11:  0.159602
+Coeff 12:  0.284078
+----------------------------------------
+File: 0_lucas_42.wav
+Audio size: 12762 bytes
+Feature size: 267 bytes
+Coeff  0:  7.644161
+Coeff  1:  2.337866
+Coeff  2:  5.526984
+Coeff  3:  0.883748
+Coeff  4:  -4.500109
+Coeff  5:  -1.017414
+Coeff  6:  -2.347418
+Coeff  7:  -0.023396
+Coeff  8:  -1.719853
+Coeff  9:  0.441397
+Coeff 10:  -0.119448
+Coeff 11:  -1.582345
+Coeff 12:  -0.009565
+----------------------------------------
+File: 0_lucas_43.wav
+Audio size: 8964 bytes
+Feature size: 263 bytes
+Coeff  0:  -4.761733
+Coeff  1:  -1.296598
+Coeff  2:  3.248711
+Coeff  3:  1.743639
+Coeff  4:  -0.067853
+Coeff  5:  2.012077
+Coeff  6:  0.581113
+Coeff  7:  1.733368
+Coeff  8:  -0.077303
+Coeff  9:  0.772436
+Coeff 10:  0.861966
+Coeff 11:  0.370459
+Coeff 12:  0.560445
+----------------------------------------
+File: 0_lucas_44.wav
+Audio size: 11828 bytes
+Feature size: 264 bytes
+Coeff  0:  -5.257549
+Coeff  1:  -1.611331
+Coeff  2:  1.401809
+Coeff  3:  0.659230
+Coeff  4:  -1.205395
+Coeff  5:  1.353823
+Coeff  6:  0.040280
+Coeff  7:  1.691900
+Coeff  8:  -0.129899
+Coeff  9:  0.437761
+Coeff 10:  -0.007370
+Coeff 11:  0.010235
+Coeff 12:  0.465241
+----------------------------------------
+File: 0_lucas_45.wav
+Audio size: 7524 bytes
+Feature size: 265 bytes
+Coeff  0:  17.187603
+Coeff  1:  5.984177
+Coeff  2:  4.338085
+Coeff  3:  1.695050
+Coeff  4:  -4.615175
+Coeff  5:  -1.053749
+Coeff  6:  -0.646126
+Coeff  7:  1.076469
+Coeff  8:  -0.476873
+Coeff  9:  0.630091
+Coeff 10:  1.316670
+Coeff 11:  -1.699261
+Coeff 12:  0.133626
+----------------------------------------
+File: 0_lucas_46.wav
+Audio size: 10096 bytes
+Feature size: 266 bytes
+Coeff  0:  -2.971896
+Coeff  1:  -2.092927
+Coeff  2:  3.001317
+Coeff  3:  1.577214
+Coeff  4:  -0.085551
+Coeff  5:  1.760369
+Coeff  6:  -0.585246
+Coeff  7:  0.800920
+Coeff  8:  -0.528164
+Coeff  9:  0.110890
+Coeff 10:  -0.117230
+Coeff 11:  0.518407
+Coeff 12:  -0.413390
+----------------------------------------
+File: 0_lucas_47.wav
+Audio size: 9542 bytes
+Feature size: 262 bytes
+Coeff  0:  -16.459923
+Coeff  1:  0.238928
+Coeff  2:  4.212223
+Coeff  3:  0.836375
+Coeff  4:  -0.652761
+Coeff  5:  1.513479
+Coeff  6:  0.569442
+Coeff  7:  2.185296
+Coeff  8:  0.131226
+Coeff  9:  0.611055
+Coeff 10:  0.463046
+Coeff 11:  0.099111
+Coeff 12:  0.059212
+----------------------------------------
+File: 0_lucas_48.wav
+Audio size: 11934 bytes
+Feature size: 267 bytes
+Coeff  0:  -44.552864
+Coeff  1:  -0.526742
+Coeff  2:  -0.655103
+Coeff  3:  0.008017
+Coeff  4:  -0.540758
+Coeff  5:  0.563483
+Coeff  6:  -0.827691
+Coeff  7:  0.980165
+Coeff  8:  0.001341
+Coeff  9:  -0.779969
+Coeff 10:  0.676212
+Coeff 11:  -0.070794
+Coeff 12:  0.298394
+----------------------------------------
+File: 0_lucas_49.wav
+Audio size: 9906 bytes
+Feature size: 265 bytes
+Coeff  0:  -17.867285
+Coeff  1:  0.805979
+Coeff  2:  0.512632
+Coeff  3:  -0.600985
+Coeff  4:  -2.222559
+Coeff  5:  1.028889
+Coeff  6:  -0.499108
+Coeff  7:  0.633107
+Coeff  8:  -0.497364
+Coeff  9:  0.836389
+Coeff 10:  0.054035
+Coeff 11:  0.051307
+Coeff 12:  0.030823
+----------------------------------------
+File: 0_lucas_5.wav
+Audio size: 9660 bytes
+Feature size: 266 bytes
+Coeff  0:  -42.283226
+Coeff  1:  -3.923696
+Coeff  2:  4.816912
+Coeff  3:  2.037263
+Coeff  4:  -1.601921
+Coeff  5:  1.559503
+Coeff  6:  -0.753153
+Coeff  7:  0.321854
+Coeff  8:  0.001917
+Coeff  9:  -0.537779
+Coeff 10:  0.725141
+Coeff 11:  1.033510
+Coeff 12:  -1.184409
+----------------------------------------
+File: 0_lucas_6.wav
+Audio size: 8576 bytes
+Feature size: 266 bytes
+Coeff  0:  -31.561819
+Coeff  1:  -0.127566
+Coeff  2:  2.364357
+Coeff  3:  0.483765
+Coeff  4:  -0.927581
+Coeff  5:  0.585618
+Coeff  6:  -0.421668
+Coeff  7:  0.681264
+Coeff  8:  -1.326069
+Coeff  9:  0.154698
+Coeff 10:  0.010509
+Coeff 11:  0.286176
+Coeff 12:  -0.106901
+----------------------------------------
+File: 0_lucas_7.wav
+Audio size: 8234 bytes
+Feature size: 269 bytes
+Coeff  0:  -15.331888
+Coeff  1:  -3.062722
+Coeff  2:  0.633690
+Coeff  3:  -0.409765
+Coeff  4:  -1.468270
+Coeff  5:  0.284460
+Coeff  6:  -1.646158
+Coeff  7:  0.661413
+Coeff  8:  -0.426320
+Coeff  9:  -0.007802
+Coeff 10:  -0.168418
+Coeff 11:  0.484003
+Coeff 12:  -0.018519
+----------------------------------------
+File: 0_lucas_8.wav
+Audio size: 10436 bytes
+Feature size: 269 bytes
+Coeff  0:  -47.193161
+Coeff  1:  -3.189072
+Coeff  2:  1.518924
+Coeff  3:  2.331726
+Coeff  4:  -2.527112
+Coeff  5:  1.653078
+Coeff  6:  -0.471443
+Coeff  7:  -0.380016
+Coeff  8:  0.244548
+Coeff  9:  -0.057389
+Coeff 10:  -0.030789
+Coeff 11:  -0.084409
+Coeff 12:  -0.001093
+----------------------------------------
+File: 0_lucas_9.wav
+Audio size: 18682 bytes
+Feature size: 268 bytes
+Coeff  0:  -12.002823
+Coeff  1:  -3.658810
+Coeff  2:  -0.459113
+Coeff  3:  -0.079604
+Coeff  4:  -1.588950
+Coeff  5:  1.014649
+Coeff  6:  -1.603009
+Coeff  7:  0.282031
+Coeff  8:  -0.888077
+Coeff  9:  0.498246
+Coeff 10:  0.410640
+Coeff 11:  0.138162
+Coeff 12:  -0.297269
+----------------------------------------
+File: 0_nicolas_0.wav
+Audio size: 7000 bytes
+Feature size: 264 bytes
+Coeff  0:  -2.468256
+Coeff  1:  4.762181
+Coeff  2:  7.174541
+Coeff  3:  2.693407
+Coeff  4:  0.148455
+Coeff  5:  -1.226506
+Coeff  6:  0.209399
+Coeff  7:  0.465052
+Coeff  8:  0.886546
+Coeff  9:  1.067768
+Coeff 10:  -0.216270
+Coeff 11:  -0.642869
+Coeff 12:  -0.451182
+----------------------------------------
+File: 0_nicolas_1.wav
+Audio size: 7502 bytes
+Feature size: 265 bytes
+Coeff  0:  -3.631998
+Coeff  1:  5.205262
+Coeff  2:  6.671021
+Coeff  3:  1.379225
+Coeff  4:  -0.163583
+Coeff  5:  -2.246908
+Coeff  6:  -0.185357
+Coeff  7:  -0.280065
+Coeff  8:  0.229803
+Coeff  9:  1.672391
+Coeff 10:  0.775104
+Coeff 11:  -0.105221
+Coeff 12:  0.115070
+----------------------------------------
+File: 0_nicolas_10.wav
+Audio size: 7510 bytes
+Feature size: 266 bytes
+Coeff  0:  -3.652225
+Coeff  1:  4.950840
+Coeff  2:  6.662108
+Coeff  3:  1.756909
+Coeff  4:  0.827626
+Coeff  5:  -1.055456
+Coeff  6:  -0.432068
+Coeff  7:  -0.149823
+Coeff  8:  0.428828
+Coeff  9:  0.779337
+Coeff 10:  -0.045994
+Coeff 11:  -0.083394
+Coeff 12:  -0.582957
+----------------------------------------
+File: 0_nicolas_11.wav
+Audio size: 9188 bytes
+Feature size: 265 bytes
+Coeff  0:  -4.564242
+Coeff  1:  5.885817
+Coeff  2:  6.609080
+Coeff  3:  1.222412
+Coeff  4:  0.137734
+Coeff  5:  -1.878591
+Coeff  6:  -0.775016
+Coeff  7:  -1.003050
+Coeff  8:  0.336663
+Coeff  9:  0.800286
+Coeff 10:  0.337920
+Coeff 11:  -0.170495
+Coeff 12:  -0.140146
+----------------------------------------
+File: 0_nicolas_12.wav
+Audio size: 8786 bytes
+Feature size: 265 bytes
+Coeff  0:  -3.072890
+Coeff  1:  5.539304
+Coeff  2:  7.235859
+Coeff  3:  2.199247
+Coeff  4:  -0.795692
+Coeff  5:  -2.908521
+Coeff  6:  -0.554449
+Coeff  7:  -1.293746
+Coeff  8:  0.544190
+Coeff  9:  1.232770
+Coeff 10:  0.620636
+Coeff 11:  0.274878
+Coeff 12:  -0.022516
+----------------------------------------
+File: 0_nicolas_13.wav
+Audio size: 7644 bytes
+Feature size: 267 bytes
+Coeff  0:  6.490107
+Coeff  1:  7.288811
+Coeff  2:  7.052693
+Coeff  3:  1.354600
+Coeff  4:  -2.838116
+Coeff  5:  -2.309232
+Coeff  6:  -0.996412
+Coeff  7:  -1.002842
+Coeff  8:  -0.399489
+Coeff  9:  1.225008
+Coeff 10:  -0.208207
+Coeff 11:  -0.050171
+Coeff 12:  -0.352948
+----------------------------------------
+File: 0_nicolas_14.wav
+Audio size: 7512 bytes
+Feature size: 267 bytes
+Coeff  0:  1.945938
+Coeff  1:  7.056844
+Coeff  2:  7.306179
+Coeff  3:  1.218219
+Coeff  4:  -1.373173
+Coeff  5:  -2.694340
+Coeff  6:  -1.708984
+Coeff  7:  -0.813677
+Coeff  8:  -0.102728
+Coeff  9:  1.097245
+Coeff 10:  -0.027971
+Coeff 11:  -0.355763
+Coeff 12:  -0.232960
+----------------------------------------
+File: 0_nicolas_15.wav
+Audio size: 8248 bytes
+Feature size: 265 bytes
+Coeff  0:  -1.780557
+Coeff  1:  6.010654
+Coeff  2:  6.783460
+Coeff  3:  0.778460
+Coeff  4:  -0.832930
+Coeff  5:  -2.225459
+Coeff  6:  -0.388461
+Coeff  7:  -1.042135
+Coeff  8:  -0.192591
+Coeff  9:  0.272519
+Coeff 10:  0.294882
+Coeff 11:  0.025479
+Coeff 12:  0.052718
+----------------------------------------
+File: 0_nicolas_16.wav
+Audio size: 7914 bytes
+Feature size: 267 bytes
+Coeff  0:  -0.630089
+Coeff  1:  5.490867
+Coeff  2:  6.559650
+Coeff  3:  -0.347526
+Coeff  4:  -0.465427
+Coeff  5:  -2.906618
+Coeff  6:  -0.735720
+Coeff  7:  -0.924534
+Coeff  8:  -0.064705
+Coeff  9:  0.289006
+Coeff 10:  0.752532
+Coeff 11:  0.219313
+Coeff 12:  -0.373719
+----------------------------------------
+File: 0_nicolas_17.wav
+Audio size: 7644 bytes
+Feature size: 265 bytes
+Coeff  0:  6.523612
+Coeff  1:  7.510812
+Coeff  2:  7.175861
+Coeff  3:  0.208191
+Coeff  4:  -3.319866
+Coeff  5:  -1.705172
+Coeff  6:  -1.107779
+Coeff  7:  -0.867220
+Coeff  8:  0.016591
+Coeff  9:  0.142412
+Coeff 10:  -0.297526
+Coeff 11:  0.928639
+Coeff 12:  -0.838277
+----------------------------------------
+File: 0_nicolas_18.wav
+Audio size: 9054 bytes
+Feature size: 264 bytes
+Coeff  0:  -3.310154
+Coeff  1:  5.145055
+Coeff  2:  6.360205
+Coeff  3:  1.240988
+Coeff  4:  -0.392821
+Coeff  5:  -2.787555
+Coeff  6:  -1.023405
+Coeff  7:  -0.604728
+Coeff  8:  0.424331
+Coeff  9:  0.936858
+Coeff 10:  0.745211
+Coeff 11:  0.040306
+Coeff 12:  0.330707
+----------------------------------------
+File: 0_nicolas_19.wav
+Audio size: 7376 bytes
+Feature size: 265 bytes
+Coeff  0:  0.968930
+Coeff  1:  6.428846
+Coeff  2:  7.211039
+Coeff  3:  1.098885
+Coeff  4:  -2.198605
+Coeff  5:  -2.493672
+Coeff  6:  -0.501895
+Coeff  7:  -0.725235
+Coeff  8:  -0.692968
+Coeff  9:  1.057683
+Coeff 10:  -0.114653
+Coeff 11:  0.346785
+Coeff 12:  0.185797
+----------------------------------------
+File: 0_nicolas_2.wav
+Audio size: 5714 bytes
+Feature size: 266 bytes
+Coeff  0:  1.818650
+Coeff  1:  6.445150
+Coeff  2:  8.340450
+Coeff  3:  1.666788
+Coeff  4:  -0.943954
+Coeff  5:  -2.627179
+Coeff  6:  -1.309230
+Coeff  7:  -1.116065
+Coeff  8:  -0.522951
+Coeff  9:  0.863061
+Coeff 10:  -0.535104
+Coeff 11:  0.217498
+Coeff 12:  -1.124317
+----------------------------------------
+File: 0_nicolas_20.wav
+Audio size: 7202 bytes
+Feature size: 267 bytes
+Coeff  0:  -1.187351
+Coeff  1:  6.828182
+Coeff  2:  7.885642
+Coeff  3:  1.837631
+Coeff  4:  -0.058560
+Coeff  5:  -2.480206
+Coeff  6:  -0.852639
+Coeff  7:  -1.155370
+Coeff  8:  0.470181
+Coeff  9:  0.336293
+Coeff 10:  -0.430062
+Coeff 11:  -0.016464
+Coeff 12:  -0.241456
+----------------------------------------
+File: 0_nicolas_21.wav
+Audio size: 8152 bytes
+Feature size: 263 bytes
+Coeff  0:  -5.587847
+Coeff  1:  4.685204
+Coeff  2:  7.354754
+Coeff  3:  1.923061
+Coeff  4:  0.562039
+Coeff  5:  -1.880600
+Coeff  6:  -0.682699
+Coeff  7:  -0.598396
+Coeff  8:  0.105040
+Coeff  9:  0.550452
+Coeff 10:  0.758257
+Coeff 11:  0.649212
+Coeff 12:  0.072436
+----------------------------------------
+File: 0_nicolas_22.wav
+Audio size: 6386 bytes
+Feature size: 265 bytes
+Coeff  0:  7.140379
+Coeff  1:  6.368717
+Coeff  2:  7.562346
+Coeff  3:  1.196883
+Coeff  4:  -2.051412
+Coeff  5:  -1.113955
+Coeff  6:  -1.363731
+Coeff  7:  0.086528
+Coeff  8:  -1.361900
+Coeff  9:  0.602082
+Coeff 10:  -0.453637
+Coeff 11:  -0.035091
+Coeff 12:  0.142590
+----------------------------------------
+File: 0_nicolas_23.wav
+Audio size: 7200 bytes
+Feature size: 266 bytes
+Coeff  0:  -4.595224
+Coeff  1:  3.420563
+Coeff  2:  6.180116
+Coeff  3:  2.275521
+Coeff  4:  0.975564
+Coeff  5:  -0.791518
+Coeff  6:  -0.251549
+Coeff  7:  -0.903844
+Coeff  8:  0.385826
+Coeff  9:  1.068866
+Coeff 10:  -0.138622
+Coeff 11:  -0.241439
+Coeff 12:  -0.269165
+----------------------------------------
+File: 0_nicolas_24.wav
+Audio size: 6930 bytes
+Feature size: 265 bytes
+Coeff  0:  -3.003173
+Coeff  1:  5.390905
+Coeff  2:  7.025244
+Coeff  3:  1.756803
+Coeff  4:  -0.615508
+Coeff  5:  -2.594523
+Coeff  6:  -0.660095
+Coeff  7:  -0.714446
+Coeff  8:  -0.177831
+Coeff  9:  0.930713
+Coeff 10:  0.533159
+Coeff 11:  0.231100
+Coeff 12:  0.020798
+----------------------------------------
+File: 0_nicolas_25.wav
+Audio size: 7032 bytes
+Feature size: 266 bytes
+Coeff  0:  1.024391
+Coeff  1:  7.606718
+Coeff  2:  7.191648
+Coeff  3:  1.548988
+Coeff  4:  -0.897519
+Coeff  5:  -3.048594
+Coeff  6:  -1.196057
+Coeff  7:  -1.332825
+Coeff  8:  0.170494
+Coeff  9:  1.446649
+Coeff 10:  -0.177558
+Coeff 11:  -0.077228
+Coeff 12:  -0.178054
+----------------------------------------
+File: 0_nicolas_26.wav
+Audio size: 7166 bytes
+Feature size: 265 bytes
+Coeff  0:  2.687850
+Coeff  1:  7.439837
+Coeff  2:  8.805894
+Coeff  3:  1.219224
+Coeff  4:  -1.716151
+Coeff  5:  -1.961713
+Coeff  6:  -2.662976
+Coeff  7:  -0.517619
+Coeff  8:  0.293699
+Coeff  9:  0.611990
+Coeff 10:  0.537508
+Coeff 11:  -0.228365
+Coeff 12:  -0.839785
+----------------------------------------
+File: 0_nicolas_27.wav
+Audio size: 7270 bytes
+Feature size: 265 bytes
+Coeff  0:  -0.407950
+Coeff  1:  7.355989
+Coeff  2:  7.748282
+Coeff  3:  0.684079
+Coeff  4:  -1.101325
+Coeff  5:  -2.851019
+Coeff  6:  -1.455566
+Coeff  7:  -1.486770
+Coeff  8:  0.320354
+Coeff  9:  0.918062
+Coeff 10:  0.589593
+Coeff 11:  0.249206
+Coeff 12:  -0.461807
+----------------------------------------
+File: 0_nicolas_28.wav
+Audio size: 7948 bytes
+Feature size: 266 bytes
+Coeff  0:  -0.615019
+Coeff  1:  5.787768
+Coeff  2:  7.083790
+Coeff  3:  1.974809
+Coeff  4:  -0.649897
+Coeff  5:  -2.547786
+Coeff  6:  -0.887694
+Coeff  7:  -1.523950
+Coeff  8:  -0.067796
+Coeff  9:  1.312578
+Coeff 10:  0.016324
+Coeff 11:  0.317003
+Coeff 12:  -0.485700
+----------------------------------------
+File: 0_nicolas_29.wav
+Audio size: 6862 bytes
+Feature size: 265 bytes
+Coeff  0:  -3.675493
+Coeff  1:  4.148798
+Coeff  2:  6.871105
+Coeff  3:  2.095309
+Coeff  4:  -0.453831
+Coeff  5:  -1.969351
+Coeff  6:  -0.597880
+Coeff  7:  -1.380034
+Coeff  8:  0.046478
+Coeff  9:  0.692394
+Coeff 10:  0.080199
+Coeff 11:  0.495221
+Coeff 12:  -0.046950
+----------------------------------------
+File: 0_nicolas_3.wav
+Audio size: 8858 bytes
+Feature size: 265 bytes
+Coeff  0:  -2.661592
+Coeff  1:  6.391792
+Coeff  2:  7.096943
+Coeff  3:  1.391845
+Coeff  4:  -0.441608
+Coeff  5:  -2.770430
+Coeff  6:  -0.683972
+Coeff  7:  -0.740493
+Coeff  8:  -0.426554
+Coeff  9:  0.581287
+Coeff 10:  0.246452
+Coeff 11:  0.483868
+Coeff 12:  0.150955
+----------------------------------------
+File: 0_nicolas_30.wav
+Audio size: 7386 bytes
+Feature size: 264 bytes
+Coeff  0:  -6.504229
+Coeff  1:  3.954787
+Coeff  2:  6.494505
+Coeff  3:  1.372335
+Coeff  4:  1.147875
+Coeff  5:  -0.632387
+Coeff  6:  0.402629
+Coeff  7:  -0.022495
+Coeff  8:  0.593176
+Coeff  9:  0.854107
+Coeff 10:  0.070965
+Coeff 11:  -0.220905
+Coeff 12:  -0.533989
+----------------------------------------
+File: 0_nicolas_31.wav
+Audio size: 5996 bytes
+Feature size: 266 bytes
+Coeff  0:  -2.095800
+Coeff  1:  6.245790
+Coeff  2:  7.511294
+Coeff  3:  2.004052
+Coeff  4:  -0.277349
+Coeff  5:  -1.983341
+Coeff  6:  -0.135618
+Coeff  7:  -0.803122
+Coeff  8:  0.504316
+Coeff  9:  1.528909
+Coeff 10:  0.088718
+Coeff 11:  -0.200165
+Coeff 12:  -0.109196
+----------------------------------------
+File: 0_nicolas_32.wav
+Audio size: 5744 bytes
+Feature size: 266 bytes
+Coeff  0:  1.716212
+Coeff  1:  9.044122
+Coeff  2:  7.700802
+Coeff  3:  0.486715
+Coeff  4:  -1.151639
+Coeff  5:  -2.424581
+Coeff  6:  -0.012566
+Coeff  7:  -0.351980
+Coeff  8:  0.191597
+Coeff  9:  0.621512
+Coeff 10:  -0.274139
+Coeff 11:  -0.607072
+Coeff 12:  -0.331567
+----------------------------------------
+File: 0_nicolas_33.wav
+Audio size: 5872 bytes
+Feature size: 266 bytes
+Coeff  0:  -2.091696
+Coeff  1:  7.065457
+Coeff  2:  8.288786
+Coeff  3:  2.019362
+Coeff  4:  -0.031323
+Coeff  5:  -2.130102
+Coeff  6:  -0.882196
+Coeff  7:  -0.408623
+Coeff  8:  0.015239
+Coeff  9:  0.930226
+Coeff 10:  0.587598
+Coeff 11:  -0.214363
+Coeff 12:  -0.437871
+----------------------------------------
+File: 0_nicolas_34.wav
+Audio size: 5996 bytes
+Feature size: 267 bytes
+Coeff  0:  -1.252184
+Coeff  1:  6.239527
+Coeff  2:  7.555614
+Coeff  3:  1.517712
+Coeff  4:  -0.939630
+Coeff  5:  -2.396997
+Coeff  6:  -0.845435
+Coeff  7:  -0.578664
+Coeff  8:  -0.362951
+Coeff  9:  0.724081
+Coeff 10:  0.203799
+Coeff 11:  -0.502979
+Coeff 12:  -0.193430
+----------------------------------------
+File: 0_nicolas_35.wav
+Audio size: 5808 bytes
+Feature size: 265 bytes
+Coeff  0:  -2.637295
+Coeff  1:  5.734806
+Coeff  2:  8.126802
+Coeff  3:  1.100724
+Coeff  4:  0.233464
+Coeff  5:  -1.661628
+Coeff  6:  -1.059345
+Coeff  7:  -0.519026
+Coeff  8:  -0.405916
+Coeff  9:  1.290949
+Coeff 10:  0.098116
+Coeff 11:  0.249390
+Coeff 12:  -0.024352
+----------------------------------------
+File: 0_nicolas_36.wav
+Audio size: 5556 bytes
+Feature size: 266 bytes
+Coeff  0:  0.634848
+Coeff  1:  7.459560
+Coeff  2:  8.542098
+Coeff  3:  0.896498
+Coeff  4:  -1.245373
+Coeff  5:  -2.375664
+Coeff  6:  -0.904908
+Coeff  7:  -1.030164
+Coeff  8:  -0.001596
+Coeff  9:  0.993376
+Coeff 10:  -0.728571
+Coeff 11:  0.004509
+Coeff 12:  -0.089326
+----------------------------------------
+File: 0_nicolas_37.wav
+Audio size: 5302 bytes
+Feature size: 265 bytes
+Coeff  0:  3.745521
+Coeff  1:  9.216804
+Coeff  2:  7.570218
+Coeff  3:  0.609084
+Coeff  4:  -2.288082
+Coeff  5:  -2.741112
+Coeff  6:  -0.449945
+Coeff  7:  -0.342492
+Coeff  8:  -0.214542
+Coeff  9:  0.091378
+Coeff 10:  0.481591
+Coeff 11:  0.111171
+Coeff 12:  -0.519229
+----------------------------------------
+File: 0_nicolas_38.wav
+Audio size: 5492 bytes
+Feature size: 265 bytes
+Coeff  0:  3.180051
+Coeff  1:  8.197386
+Coeff  2:  8.006611
+Coeff  3:  0.794034
+Coeff  4:  -2.298661
+Coeff  5:  -2.023933
+Coeff  6:  -0.713698
+Coeff  7:  -0.836726
+Coeff  8:  -1.173642
+Coeff  9:  0.848203
+Coeff 10:  0.364136
+Coeff 11:  -0.684723
+Coeff 12:  0.142749
+----------------------------------------
+File: 0_nicolas_39.wav
+Audio size: 6818 bytes
+Feature size: 265 bytes
+Coeff  0:  -2.524435
+Coeff  1:  5.518085
+Coeff  2:  7.853371
+Coeff  3:  1.715014
+Coeff  4:  -0.563033
+Coeff  5:  -2.112104
+Coeff  6:  -0.559222
+Coeff  7:  -1.014978
+Coeff  8:  -0.565921
+Coeff  9:  1.587373
+Coeff 10:  0.621006
+Coeff 11:  0.658029
+Coeff 12:  0.213103
+----------------------------------------
+File: 0_nicolas_4.wav
+Audio size: 7786 bytes
+Feature size: 266 bytes
+Coeff  0:  -2.882077
+Coeff  1:  5.033911
+Coeff  2:  6.592450
+Coeff  3:  1.942974
+Coeff  4:  0.163897
+Coeff  5:  -1.746503
+Coeff  6:  -0.147661
+Coeff  7:  -0.334974
+Coeff  8:  -0.189865
+Coeff  9:  0.691289
+Coeff 10:  0.206954
+Coeff 11:  -0.294868
+Coeff 12:  -0.693375
+----------------------------------------
+File: 0_nicolas_40.wav
+Audio size: 7622 bytes
+Feature size: 263 bytes
+Coeff  0:  -8.362077
+Coeff  1:  2.652298
+Coeff  2:  4.948577
+Coeff  3:  0.675288
+Coeff  4:  1.712959
+Coeff  5:  -0.450534
+Coeff  6:  -0.310461
+Coeff  7:  -0.578980
+Coeff  8:  0.354803
+Coeff  9:  0.692984
+Coeff 10:  0.661604
+Coeff 11:  0.258869
+Coeff 12:  0.011624
+----------------------------------------
+File: 0_nicolas_41.wav
+Audio size: 7434 bytes
+Feature size: 265 bytes
+Coeff  0:  -8.288282
+Coeff  1:  2.343473
+Coeff  2:  4.811898
+Coeff  3:  0.611844
+Coeff  4:  1.860999
+Coeff  5:  -0.211163
+Coeff  6:  -0.049922
+Coeff  7:  -0.522948
+Coeff  8:  0.190249
+Coeff  9:  -0.234880
+Coeff 10:  0.230096
+Coeff 11:  -0.265364
+Coeff 12:  0.029366
+----------------------------------------
+File: 0_nicolas_42.wav
+Audio size: 7432 bytes
+Feature size: 266 bytes
+Coeff  0:  -0.396656
+Coeff  1:  6.005485
+Coeff  2:  7.539042
+Coeff  3:  2.161768
+Coeff  4:  -0.274356
+Coeff  5:  -1.126595
+Coeff  6:  -1.162340
+Coeff  7:  -1.717609
+Coeff  8:  -0.013531
+Coeff  9:  0.013637
+Coeff 10:  0.375215
+Coeff 11:  1.242021
+Coeff 12:  -0.403985
+----------------------------------------
+File: 0_nicolas_43.wav
+Audio size: 7372 bytes
+Feature size: 266 bytes
+Coeff  0:  -1.451209
+Coeff  1:  6.507105
+Coeff  2:  8.056060
+Coeff  3:  2.418993
+Coeff  4:  -0.577367
+Coeff  5:  -2.390330
+Coeff  6:  -1.231966
+Coeff  7:  -1.566237
+Coeff  8:  -0.062240
+Coeff  9:  0.807355
+Coeff 10:  0.685292
+Coeff 11:  0.534035
+Coeff 12:  -0.136946
+----------------------------------------
+File: 0_nicolas_44.wav
+Audio size: 7122 bytes
+Feature size: 264 bytes
+Coeff  0:  -3.441349
+Coeff  1:  4.387005
+Coeff  2:  6.346907
+Coeff  3:  1.517919
+Coeff  4:  -0.373849
+Coeff  5:  -1.425475
+Coeff  6:  0.784845
+Coeff  7:  -0.543546
+Coeff  8:  0.783264
+Coeff  9:  0.867110
+Coeff 10:  0.792818
+Coeff 11:  0.694286
+Coeff 12:  -0.780012
+----------------------------------------
+File: 0_nicolas_45.wav
+Audio size: 7684 bytes
+Feature size: 267 bytes
+Coeff  0:  -1.237441
+Coeff  1:  7.794639
+Coeff  2:  8.722890
+Coeff  3:  2.087388
+Coeff  4:  -0.213484
+Coeff  5:  -2.582784
+Coeff  6:  -0.774170
+Coeff  7:  -0.500595
+Coeff  8:  0.237456
+Coeff  9:  0.304694
+Coeff 10:  -0.024087
+Coeff 11:  -0.066026
+Coeff 12:  -0.537282
+----------------------------------------
+File: 0_nicolas_46.wav
+Audio size: 7370 bytes
+Feature size: 264 bytes
+Coeff  0:  -1.846558
+Coeff  1:  6.881464
+Coeff  2:  7.889837
+Coeff  3:  1.808743
+Coeff  4:  0.141380
+Coeff  5:  -2.114230
+Coeff  6:  -0.889621
+Coeff  7:  -0.945719
+Coeff  8:  0.013839
+Coeff  9:  0.316709
+Coeff 10:  0.421653
+Coeff 11:  0.250171
+Coeff 12:  -0.456146
+----------------------------------------
+File: 0_nicolas_47.wav
+Audio size: 7248 bytes
+Feature size: 266 bytes
+Coeff  0:  -0.472903
+Coeff  1:  6.854394
+Coeff  2:  8.249199
+Coeff  3:  1.719793
+Coeff  4:  -0.887995
+Coeff  5:  -2.284271
+Coeff  6:  -1.506252
+Coeff  7:  -0.911194
+Coeff  8:  0.389632
+Coeff  9:  0.374260
+Coeff 10:  0.016544
+Coeff 11:  -0.077001
+Coeff 12:  -0.626188
+----------------------------------------
+File: 0_nicolas_48.wav
+Audio size: 7120 bytes
+Feature size: 266 bytes
+Coeff  0:  0.620933
+Coeff  1:  6.381118
+Coeff  2:  8.416925
+Coeff  3:  2.333613
+Coeff  4:  -0.773317
+Coeff  5:  -2.648092
+Coeff  6:  -1.170421
+Coeff  7:  -0.623418
+Coeff  8:  0.160559
+Coeff  9:  0.858163
+Coeff 10:  -0.831885
+Coeff 11:  -0.154299
+Coeff 12:  -0.411549
+----------------------------------------
+File: 0_nicolas_49.wav
+Audio size: 6686 bytes
+Feature size: 265 bytes
+Coeff  0:  -1.182410
+Coeff  1:  6.327368
+Coeff  2:  7.940335
+Coeff  3:  2.087534
+Coeff  4:  -0.833491
+Coeff  5:  -2.583720
+Coeff  6:  -1.609266
+Coeff  7:  -1.499640
+Coeff  8:  -0.186743
+Coeff  9:  1.486360
+Coeff 10:  0.382963
+Coeff 11:  0.277355
+Coeff 12:  0.194450
+----------------------------------------
+File: 0_nicolas_5.wav
+Audio size: 6502 bytes
+Feature size: 266 bytes
+Coeff  0:  2.955608
+Coeff  1:  7.953699
+Coeff  2:  6.521500
+Coeff  3:  1.018086
+Coeff  4:  -1.157635
+Coeff  5:  -2.580940
+Coeff  6:  -0.683466
+Coeff  7:  -0.592758
+Coeff  8:  0.323800
+Coeff  9:  0.543947
+Coeff 10:  -0.135464
+Coeff 11:  -0.141222
+Coeff 12:  -0.502921
+----------------------------------------
+File: 0_nicolas_6.wav
+Audio size: 8714 bytes
+Feature size: 266 bytes
+Coeff  0:  -1.386374
+Coeff  1:  6.259947
+Coeff  2:  7.040235
+Coeff  3:  1.606618
+Coeff  4:  -0.583517
+Coeff  5:  -2.885561
+Coeff  6:  -0.922991
+Coeff  7:  -1.239710
+Coeff  8:  0.050027
+Coeff  9:  1.522439
+Coeff 10:  0.588357
+Coeff 11:  -0.441119
+Coeff 12:  -0.410899
+----------------------------------------
+File: 0_nicolas_7.wav
+Audio size: 6286 bytes
+Feature size: 265 bytes
+Coeff  0:  7.064152
+Coeff  1:  7.241141
+Coeff  2:  5.500628
+Coeff  3:  2.423011
+Coeff  4:  -1.676950
+Coeff  5:  -3.654650
+Coeff  6:  -1.184012
+Coeff  7:  -0.331521
+Coeff  8:  0.232295
+Coeff  9:  0.210006
+Coeff 10:  -0.001202
+Coeff 11:  0.032156
+Coeff 12:  -0.539532
+----------------------------------------
+File: 0_nicolas_8.wav
+Audio size: 7572 bytes
+Feature size: 266 bytes
+Coeff  0:  3.690255
+Coeff  1:  6.260106
+Coeff  2:  8.363482
+Coeff  3:  1.459291
+Coeff  4:  -1.617015
+Coeff  5:  -1.634520
+Coeff  6:  -1.215975
+Coeff  7:  -0.210634
+Coeff  8:  -0.575041
+Coeff  9:  1.044514
+Coeff 10:  -0.561643
+Coeff 11:  -0.254909
+Coeff 12:  0.211574
+----------------------------------------
+File: 0_nicolas_9.wav
+Audio size: 7716 bytes
+Feature size: 265 bytes
+Coeff  0:  -3.366424
+Coeff  1:  5.086516
+Coeff  2:  7.020266
+Coeff  3:  1.966602
+Coeff  4:  -0.638324
+Coeff  5:  -2.223938
+Coeff  6:  -0.262843
+Coeff  7:  -1.140125
+Coeff  8:  0.271700
+Coeff  9:  0.950914
+Coeff 10:  0.850141
+Coeff 11:  0.324668
+Coeff 12:  -0.085263
+----------------------------------------
+File: 1_george_0.wav
+Audio size: 9096 bytes
+Feature size: 269 bytes
+Coeff  0:  -2.642317
+Coeff  1:  10.882888
+Coeff  2:  2.430745
+Coeff  3:  -3.028312
+Coeff  4:  -3.680876
+Coeff  5:  -1.370398
+Coeff  6:  -0.069232
+Coeff  7:  0.163710
+Coeff  8:  -0.971701
+Coeff  9:  -0.129850
+Coeff 10:  -1.639061
+Coeff 11:  0.381136
+Coeff 12:  -0.688649
+----------------------------------------
+File: 1_george_1.wav
+Audio size: 7962 bytes
+Feature size: 268 bytes
+Coeff  0:  -4.802547
+Coeff  1:  12.745332
+Coeff  2:  3.780115
+Coeff  3:  -3.243397
+Coeff  4:  -3.895102
+Coeff  5:  -2.510741
+Coeff  6:  -1.463676
+Coeff  7:  0.218744
+Coeff  8:  0.021062
+Coeff  9:  1.497227
+Coeff 10:  -1.360494
+Coeff 11:  -0.192549
+Coeff 12:  -2.078991
+----------------------------------------
+File: 1_george_10.wav
+Audio size: 7586 bytes
+Feature size: 268 bytes
+Coeff  0:  5.845410
+Coeff  1:  9.396453
+Coeff  2:  0.680825
+Coeff  3:  -3.746249
+Coeff  4:  -4.321655
+Coeff  5:  -0.755634
+Coeff  6:  -0.638130
+Coeff  7:  -1.092998
+Coeff  8:  -0.515982
+Coeff  9:  0.211861
+Coeff 10:  -0.926647
+Coeff 11:  -0.148177
+Coeff 12:  -1.490937
+----------------------------------------
+File: 1_george_11.wav
+Audio size: 6712 bytes
+Feature size: 269 bytes
+Coeff  0:  11.369988
+Coeff  1:  9.037230
+Coeff  2:  -0.327376
+Coeff  3:  -7.269494
+Coeff  4:  -3.553475
+Coeff  5:  -0.490064
+Coeff  6:  -1.502744
+Coeff  7:  -0.762962
+Coeff  8:  -1.384907
+Coeff  9:  1.564790
+Coeff 10:  -1.489312
+Coeff 11:  0.400344
+Coeff 12:  -0.940620
+----------------------------------------
+File: 1_george_12.wav
+Audio size: 5924 bytes
+Feature size: 268 bytes
+Coeff  0:  9.761299
+Coeff  1:  6.674527
+Coeff  2:  -2.727928
+Coeff  3:  -5.368978
+Coeff  4:  -1.088054
+Coeff  5:  -0.804474
+Coeff  6:  -0.381556
+Coeff  7:  -1.266934
+Coeff  8:  -0.288475
+Coeff  9:  0.280339
+Coeff 10:  -2.148914
+Coeff 11:  0.663284
+Coeff 12:  -0.316632
+----------------------------------------
+File: 1_george_13.wav
+Audio size: 8650 bytes
+Feature size: 269 bytes
+Coeff  0:  7.557709
+Coeff  1:  9.995334
+Coeff  2:  -0.741949
+Coeff  3:  -4.957171
+Coeff  4:  -4.099077
+Coeff  5:  -0.017393
+Coeff  6:  -1.532526
+Coeff  7:  -0.200495
+Coeff  8:  -1.091271
+Coeff  9:  1.304546
+Coeff 10:  -1.219585
+Coeff 11:  -0.285159
+Coeff 12:  -0.460887
+----------------------------------------
+File: 1_george_14.wav
+Audio size: 6368 bytes
+Feature size: 268 bytes
+Coeff  0:  14.613050
+Coeff  1:  7.431108
+Coeff  2:  -2.078163
+Coeff  3:  -6.714880
+Coeff  4:  -1.577661
+Coeff  5:  0.352167
+Coeff  6:  -1.194695
+Coeff  7:  0.426828
+Coeff  8:  -0.842157
+Coeff  9:  1.219401
+Coeff 10:  -2.279233
+Coeff 11:  -0.023226
+Coeff 12:  -0.424980
+----------------------------------------
+File: 1_george_15.wav
+Audio size: 6036 bytes
+Feature size: 268 bytes
+Coeff  0:  6.016517
+Coeff  1:  8.702711
+Coeff  2:  -2.684982
+Coeff  3:  -4.829961
+Coeff  4:  -1.351869
+Coeff  5:  -0.081205
+Coeff  6:  -1.465991
+Coeff  7:  -0.689479
+Coeff  8:  -0.644868
+Coeff  9:  0.492106
+Coeff 10:  -2.911040
+Coeff 11:  0.832015
+Coeff 12:  -0.640595
+----------------------------------------
+File: 1_george_16.wav
+Audio size: 9200 bytes
+Feature size: 270 bytes
+Coeff  0:  0.218167
+Coeff  1:  10.936411
+Coeff  2:  2.426380
+Coeff  3:  -3.052421
+Coeff  4:  -5.920195
+Coeff  5:  -1.586524
+Coeff  6:  -0.569071
+Coeff  7:  -0.020830
+Coeff  8:  -0.828090
+Coeff  9:  -1.014122
+Coeff 10:  -0.963124
+Coeff 11:  -0.037320
+Coeff 12:  -0.157345
+----------------------------------------
+File: 1_george_17.wav
+Audio size: 8976 bytes
+Feature size: 267 bytes
+Coeff  0:  8.229896
+Coeff  1:  9.918786
+Coeff  2:  -0.899487
+Coeff  3:  -4.983517
+Coeff  4:  -3.780067
+Coeff  5:  -0.875260
+Coeff  6:  0.014008
+Coeff  7:  -0.790486
+Coeff  8:  -1.098854
+Coeff  9:  0.779497
+Coeff 10:  -1.201751
+Coeff 11:  0.168429
+Coeff 12:  -1.355159
+----------------------------------------
+File: 1_george_18.wav
+Audio size: 8634 bytes
+Feature size: 269 bytes
+Coeff  0:  2.768549
+Coeff  1:  11.561898
+Coeff  2:  -0.765419
+Coeff  3:  -5.381794
+Coeff  4:  -4.294472
+Coeff  5:  -0.203487
+Coeff  6:  -0.960746
+Coeff  7:  -0.366534
+Coeff  8:  -1.384535
+Coeff  9:  1.140705
+Coeff 10:  -0.621402
+Coeff 11:  0.071364
+Coeff 12:  -1.184529
+----------------------------------------
+File: 1_george_19.wav
+Audio size: 7842 bytes
+Feature size: 270 bytes
+Coeff  0:  3.453760
+Coeff  1:  10.651242
+Coeff  2:  -1.398009
+Coeff  3:  -4.882012
+Coeff  4:  -3.930475
+Coeff  5:  -0.819448
+Coeff  6:  -1.458008
+Coeff  7:  -0.979862
+Coeff  8:  -0.395614
+Coeff  9:  1.317497
+Coeff 10:  -0.492300
+Coeff 11:  -0.438578
+Coeff 12:  -1.168742
+----------------------------------------
+File: 1_george_2.wav
+Audio size: 9144 bytes
+Feature size: 269 bytes
+Coeff  0:  5.198366
+Coeff  1:  10.574779
+Coeff  2:  0.850966
+Coeff  3:  -5.256858
+Coeff  4:  -3.230712
+Coeff  5:  -1.553390
+Coeff  6:  -0.681600
+Coeff  7:  -0.904223
+Coeff  8:  -1.315037
+Coeff  9:  0.726409
+Coeff 10:  -1.298031
+Coeff 11:  -0.023975
+Coeff 12:  -1.296012
+----------------------------------------
+File: 1_george_20.wav
+Audio size: 5788 bytes
+Feature size: 267 bytes
+Coeff  0:  11.110483
+Coeff  1:  7.364216
+Coeff  2:  1.108148
+Coeff  3:  -6.145541
+Coeff  4:  -3.800479
+Coeff  5:  -0.707970
+Coeff  6:  0.440319
+Coeff  7:  -0.568297
+Coeff  8:  -0.302891
+Coeff  9:  0.595255
+Coeff 10:  -0.689537
+Coeff 11:  0.455908
+Coeff 12:  -1.627568
+----------------------------------------
+File: 1_george_21.wav
+Audio size: 6096 bytes
+Feature size: 270 bytes
+Coeff  0:  17.478327
+Coeff  1:  4.375948
+Coeff  2:  -0.725504
+Coeff  3:  -6.158691
+Coeff  4:  -1.348212
+Coeff  5:  -0.525518
+Coeff  6:  -0.903973
+Coeff  7:  -0.959517
+Coeff  8:  -0.514129
+Coeff  9:  0.712310
+Coeff 10:  -1.495218
+Coeff 11:  -0.093908
+Coeff 12:  -1.106066
+----------------------------------------
+File: 1_george_22.wav
+Audio size: 6186 bytes
+Feature size: 266 bytes
+Coeff  0:  5.915600
+Coeff  1:  7.781556
+Coeff  2:  2.594537
+Coeff  3:  -4.736986
+Coeff  4:  -3.570955
+Coeff  5:  -0.973225
+Coeff  6:  -0.163162
+Coeff  7:  0.047914
+Coeff  8:  -0.142599
+Coeff  9:  0.416204
+Coeff 10:  -1.032015
+Coeff 11:  0.124316
+Coeff 12:  -2.231620
+----------------------------------------
+File: 1_george_23.wav
+Audio size: 5880 bytes
+Feature size: 268 bytes
+Coeff  0:  10.218000
+Coeff  1:  8.545444
+Coeff  2:  0.600398
+Coeff  3:  -6.150603
+Coeff  4:  -3.179956
+Coeff  5:  -0.793434
+Coeff  6:  -0.115252
+Coeff  7:  -0.530105
+Coeff  8:  0.576379
+Coeff  9:  0.486916
+Coeff 10:  -0.426798
+Coeff 11:  -0.478701
+Coeff 12:  -1.295401
+----------------------------------------
+File: 1_george_24.wav
+Audio size: 8476 bytes
+Feature size: 266 bytes
+Coeff  0:  0.728469
+Coeff  1:  9.762079
+Coeff  2:  2.906630
+Coeff  3:  -3.531644
+Coeff  4:  -5.217314
+Coeff  5:  -0.386275
+Coeff  6:  0.079443
+Coeff  7:  1.822575
+Coeff  8:  0.497734
+Coeff  9:  -0.611359
+Coeff 10:  -0.964934
+Coeff 11:  -0.240771
+Coeff 12:  -0.272848
+----------------------------------------
+File: 1_george_25.wav
+Audio size: 6126 bytes
+Feature size: 268 bytes
+Coeff  0:  12.700793
+Coeff  1:  6.166955
+Coeff  2:  0.495214
+Coeff  3:  -5.880697
+Coeff  4:  -2.642067
+Coeff  5:  -0.393477
+Coeff  6:  -0.688406
+Coeff  7:  -0.121787
+Coeff  8:  0.181730
+Coeff  9:  0.706166
+Coeff 10:  -1.488122
+Coeff 11:  -0.736967
+Coeff 12:  -0.986971
+----------------------------------------
+File: 1_george_26.wav
+Audio size: 8202 bytes
+Feature size: 269 bytes
+Coeff  0:  3.483148
+Coeff  1:  7.362451
+Coeff  2:  1.156977
+Coeff  3:  -5.186754
+Coeff  4:  -3.581120
+Coeff  5:  -1.173584
+Coeff  6:  -1.623639
+Coeff  7:  -2.903006
+Coeff  8:  -1.927833
+Coeff  9:  -0.613085
+Coeff 10:  -1.383267
+Coeff 11:  -0.828403
+Coeff 12:  -2.967301
+----------------------------------------
+File: 1_george_27.wav
+Audio size: 8980 bytes
+Feature size: 269 bytes
+Coeff  0:  10.791046
+Coeff  1:  8.397173
+Coeff  2:  -1.536173
+Coeff  3:  -6.094953
+Coeff  4:  -1.628060
+Coeff  5:  0.142040
+Coeff  6:  -0.858824
+Coeff  7:  -0.507963
+Coeff  8:  -0.794508
+Coeff  9:  0.628320
+Coeff 10:  -1.605744
+Coeff 11:  -0.771072
+Coeff 12:  -1.047640
+----------------------------------------
+File: 1_george_28.wav
+Audio size: 5894 bytes
+Feature size: 267 bytes
+Coeff  0:  20.689375
+Coeff  1:  0.604411
+Coeff  2:  -3.674334
+Coeff  3:  -5.825766
+Coeff  4:  1.318612
+Coeff  5:  -1.132929
+Coeff  6:  0.233724
+Coeff  7:  1.458824
+Coeff  8:  -0.495517
+Coeff  9:  -0.241384
+Coeff 10:  -1.413834
+Coeff 11:  0.236358
+Coeff 12:  -0.372749
+----------------------------------------
+File: 1_george_29.wav
+Audio size: 7760 bytes
+Feature size: 267 bytes
+Coeff  0:  11.925163
+Coeff  1:  7.711702
+Coeff  2:  0.026066
+Coeff  3:  -5.498972
+Coeff  4:  -3.558335
+Coeff  5:  0.500904
+Coeff  6:  -1.038247
+Coeff  7:  0.382703
+Coeff  8:  -0.645216
+Coeff  9:  0.758668
+Coeff 10:  -0.461262
+Coeff 11:  -0.691134
+Coeff 12:  -0.593971
+----------------------------------------
+File: 1_george_3.wav
+Audio size: 8508 bytes
+Feature size: 268 bytes
+Coeff  0:  3.695426
+Coeff  1:  10.217192
+Coeff  2:  1.835068
+Coeff  3:  -5.004172
+Coeff  4:  -3.472200
+Coeff  5:  -1.973949
+Coeff  6:  -0.843046
+Coeff  7:  -0.779036
+Coeff  8:  -1.057599
+Coeff  9:  0.482557
+Coeff 10:  -0.812837
+Coeff 11:  0.201451
+Coeff 12:  -0.957288
+----------------------------------------
+File: 1_george_30.wav
+Audio size: 4952 bytes
+Feature size: 270 bytes
+Coeff  0:  21.339912
+Coeff  1:  -0.632007
+Coeff  2:  -3.113397
+Coeff  3:  -2.899579
+Coeff  4:  -0.530939
+Coeff  5:  -4.065928
+Coeff  6:  0.962122
+Coeff  7:  -0.224471
+Coeff  8:  -0.942460
+Coeff  9:  -0.595924
+Coeff 10:  -0.332334
+Coeff 11:  0.560124
+Coeff 12:  -1.166808
+----------------------------------------
+File: 1_george_31.wav
+Audio size: 5912 bytes
+Feature size: 268 bytes
+Coeff  0:  19.686577
+Coeff  1:  1.945611
+Coeff  2:  -4.597944
+Coeff  3:  -4.861420
+Coeff  4:  1.174510
+Coeff  5:  -3.134743
+Coeff  6:  0.188567
+Coeff  7:  -1.381399
+Coeff  8:  -0.190714
+Coeff  9:  -1.110362
+Coeff 10:  -2.146706
+Coeff 11:  1.315611
+Coeff 12:  -0.856334
+----------------------------------------
+File: 1_george_32.wav
+Audio size: 3866 bytes
+Feature size: 267 bytes
+Coeff  0:  19.825117
+Coeff  1:  0.281663
+Coeff  2:  -3.979158
+Coeff  3:  -3.002652
+Coeff  4:  0.182026
+Coeff  5:  -5.059114
+Coeff  6:  0.383636
+Coeff  7:  0.056261
+Coeff  8:  -1.180117
+Coeff  9:  -0.900244
+Coeff 10:  -1.155995
+Coeff 11:  0.694345
+Coeff 12:  -0.391517
+----------------------------------------
+File: 1_george_33.wav
+Audio size: 6846 bytes
+Feature size: 268 bytes
+Coeff  0:  19.689379
+Coeff  1:  1.930338
+Coeff  2:  -3.688978
+Coeff  3:  -4.823138
+Coeff  4:  -0.845064
+Coeff  5:  -0.490357
+Coeff  6:  -1.408511
+Coeff  7:  0.867549
+Coeff  8:  -0.667806
+Coeff  9:  -0.570441
+Coeff 10:  -1.516862
+Coeff 11:  0.905593
+Coeff 12:  0.219941
+----------------------------------------
+File: 1_george_34.wav
+Audio size: 6808 bytes
+Feature size: 269 bytes
+Coeff  0:  3.535842
+Coeff  1:  9.239748
+Coeff  2:  0.301980
+Coeff  3:  -4.732542
+Coeff  4:  -3.319572
+Coeff  5:  -0.238428
+Coeff  6:  -0.217833
+Coeff  7:  -0.317460
+Coeff  8:  -0.217750
+Coeff  9:  -0.356883
+Coeff 10:  -1.246737
+Coeff 11:  -0.916375
+Coeff 12:  -0.793483
+----------------------------------------
+File: 1_george_35.wav
+Audio size: 5564 bytes
+Feature size: 268 bytes
+Coeff  0:  18.687630
+Coeff  1:  0.491510
+Coeff  2:  -5.173268
+Coeff  3:  -2.868572
+Coeff  4:  0.673447
+Coeff  5:  -3.489309
+Coeff  6:  0.631437
+Coeff  7:  -0.789237
+Coeff  8:  -0.465044
+Coeff  9:  -1.625033
+Coeff 10:  -1.172469
+Coeff 11:  0.868837
+Coeff 12:  -1.024963
+----------------------------------------
+File: 1_george_36.wav
+Audio size: 8294 bytes
+Feature size: 271 bytes
+Coeff  0:  10.385241
+Coeff  1:  7.780197
+Coeff  2:  -2.122294
+Coeff  3:  -5.896993
+Coeff  4:  -4.856287
+Coeff  5:  -2.024322
+Coeff  6:  -2.654284
+Coeff  7:  -3.468288
+Coeff  8:  -2.867587
+Coeff  9:  -2.075977
+Coeff 10:  -2.421862
+Coeff 11:  -2.165720
+Coeff 12:  -3.471030
+----------------------------------------
+File: 1_george_37.wav
+Audio size: 2798 bytes
+Feature size: 267 bytes
+Coeff  0:  0.700143
+Coeff  1:  5.601146
+Coeff  2:  -1.604061
+Coeff  3:  1.276197
+Coeff  4:  -2.334122
+Coeff  5:  -2.605368
+Coeff  6:  0.562459
+Coeff  7:  -0.119021
+Coeff  8:  -0.261686
+Coeff  9:  -0.430232
+Coeff 10:  0.280475
+Coeff 11:  -0.881649
+Coeff 12:  -1.622037
+----------------------------------------
+File: 1_george_38.wav
+Audio size: 5326 bytes
+Feature size: 268 bytes
+Coeff  0:  16.414671
+Coeff  1:  3.544901
+Coeff  2:  -4.817636
+Coeff  3:  -3.532505
+Coeff  4:  0.153875
+Coeff  5:  -3.451478
+Coeff  6:  0.217654
+Coeff  7:  -0.443296
+Coeff  8:  -0.187105
+Coeff  9:  -0.826990
+Coeff 10:  -1.135357
+Coeff 11:  0.834489
+Coeff 12:  -0.919461
+----------------------------------------
+File: 1_george_39.wav
+Audio size: 3752 bytes
+Feature size: 269 bytes
+Coeff  0:  18.372889
+Coeff  1:  0.106676
+Coeff  2:  -4.373720
+Coeff  3:  -1.264538
+Coeff  4:  -0.689089
+Coeff  5:  -3.801058
+Coeff  6:  0.849251
+Coeff  7:  -0.524460
+Coeff  8:  -0.782624
+Coeff  9:  -1.507805
+Coeff 10:  -0.686786
+Coeff 11:  0.787997
+Coeff 12:  -0.780932
+----------------------------------------
+File: 1_george_4.wav
+Audio size: 8444 bytes
+Feature size: 268 bytes
+Coeff  0:  11.706068
+Coeff  1:  9.301621
+Coeff  2:  0.578449
+Coeff  3:  -5.760872
+Coeff  4:  -3.020242
+Coeff  5:  -1.235192
+Coeff  6:  -1.443656
+Coeff  7:  0.143556
+Coeff  8:  -0.826463
+Coeff  9:  2.514220
+Coeff 10:  -1.011762
+Coeff 11:  -0.610227
+Coeff 12:  -1.707895
+----------------------------------------
+File: 1_george_40.wav
+Audio size: 5698 bytes
+Feature size: 269 bytes
+Coeff  0:  7.095275
+Coeff  1:  6.842635
+Coeff  2:  0.217927
+Coeff  3:  -7.640882
+Coeff  4:  -3.344073
+Coeff  5:  -3.578476
+Coeff  6:  -1.632823
+Coeff  7:  -3.422234
+Coeff  8:  -2.888803
+Coeff  9:  -0.806846
+Coeff 10:  -2.612108
+Coeff 11:  -0.968933
+Coeff 12:  -2.340267
+----------------------------------------
+File: 1_george_41.wav
+Audio size: 5780 bytes
+Feature size: 270 bytes
+Coeff  0:  18.162539
+Coeff  1:  4.539711
+Coeff  2:  -2.691383
+Coeff  3:  -6.917179
+Coeff  4:  0.647519
+Coeff  5:  -2.885362
+Coeff  6:  -2.187797
+Coeff  7:  -1.895042
+Coeff  8:  -1.287301
+Coeff  9:  -0.742883
+Coeff 10:  -3.444628
+Coeff 11:  -1.370530
+Coeff 12:  -1.201386
+----------------------------------------
+File: 1_george_42.wav
+Audio size: 6654 bytes
+Feature size: 270 bytes
+Coeff  0:  6.692244
+Coeff  1:  6.891852
+Coeff  2:  -1.743762
+Coeff  3:  -7.994895
+Coeff  4:  -1.830643
+Coeff  5:  -4.324942
+Coeff  6:  -2.144315
+Coeff  7:  -4.232386
+Coeff  8:  -2.758881
+Coeff  9:  -0.947895
+Coeff 10:  -3.451621
+Coeff 11:  -2.340323
+Coeff 12:  -2.199794
+----------------------------------------
+File: 1_george_43.wav
+Audio size: 6028 bytes
+Feature size: 270 bytes
+Coeff  0:  10.721036
+Coeff  1:  4.841484
+Coeff  2:  0.397290
+Coeff  3:  -7.400566
+Coeff  4:  -3.871971
+Coeff  5:  -3.775505
+Coeff  6:  -1.726025
+Coeff  7:  -3.075554
+Coeff  8:  -3.642519
+Coeff  9:  -1.530594
+Coeff 10:  -2.948548
+Coeff 11:  -1.582902
+Coeff 12:  -3.332413
+----------------------------------------
+File: 1_george_44.wav
+Audio size: 6958 bytes
+Feature size: 271 bytes
+Coeff  0:  14.715836
+Coeff  1:  3.986716
+Coeff  2:  -1.886006
+Coeff  3:  -6.858073
+Coeff  4:  -1.292121
+Coeff  5:  -1.858784
+Coeff  6:  -1.808797
+Coeff  7:  -2.784176
+Coeff  8:  -1.861507
+Coeff  9:  -0.397941
+Coeff 10:  -2.965815
+Coeff 11:  -1.247265
+Coeff 12:  -2.021160
+----------------------------------------
+File: 1_george_45.wav
+Audio size: 5530 bytes
+Feature size: 271 bytes
+Coeff  0:  13.309029
+Coeff  1:  5.330215
+Coeff  2:  -2.784360
+Coeff  3:  -7.067094
+Coeff  4:  -1.671664
+Coeff  5:  -2.273380
+Coeff  6:  -1.825193
+Coeff  7:  -3.349870
+Coeff  8:  -1.975504
+Coeff  9:  -0.453924
+Coeff 10:  -2.926064
+Coeff 11:  -1.590371
+Coeff 12:  -1.914309
+----------------------------------------
+File: 1_george_46.wav
+Audio size: 5342 bytes
+Feature size: 270 bytes
+Coeff  0:  11.975867
+Coeff  1:  4.093653
+Coeff  2:  -2.379081
+Coeff  3:  -7.405299
+Coeff  4:  -1.689846
+Coeff  5:  -0.949762
+Coeff  6:  -0.173516
+Coeff  7:  -1.796708
+Coeff  8:  -0.434788
+Coeff  9:  0.221119
+Coeff 10:  -1.715638
+Coeff 11:  -0.683466
+Coeff 12:  -0.643668
+----------------------------------------
+File: 1_george_47.wav
+Audio size: 6560 bytes
+Feature size: 268 bytes
+Coeff  0:  14.476902
+Coeff  1:  5.801985
+Coeff  2:  -2.624207
+Coeff  3:  -6.031796
+Coeff  4:  -1.139946
+Coeff  5:  -1.370766
+Coeff  6:  0.070054
+Coeff  7:  -1.676651
+Coeff  8:  -0.529494
+Coeff  9:  0.276123
+Coeff 10:  -1.326645
+Coeff 11:  0.108848
+Coeff 12:  -0.509219
+----------------------------------------
+File: 1_george_48.wav
+Audio size: 6044 bytes
+Feature size: 268 bytes
+Coeff  0:  11.574122
+Coeff  1:  6.881055
+Coeff  2:  -1.622531
+Coeff  3:  -6.299467
+Coeff  4:  -2.770629
+Coeff  5:  0.503494
+Coeff  6:  -2.274592
+Coeff  7:  0.601995
+Coeff  8:  -1.860295
+Coeff  9:  1.411463
+Coeff 10:  -1.615946
+Coeff 11:  -0.816159
+Coeff 12:  -0.450376
+----------------------------------------
+File: 1_george_49.wav
+Audio size: 7186 bytes
+Feature size: 269 bytes
+Coeff  0:  8.064182
+Coeff  1:  8.809963
+Coeff  2:  -0.732303
+Coeff  3:  -5.717215
+Coeff  4:  -3.152731
+Coeff  5:  -0.649452
+Coeff  6:  -1.087865
+Coeff  7:  -0.106300
+Coeff  8:  -1.606227
+Coeff  9:  1.091713
+Coeff 10:  -1.246724
+Coeff 11:  -0.232697
+Coeff 12:  -0.307277
+----------------------------------------
+File: 1_george_5.wav
+Audio size: 9888 bytes
+Feature size: 271 bytes
+Coeff  0:  -33.097485
+Coeff  1:  0.362406
+Coeff  2:  -0.875510
+Coeff  3:  0.028955
+Coeff  4:  -0.528449
+Coeff  5:  -2.535366
+Coeff  6:  -1.329996
+Coeff  7:  -0.357918
+Coeff  8:  -0.708192
+Coeff  9:  -0.446464
+Coeff 10:  -0.654133
+Coeff 11:  -0.083516
+Coeff 12:  -0.738088
+----------------------------------------
+File: 1_george_6.wav
+Audio size: 7200 bytes
+Feature size: 270 bytes
+Coeff  0:  10.668880
+Coeff  1:  8.598101
+Coeff  2:  -0.320247
+Coeff  3:  -6.072788
+Coeff  4:  -2.042582
+Coeff  5:  -1.519440
+Coeff  6:  -1.545821
+Coeff  7:  -0.107081
+Coeff  8:  -0.499996
+Coeff  9:  2.538188
+Coeff 10:  -1.602817
+Coeff 11:  -0.503481
+Coeff 12:  -1.558347
+----------------------------------------
+File: 1_george_7.wav
+Audio size: 10664 bytes
+Feature size: 270 bytes
+Coeff  0:  -34.035713
+Coeff  1:  -0.019463
+Coeff  2:  -0.613690
+Coeff  3:  -0.072667
+Coeff  4:  0.756652
+Coeff  5:  -2.732580
+Coeff  6:  0.003982
+Coeff  7:  -1.142042
+Coeff  8:  -0.974303
+Coeff  9:  -0.300222
+Coeff 10:  -0.751029
+Coeff 11:  0.415247
+Coeff 12:  -0.999598
+----------------------------------------
+File: 1_george_8.wav
+Audio size: 8588 bytes
+Feature size: 270 bytes
+Coeff  0:  -1.425578
+Coeff  1:  10.623696
+Coeff  2:  1.655286
+Coeff  3:  -3.738976
+Coeff  4:  -3.375759
+Coeff  5:  -1.468857
+Coeff  6:  -0.979012
+Coeff  7:  -0.105166
+Coeff  8:  -0.621511
+Coeff  9:  0.246084
+Coeff 10:  -1.806322
+Coeff 11:  -0.647597
+Coeff 12:  -1.635873
+----------------------------------------
+File: 1_george_9.wav
+Audio size: 7646 bytes
+Feature size: 269 bytes
+Coeff  0:  11.977425
+Coeff  1:  9.023555
+Coeff  2:  -0.563874
+Coeff  3:  -6.994689
+Coeff  4:  -2.639581
+Coeff  5:  -0.548237
+Coeff  6:  -2.084382
+Coeff  7:  0.767861
+Coeff  8:  -0.903120
+Coeff  9:  2.630916
+Coeff 10:  -1.518620
+Coeff 11:  -1.052146
+Coeff 12:  -1.086121
+----------------------------------------
+File: 1_jackson_0.wav
+Audio size: 8276 bytes
+Feature size: 266 bytes
+Coeff  0:  -3.423316
+Coeff  1:  16.501793
+Coeff  2:  2.099936
+Coeff  3:  -4.309185
+Coeff  4:  -2.577461
+Coeff  5:  0.379203
+Coeff  6:  -0.682539
+Coeff  7:  -1.407871
+Coeff  8:  0.044519
+Coeff  9:  0.500853
+Coeff 10:  0.163585
+Coeff 11:  -0.645492
+Coeff 12:  0.152366
+----------------------------------------
+File: 1_jackson_1.wav
+Audio size: 8484 bytes
+Feature size: 269 bytes
+Coeff  0:  -8.394693
+Coeff  1:  16.196348
+Coeff  2:  3.851647
+Coeff  3:  -2.701557
+Coeff  4:  -2.972368
+Coeff  5:  0.398451
+Coeff  6:  -0.517981
+Coeff  7:  -1.574083
+Coeff  8:  -0.174013
+Coeff  9:  -0.485298
+Coeff 10:  0.437254
+Coeff 11:  -0.938406
+Coeff 12:  -0.079244
+----------------------------------------
+File: 1_jackson_10.wav
+Audio size: 9462 bytes
+Feature size: 268 bytes
+Coeff  0:  -6.654044
+Coeff  1:  15.024450
+Coeff  2:  3.907605
+Coeff  3:  -1.316042
+Coeff  4:  -3.006368
+Coeff  5:  1.298675
+Coeff  6:  -1.864577
+Coeff  7:  -0.045490
+Coeff  8:  -1.550487
+Coeff  9:  1.220398
+Coeff 10:  0.120111
+Coeff 11:  -0.949289
+Coeff 12:  -0.085931
+----------------------------------------
+File: 1_jackson_11.wav
+Audio size: 8172 bytes
+Feature size: 267 bytes
+Coeff  0:  2.449099
+Coeff  1:  13.558365
+Coeff  2:  5.005275
+Coeff  3:  -6.039337
+Coeff  4:  -1.847070
+Coeff  5:  0.662465
+Coeff  6:  -0.763689
+Coeff  7:  -0.990913
+Coeff  8:  -0.718507
+Coeff  9:  1.592531
+Coeff 10:  -0.404639
+Coeff 11:  -0.757082
+Coeff 12:  0.351029
+----------------------------------------
+File: 1_jackson_12.wav
+Audio size: 7256 bytes
+Feature size: 267 bytes
+Coeff  0:  -0.936879
+Coeff  1:  16.614017
+Coeff  2:  2.350564
+Coeff  3:  -0.886653
+Coeff  4:  -6.664474
+Coeff  5:  2.280682
+Coeff  6:  -0.819612
+Coeff  7:  -1.238423
+Coeff  8:  2.248009
+Coeff  9:  -1.239375
+Coeff 10:  1.867654
+Coeff 11:  -1.066802
+Coeff 12:  0.388012
+----------------------------------------
+File: 1_jackson_13.wav
+Audio size: 7500 bytes
+Feature size: 265 bytes
+Coeff  0:  9.965332
+Coeff  1:  12.920423
+Coeff  2:  2.587117
+Coeff  3:  -6.125694
+Coeff  4:  -3.349627
+Coeff  5:  2.271993
+Coeff  6:  -0.720496
+Coeff  7:  -0.471916
+Coeff  8:  0.656638
+Coeff  9:  0.275800
+Coeff 10:  0.180250
+Coeff 11:  0.477501
+Coeff 12:  -0.428334
+----------------------------------------
+File: 1_jackson_14.wav
+Audio size: 10916 bytes
+Feature size: 266 bytes
+Coeff  0:  4.814985
+Coeff  1:  14.095775
+Coeff  2:  4.192259
+Coeff  3:  -4.244186
+Coeff  4:  -5.170039
+Coeff  5:  2.375963
+Coeff  6:  -2.732609
+Coeff  7:  0.789507
+Coeff  8:  1.506104
+Coeff  9:  -0.694211
+Coeff 10:  0.973028
+Coeff 11:  -0.295513
+Coeff 12:  -0.605228
+----------------------------------------
+File: 1_jackson_15.wav
+Audio size: 7196 bytes
+Feature size: 268 bytes
+Coeff  0:  11.894420
+Coeff  1:  12.709122
+Coeff  2:  1.065700
+Coeff  3:  -4.656358
+Coeff  4:  -3.979415
+Coeff  5:  2.735781
+Coeff  6:  -1.679239
+Coeff  7:  -1.038888
+Coeff  8:  0.899014
+Coeff  9:  -0.090202
+Coeff 10:  1.019621
+Coeff 11:  -0.381134
+Coeff 12:  -0.394383
+----------------------------------------
+File: 1_jackson_16.wav
+Audio size: 7858 bytes
+Feature size: 266 bytes
+Coeff  0:  2.082091
+Coeff  1:  13.822788
+Coeff  2:  3.073902
+Coeff  3:  -0.917184
+Coeff  4:  -5.277384
+Coeff  5:  2.255293
+Coeff  6:  -2.761508
+Coeff  7:  -0.740365
+Coeff  8:  1.084757
+Coeff  9:  -0.523474
+Coeff 10:  0.726327
+Coeff 11:  -1.014108
+Coeff 12:  0.303315
+----------------------------------------
+File: 1_jackson_17.wav
+Audio size: 6740 bytes
+Feature size: 266 bytes
+Coeff  0:  6.806052
+Coeff  1:  13.383614
+Coeff  2:  3.366848
+Coeff  3:  -3.603151
+Coeff  4:  -5.727214
+Coeff  5:  2.774069
+Coeff  6:  -1.326643
+Coeff  7:  -0.130692
+Coeff  8:  0.843270
+Coeff  9:  -0.463533
+Coeff 10:  0.664240
+Coeff 11:  0.475790
+Coeff 12:  -0.421998
+----------------------------------------
+File: 1_jackson_18.wav
+Audio size: 7244 bytes
+Feature size: 266 bytes
+Coeff  0:  1.863524
+Coeff  1:  13.953074
+Coeff  2:  4.963610
+Coeff  3:  -3.725942
+Coeff  4:  -4.044803
+Coeff  5:  1.726244
+Coeff  6:  -1.749094
+Coeff  7:  0.207710
+Coeff  8:  1.085419
+Coeff  9:  -0.476770
+Coeff 10:  0.486415
+Coeff 11:  -0.436731
+Coeff 12:  -0.085502
+----------------------------------------
+File: 1_jackson_19.wav
+Audio size: 7740 bytes
+Feature size: 267 bytes
+Coeff  0:  -0.597820
+Coeff  1:  15.074823
+Coeff  2:  4.927328
+Coeff  3:  -4.252136
+Coeff  4:  -5.563651
+Coeff  5:  2.715511
+Coeff  6:  -1.323680
+Coeff  7:  -0.112934
+Coeff  8:  1.217329
+Coeff  9:  -0.277762
+Coeff 10:  0.192683
+Coeff 11:  -0.057865
+Coeff 12:  0.321510
+----------------------------------------
+File: 1_jackson_2.wav
+Audio size: 7678 bytes
+Feature size: 269 bytes
+Coeff  0:  -4.510207
+Coeff  1:  17.910769
+Coeff  2:  2.384833
+Coeff  3:  -3.091108
+Coeff  4:  -4.094995
+Coeff  5:  1.675224
+Coeff  6:  -1.068126
+Coeff  7:  -1.097889
+Coeff  8:  -0.420066
+Coeff  9:  0.336906
+Coeff 10:  -0.140619
+Coeff 11:  -1.290015
+Coeff 12:  -0.269673
+----------------------------------------
+File: 1_jackson_20.wav
+Audio size: 7328 bytes
+Feature size: 266 bytes
+Coeff  0:  3.187101
+Coeff  1:  13.248071
+Coeff  2:  4.857065
+Coeff  3:  -3.772803
+Coeff  4:  -4.343718
+Coeff  5:  1.530463
+Coeff  6:  -1.962593
+Coeff  7:  0.098495
+Coeff  8:  0.474394
+Coeff  9:  0.425662
+Coeff 10:  -0.147007
+Coeff 11:  -0.201032
+Coeff 12:  -0.180545
+----------------------------------------
+File: 1_jackson_21.wav
+Audio size: 7792 bytes
+Feature size: 267 bytes
+Coeff  0:  -3.274866
+Coeff  1:  14.048744
+Coeff  2:  3.401956
+Coeff  3:  -1.007567
+Coeff  4:  -5.898929
+Coeff  5:  3.449813
+Coeff  6:  -2.191633
+Coeff  7:  -2.601081
+Coeff  8:  2.533568
+Coeff  9:  -1.196810
+Coeff 10:  2.330261
+Coeff 11:  -0.574135
+Coeff 12:  0.213199
+----------------------------------------
+File: 1_jackson_22.wav
+Audio size: 7100 bytes
+Feature size: 265 bytes
+Coeff  0:  -4.245060
+Coeff  1:  17.377827
+Coeff  2:  4.323586
+Coeff  3:  -2.982196
+Coeff  4:  -4.451388
+Coeff  5:  2.922349
+Coeff  6:  -3.503668
+Coeff  7:  0.809816
+Coeff  8:  0.641397
+Coeff  9:  0.267167
+Coeff 10:  0.920669
+Coeff 11:  -1.778390
+Coeff 12:  0.910035
+----------------------------------------
+File: 1_jackson_23.wav
+Audio size: 7486 bytes
+Feature size: 265 bytes
+Coeff  0:  3.730688
+Coeff  1:  14.016882
+Coeff  2:  4.639387
+Coeff  3:  -3.543502
+Coeff  4:  -4.077428
+Coeff  5:  1.301749
+Coeff  6:  -1.672941
+Coeff  7:  0.766031
+Coeff  8:  0.227858
+Coeff  9:  0.741556
+Coeff 10:  -0.377018
+Coeff 11:  -0.599681
+Coeff 12:  0.264639
+----------------------------------------
+File: 1_jackson_24.wav
+Audio size: 7698 bytes
+Feature size: 265 bytes
+Coeff  0:  0.876943
+Coeff  1:  15.007807
+Coeff  2:  4.329877
+Coeff  3:  -3.458109
+Coeff  4:  -4.088856
+Coeff  5:  1.691530
+Coeff  6:  -1.905561
+Coeff  7:  0.902149
+Coeff  8:  0.846928
+Coeff  9:  -0.672013
+Coeff 10:  0.038573
+Coeff 11:  0.099346
+Coeff 12:  -0.460454
+----------------------------------------
+File: 1_jackson_25.wav
+Audio size: 8728 bytes
+Feature size: 266 bytes
+Coeff  0:  3.651781
+Coeff  1:  13.956024
+Coeff  2:  3.250633
+Coeff  3:  -1.434595
+Coeff  4:  -3.901100
+Coeff  5:  2.605475
+Coeff  6:  -3.334174
+Coeff  7:  0.972891
+Coeff  8:  0.528767
+Coeff  9:  -0.092436
+Coeff 10:  1.164896
+Coeff 11:  -0.682943
+Coeff 12:  -0.222300
+----------------------------------------
+File: 1_jackson_26.wav
+Audio size: 8520 bytes
+Feature size: 265 bytes
+Coeff  0:  5.906774
+Coeff  1:  13.757379
+Coeff  2:  2.156711
+Coeff  3:  -0.884951
+Coeff  4:  -5.513301
+Coeff  5:  4.036010
+Coeff  6:  -2.717899
+Coeff  7:  -0.554601
+Coeff  8:  0.315670
+Coeff  9:  0.398857
+Coeff 10:  1.861893
+Coeff 11:  -1.897996
+Coeff 12:  0.867433
+----------------------------------------
+File: 1_jackson_27.wav
+Audio size: 7686 bytes
+Feature size: 268 bytes
+Coeff  0:  -2.261424
+Coeff  1:  15.931659
+Coeff  2:  3.650475
+Coeff  3:  -1.691134
+Coeff  4:  -4.747455
+Coeff  5:  2.477799
+Coeff  6:  -2.056740
+Coeff  7:  -0.433177
+Coeff  8:  1.803989
+Coeff  9:  -0.416033
+Coeff 10:  1.099962
+Coeff 11:  -1.818765
+Coeff 12:  -0.052132
+----------------------------------------
+File: 1_jackson_28.wav
+Audio size: 7478 bytes
+Feature size: 266 bytes
+Coeff  0:  1.443897
+Coeff  1:  16.141777
+Coeff  2:  3.329753
+Coeff  3:  -3.325648
+Coeff  4:  -6.978653
+Coeff  5:  4.608123
+Coeff  6:  -1.651250
+Coeff  7:  -1.079733
+Coeff  8:  1.236247
+Coeff  9:  -0.130329
+Coeff 10:  1.185397
+Coeff 11:  -1.599485
+Coeff 12:  0.564626
+----------------------------------------
+File: 1_jackson_29.wav
+Audio size: 7490 bytes
+Feature size: 267 bytes
+Coeff  0:  -5.025667
+Coeff  1:  16.375153
+Coeff  2:  4.307418
+Coeff  3:  -2.214586
+Coeff  4:  -5.249933
+Coeff  5:  2.457904
+Coeff  6:  -1.549775
+Coeff  7:  -0.970514
+Coeff  8:  2.156344
+Coeff  9:  -0.641575
+Coeff 10:  0.919947
+Coeff 11:  -2.054046
+Coeff 12:  1.089283
+----------------------------------------
+File: 1_jackson_3.wav
+Audio size: 7964 bytes
+Feature size: 267 bytes
+Coeff  0:  -4.213566
+Coeff  1:  17.143101
+Coeff  2:  0.467507
+Coeff  3:  -1.970693
+Coeff  4:  -3.616291
+Coeff  5:  1.130105
+Coeff  6:  -0.678514
+Coeff  7:  -1.282912
+Coeff  8:  -0.463642
+Coeff  9:  0.865860
+Coeff 10:  0.530364
+Coeff 11:  -0.771040
+Coeff 12:  0.296714
+----------------------------------------
+File: 1_jackson_30.wav
+Audio size: 7876 bytes
+Feature size: 267 bytes
+Coeff  0:  0.665499
+Coeff  1:  17.100666
+Coeff  2:  3.323303
+Coeff  3:  -4.433327
+Coeff  4:  -5.005235
+Coeff  5:  2.801957
+Coeff  6:  -0.679288
+Coeff  7:  -0.168872
+Coeff  8:  1.663590
+Coeff  9:  -0.267663
+Coeff 10:  0.872044
+Coeff 11:  -0.381211
+Coeff 12:  -0.990741
+----------------------------------------
+File: 1_jackson_31.wav
+Audio size: 8486 bytes
+Feature size: 267 bytes
+Coeff  0:  -2.868451
+Coeff  1:  14.722752
+Coeff  2:  4.147377
+Coeff  3:  -1.727959
+Coeff  4:  -5.037984
+Coeff  5:  3.617731
+Coeff  6:  -3.032170
+Coeff  7:  -0.925140
+Coeff  8:  1.292375
+Coeff  9:  -1.417241
+Coeff 10:  1.187689
+Coeff 11:  -1.094602
+Coeff 12:  0.391422
+----------------------------------------
+File: 1_jackson_32.wav
+Audio size: 8326 bytes
+Feature size: 266 bytes
+Coeff  0:  9.681617
+Coeff  1:  12.714744
+Coeff  2:  2.296082
+Coeff  3:  -2.110969
+Coeff  4:  -3.815517
+Coeff  5:  0.645548
+Coeff  6:  -0.344597
+Coeff  7:  0.813831
+Coeff  8:  0.543984
+Coeff  9:  1.694144
+Coeff 10:  -0.219164
+Coeff 11:  -1.422802
+Coeff 12:  -0.385615
+----------------------------------------
+File: 1_jackson_33.wav
+Audio size: 9778 bytes
+Feature size: 268 bytes
+Coeff  0:  -43.140015
+Coeff  1:  7.492121
+Coeff  2:  3.233083
+Coeff  3:  0.225948
+Coeff  4:  0.312887
+Coeff  5:  -1.689092
+Coeff  6:  -1.304235
+Coeff  7:  -0.850138
+Coeff  8:  -0.260823
+Coeff  9:  0.851861
+Coeff 10:  -0.439864
+Coeff 11:  -0.723378
+Coeff 12:  -0.423932
+----------------------------------------
+File: 1_jackson_34.wav
+Audio size: 8132 bytes
+Feature size: 266 bytes
+Coeff  0:  -1.036960
+Coeff  1:  13.905829
+Coeff  2:  3.374580
+Coeff  3:  -1.608516
+Coeff  4:  -4.775624
+Coeff  5:  3.819118
+Coeff  6:  -3.749333
+Coeff  7:  -0.854045
+Coeff  8:  0.479155
+Coeff  9:  -0.248517
+Coeff 10:  1.217746
+Coeff 11:  0.157765
+Coeff 12:  0.356064
+----------------------------------------
+File: 1_jackson_35.wav
+Audio size: 7964 bytes
+Feature size: 266 bytes
+Coeff  0:  -2.729427
+Coeff  1:  17.446526
+Coeff  2:  5.136975
+Coeff  3:  -5.210958
+Coeff  4:  -4.417564
+Coeff  5:  1.370998
+Coeff  6:  -2.739281
+Coeff  7:  0.445662
+Coeff  8:  0.851681
+Coeff  9:  -0.464413
+Coeff 10:  0.843971
+Coeff 11:  -1.170447
+Coeff 12:  0.500628
+----------------------------------------
+File: 1_jackson_36.wav
+Audio size: 7096 bytes
+Feature size: 267 bytes
+Coeff  0:  -1.766263
+Coeff  1:  17.531008
+Coeff  2:  4.470377
+Coeff  3:  -6.625713
+Coeff  4:  -5.582338
+Coeff  5:  3.079341
+Coeff  6:  -1.522001
+Coeff  7:  -0.855823
+Coeff  8:  1.490053
+Coeff  9:  -0.841864
+Coeff 10:  1.625436
+Coeff 11:  -0.654960
+Coeff 12:  0.272593
+----------------------------------------
+File: 1_jackson_37.wav
+Audio size: 7024 bytes
+Feature size: 266 bytes
+Coeff  0:  -2.195759
+Coeff  1:  15.667039
+Coeff  2:  7.019462
+Coeff  3:  -5.523784
+Coeff  4:  -5.400951
+Coeff  5:  2.314731
+Coeff  6:  -2.886336
+Coeff  7:  0.625605
+Coeff  8:  0.023187
+Coeff  9:  0.143898
+Coeff 10:  0.656477
+Coeff 11:  -0.131468
+Coeff 12:  -0.356516
+----------------------------------------
+File: 1_jackson_38.wav
+Audio size: 7962 bytes
+Feature size: 267 bytes
+Coeff  0:  -5.513649
+Coeff  1:  14.983081
+Coeff  2:  6.950105
+Coeff  3:  -2.465012
+Coeff  4:  -4.104402
+Coeff  5:  1.211673
+Coeff  6:  -1.311434
+Coeff  7:  0.502062
+Coeff  8:  -0.278507
+Coeff  9:  -0.958352
+Coeff 10:  0.313424
+Coeff 11:  -0.088388
+Coeff 12:  1.188732
+----------------------------------------
+File: 1_jackson_39.wav
+Audio size: 9026 bytes
+Feature size: 268 bytes
+Coeff  0:  1.343545
+Coeff  1:  14.685152
+Coeff  2:  7.167634
+Coeff  3:  -5.202654
+Coeff  4:  -0.839201
+Coeff  5:  -0.923884
+Coeff  6:  -1.872837
+Coeff  7:  1.555575
+Coeff  8:  0.190023
+Coeff  9:  -1.733426
+Coeff 10:  -0.694330
+Coeff 11:  -0.076202
+Coeff 12:  -0.261471
+----------------------------------------
+File: 1_jackson_4.wav
+Audio size: 8426 bytes
+Feature size: 268 bytes
+Coeff  0:  -4.899709
+Coeff  1:  14.192810
+Coeff  2:  2.608412
+Coeff  3:  -1.235446
+Coeff  4:  -3.218330
+Coeff  5:  1.895598
+Coeff  6:  -1.500048
+Coeff  7:  -1.424169
+Coeff  8:  0.386561
+Coeff  9:  -0.451334
+Coeff 10:  0.845457
+Coeff 11:  -1.814902
+Coeff 12:  -0.019183
+----------------------------------------
+File: 1_jackson_40.wav
+Audio size: 9726 bytes
+Feature size: 269 bytes
+Coeff  0:  -7.317121
+Coeff  1:  17.051807
+Coeff  2:  9.654649
+Coeff  3:  -4.829436
+Coeff  4:  -2.981078
+Coeff  5:  -0.260232
+Coeff  6:  -0.746834
+Coeff  7:  0.322908
+Coeff  8:  -0.560630
+Coeff  9:  -1.752671
+Coeff 10:  -0.135557
+Coeff 11:  0.435670
+Coeff 12:  -0.097001
+----------------------------------------
+File: 1_jackson_41.wav
+Audio size: 9964 bytes
+Feature size: 270 bytes
+Coeff  0:  -11.066500
+Coeff  1:  18.516754
+Coeff  2:  9.086800
+Coeff  3:  -4.679595
+Coeff  4:  -2.470671
+Coeff  5:  -0.757573
+Coeff  6:  -0.006576
+Coeff  7:  -0.436135
+Coeff  8:  -0.600699
+Coeff  9:  -1.439621
+Coeff 10:  0.142883
+Coeff 11:  -0.184004
+Coeff 12:  0.021490
+----------------------------------------
+File: 1_jackson_42.wav
+Audio size: 10004 bytes
+Feature size: 271 bytes
+Coeff  0:  -15.003014
+Coeff  1:  20.113581
+Coeff  2:  7.414773
+Coeff  3:  -4.007564
+Coeff  4:  -1.887945
+Coeff  5:  -0.615167
+Coeff  6:  -0.305448
+Coeff  7:  -1.052694
+Coeff  8:  -0.632682
+Coeff  9:  -0.400550
+Coeff 10:  -0.645463
+Coeff 11:  -0.120367
+Coeff 12:  0.556787
+----------------------------------------
+File: 1_jackson_43.wav
+Audio size: 9212 bytes
+Feature size: 267 bytes
+Coeff  0:  -7.083849
+Coeff  1:  17.523531
+Coeff  2:  7.612409
+Coeff  3:  -5.335764
+Coeff  4:  -0.701083
+Coeff  5:  -1.389184
+Coeff  6:  -1.109214
+Coeff  7:  0.031503
+Coeff  8:  1.142076
+Coeff  9:  -1.849195
+Coeff 10:  -0.753240
+Coeff 11:  0.382578
+Coeff 12:  0.341591
+----------------------------------------
+File: 1_jackson_44.wav
+Audio size: 9304 bytes
+Feature size: 269 bytes
+Coeff  0:  -4.968836
+Coeff  1:  18.383955
+Coeff  2:  6.216290
+Coeff  3:  -6.128335
+Coeff  4:  0.676172
+Coeff  5:  -2.550878
+Coeff  6:  -0.616768
+Coeff  7:  -0.027836
+Coeff  8:  1.476562
+Coeff  9:  -0.444120
+Coeff 10:  -1.043459
+Coeff 11:  -0.101945
+Coeff 12:  -0.288448
+----------------------------------------
+File: 1_jackson_45.wav
+Audio size: 9618 bytes
+Feature size: 268 bytes
+Coeff  0:  -15.212896
+Coeff  1:  17.083023
+Coeff  2:  7.200277
+Coeff  3:  -3.283631
+Coeff  4:  0.488428
+Coeff  5:  -1.764598
+Coeff  6:  -1.941566
+Coeff  7:  -0.235884
+Coeff  8:  1.027350
+Coeff  9:  0.287738
+Coeff 10:  -0.640366
+Coeff 11:  -1.100027
+Coeff 12:  0.174690
+----------------------------------------
+File: 1_jackson_46.wav
+Audio size: 8532 bytes
+Feature size: 267 bytes
+Coeff  0:  -2.060296
+Coeff  1:  17.269436
+Coeff  2:  5.469493
+Coeff  3:  -5.693972
+Coeff  4:  -0.605770
+Coeff  5:  -1.853643
+Coeff  6:  0.126805
+Coeff  7:  0.243770
+Coeff  8:  1.338336
+Coeff  9:  -1.473885
+Coeff 10:  -0.292355
+Coeff 11:  0.640658
+Coeff 12:  -1.044612
+----------------------------------------
+File: 1_jackson_47.wav
+Audio size: 8988 bytes
+Feature size: 267 bytes
+Coeff  0:  -8.468645
+Coeff  1:  18.184647
+Coeff  2:  9.107548
+Coeff  3:  -8.010725
+Coeff  4:  -1.363566
+Coeff  5:  -0.437354
+Coeff  6:  0.309757
+Coeff  7:  0.899281
+Coeff  8:  -1.350385
+Coeff  9:  0.143427
+Coeff 10:  -1.373136
+Coeff 11:  0.382899
+Coeff 12:  -0.384214
+----------------------------------------
+File: 1_jackson_48.wav
+Audio size: 9378 bytes
+Feature size: 268 bytes
+Coeff  0:  -7.893794
+Coeff  1:  18.469625
+Coeff  2:  8.501129
+Coeff  3:  -5.667374
+Coeff  4:  -1.505613
+Coeff  5:  -0.512332
+Coeff  6:  0.052195
+Coeff  7:  -0.750509
+Coeff  8:  0.230579
+Coeff  9:  -0.922538
+Coeff 10:  0.159071
+Coeff 11:  -0.602501
+Coeff 12:  -0.259042
+----------------------------------------
+File: 1_jackson_49.wav
+Audio size: 7976 bytes
+Feature size: 267 bytes
+Coeff  0:  -6.004714
+Coeff  1:  14.969488
+Coeff  2:  7.893305
+Coeff  3:  -2.110140
+Coeff  4:  -4.329702
+Coeff  5:  0.661541
+Coeff  6:  -1.150518
+Coeff  7:  0.322423
+Coeff  8:  0.552426
+Coeff  9:  -1.641506
+Coeff 10:  -1.024964
+Coeff 11:  -0.562235
+Coeff 12:  1.684133
+----------------------------------------
+File: 1_jackson_5.wav
+Audio size: 9132 bytes
+Feature size: 269 bytes
+Coeff  0:  -3.779291
+Coeff  1:  15.326520
+Coeff  2:  2.301210
+Coeff  3:  -2.219389
+Coeff  4:  -3.469665
+Coeff  5:  2.728449
+Coeff  6:  -2.251114
+Coeff  7:  -0.160402
+Coeff  8:  -0.484431
+Coeff  9:  0.429564
+Coeff 10:  -0.182670
+Coeff 11:  -1.668909
+Coeff 12:  -0.177081
+----------------------------------------
+File: 1_jackson_6.wav
+Audio size: 8114 bytes
+Feature size: 267 bytes
+Coeff  0:  -2.045441
+Coeff  1:  14.486460
+Coeff  2:  3.470339
+Coeff  3:  -3.013984
+Coeff  4:  -2.774683
+Coeff  5:  1.715982
+Coeff  6:  -1.549125
+Coeff  7:  -1.666780
+Coeff  8:  -0.073604
+Coeff  9:  0.724208
+Coeff 10:  0.693459
+Coeff 11:  -1.332761
+Coeff 12:  0.223990
+----------------------------------------
+File: 1_jackson_7.wav
+Audio size: 8958 bytes
+Feature size: 268 bytes
+Coeff  0:  -7.026458
+Coeff  1:  16.435488
+Coeff  2:  2.571109
+Coeff  3:  -2.408933
+Coeff  4:  -2.112888
+Coeff  5:  1.638676
+Coeff  6:  -1.568381
+Coeff  7:  -1.388350
+Coeff  8:  -0.356908
+Coeff  9:  0.816696
+Coeff 10:  0.939934
+Coeff 11:  -0.747141
+Coeff 12:  -0.223203
+----------------------------------------
+File: 1_jackson_8.wav
+Audio size: 8104 bytes
+Feature size: 267 bytes
+Coeff  0:  2.953286
+Coeff  1:  13.862910
+Coeff  2:  3.842957
+Coeff  3:  -5.891556
+Coeff  4:  -0.949270
+Coeff  5:  1.024661
+Coeff  6:  -1.098155
+Coeff  7:  -0.388650
+Coeff  8:  -0.691327
+Coeff  9:  0.809318
+Coeff 10:  -0.649689
+Coeff 11:  -0.829149
+Coeff 12:  0.442852
+----------------------------------------
+File: 1_jackson_9.wav
+Audio size: 9278 bytes
+Feature size: 267 bytes
+Coeff  0:  1.181241
+Coeff  1:  14.347996
+Coeff  2:  3.515646
+Coeff  3:  -4.915075
+Coeff  4:  -0.729279
+Coeff  5:  0.719784
+Coeff  6:  -1.991067
+Coeff  7:  -0.864827
+Coeff  8:  -0.056303
+Coeff  9:  0.938281
+Coeff 10:  -0.713795
+Coeff 11:  -0.714744
+Coeff 12:  0.500414
+----------------------------------------
+File: 1_lucas_0.wav
+Audio size: 6044 bytes
+Feature size: 266 bytes
+Coeff  0:  -42.908119
+Coeff  1:  1.245886
+Coeff  2:  1.310687
+Coeff  3:  0.864119
+Coeff  4:  -0.166996
+Coeff  5:  0.632551
+Coeff  6:  -0.741451
+Coeff  7:  0.138232
+Coeff  8:  -0.586466
+Coeff  9:  0.706934
+Coeff 10:  -0.394126
+Coeff 11:  0.301785
+Coeff 12:  -0.442079
+----------------------------------------
+File: 1_lucas_1.wav
+Audio size: 6400 bytes
+Feature size: 266 bytes
+Coeff  0:  -36.554333
+Coeff  1:  1.477875
+Coeff  2:  2.793598
+Coeff  3:  2.513309
+Coeff  4:  -1.575106
+Coeff  5:  2.874067
+Coeff  6:  -1.199362
+Coeff  7:  1.303666
+Coeff  8:  -1.113998
+Coeff  9:  0.015774
+Coeff 10:  0.315042
+Coeff 11:  -1.268057
+Coeff 12:  -0.050635
+----------------------------------------
+File: 1_lucas_10.wav
+Audio size: 6102 bytes
+Feature size: 267 bytes
+Coeff  0:  6.789643
+Coeff  1:  12.533053
+Coeff  2:  0.733551
+Coeff  3:  -5.960057
+Coeff  4:  -2.489039
+Coeff  5:  3.284169
+Coeff  6:  0.378922
+Coeff  7:  -0.248256
+Coeff  8:  0.315607
+Coeff  9:  -0.228980
+Coeff 10:  -0.182168
+Coeff 11:  -0.750052
+Coeff 12:  -1.157630
+----------------------------------------
+File: 1_lucas_11.wav
+Audio size: 7146 bytes
+Feature size: 266 bytes
+Coeff  0:  -45.641247
+Coeff  1:  2.655059
+Coeff  2:  0.577079
+Coeff  3:  -0.231619
+Coeff  4:  -0.326608
+Coeff  5:  0.159646
+Coeff  6:  0.049341
+Coeff  7:  -0.442611
+Coeff  8:  0.217936
+Coeff  9:  0.027233
+Coeff 10:  -0.499676
+Coeff 11:  -0.320101
+Coeff 12:  0.018229
+----------------------------------------
+File: 1_lucas_12.wav
+Audio size: 7582 bytes
+Feature size: 265 bytes
+Coeff  0:  -46.679611
+Coeff  1:  3.125666
+Coeff  2:  0.987628
+Coeff  3:  -0.469024
+Coeff  4:  -0.298626
+Coeff  5:  0.270773
+Coeff  6:  -0.511789
+Coeff  7:  0.077366
+Coeff  8:  0.364056
+Coeff  9:  -0.411089
+Coeff 10:  0.135117
+Coeff 11:  0.047425
+Coeff 12:  0.090041
+----------------------------------------
+File: 1_lucas_13.wav
+Audio size: 15064 bytes
+Feature size: 266 bytes
+Coeff  0:  -42.099194
+Coeff  1:  5.634267
+Coeff  2:  3.108120
+Coeff  3:  0.378236
+Coeff  4:  -0.030590
+Coeff  5:  1.240598
+Coeff  6:  -0.016659
+Coeff  7:  0.714555
+Coeff  8:  0.068875
+Coeff  9:  -0.224492
+Coeff 10:  0.553052
+Coeff 11:  -0.281193
+Coeff 12:  -0.419178
+----------------------------------------
+File: 1_lucas_14.wav
+Audio size: 7180 bytes
+Feature size: 266 bytes
+Coeff  0:  -28.931105
+Coeff  1:  2.147734
+Coeff  2:  -0.765538
+Coeff  3:  1.959823
+Coeff  4:  0.624257
+Coeff  5:  1.518041
+Coeff  6:  -1.953156
+Coeff  7:  1.262586
+Coeff  8:  1.038514
+Coeff  9:  -0.367300
+Coeff 10:  -0.276745
+Coeff 11:  0.870918
+Coeff 12:  -0.504361
+----------------------------------------
+File: 1_lucas_15.wav
+Audio size: 6488 bytes
+Feature size: 268 bytes
+Coeff  0:  -41.227226
+Coeff  1:  5.133488
+Coeff  2:  -1.116048
+Coeff  3:  -1.155682
+Coeff  4:  -0.543921
+Coeff  5:  0.500725
+Coeff  6:  -0.184110
+Coeff  7:  0.224041
+Coeff  8:  0.903029
+Coeff  9:  -0.422912
+Coeff 10:  0.036469
+Coeff 11:  -0.330988
+Coeff 12:  -0.445406
+----------------------------------------
+File: 1_lucas_16.wav
+Audio size: 14280 bytes
+Feature size: 270 bytes
+Coeff  0:  -45.422211
+Coeff  1:  2.210822
+Coeff  2:  -0.223162
+Coeff  3:  -0.140138
+Coeff  4:  -0.719018
+Coeff  5:  0.037117
+Coeff  6:  -0.139471
+Coeff  7:  -1.045232
+Coeff  8:  -0.040352
+Coeff  9:  -0.128701
+Coeff 10:  -0.192481
+Coeff 11:  -0.372720
+Coeff 12:  0.267620
+----------------------------------------
+File: 1_lucas_17.wav
+Audio size: 6996 bytes
+Feature size: 268 bytes
+Coeff  0:  -44.007339
+Coeff  1:  2.402171
+Coeff  2:  0.032421
+Coeff  3:  -0.984867
+Coeff  4:  -0.905623
+Coeff  5:  1.221703
+Coeff  6:  -0.231246
+Coeff  7:  0.213845
+Coeff  8:  -0.170603
+Coeff  9:  -0.360382
+Coeff 10:  0.202129
+Coeff 11:  -0.255308
+Coeff 12:  -0.169927
+----------------------------------------
+File: 1_lucas_18.wav
+Audio size: 12368 bytes
+Feature size: 267 bytes
+Coeff  0:  -37.304527
+Coeff  1:  -0.644967
+Coeff  2:  -0.510430
+Coeff  3:  2.889860
+Coeff  4:  -3.054681
+Coeff  5:  1.808163
+Coeff  6:  0.609441
+Coeff  7:  0.053946
+Coeff  8:  -0.520846
+Coeff  9:  -0.080153
+Coeff 10:  0.099162
+Coeff 11:  0.146405
+Coeff 12:  -0.147969
+----------------------------------------
+File: 1_lucas_19.wav
+Audio size: 8010 bytes
+Feature size: 269 bytes
+Coeff  0:  -36.609680
+Coeff  1:  -0.510088
+Coeff  2:  2.641789
+Coeff  3:  1.473691
+Coeff  4:  -2.344918
+Coeff  5:  2.057878
+Coeff  6:  -0.219033
+Coeff  7:  -0.222513
+Coeff  8:  -0.180256
+Coeff  9:  0.195380
+Coeff 10:  -0.259611
+Coeff 11:  -0.554202
+Coeff 12:  -0.691414
+----------------------------------------
+File: 1_lucas_2.wav
+Audio size: 6524 bytes
+Feature size: 266 bytes
+Coeff  0:  -40.453571
+Coeff  1:  1.346876
+Coeff  2:  1.538050
+Coeff  3:  0.437063
+Coeff  4:  -0.637784
+Coeff  5:  2.306995
+Coeff  6:  -0.881301
+Coeff  7:  1.481595
+Coeff  8:  -0.516666
+Coeff  9:  0.118016
+Coeff 10:  0.312013
+Coeff 11:  -0.353806
+Coeff 12:  -0.210829
+----------------------------------------
+File: 1_lucas_20.wav
+Audio size: 5980 bytes
+Feature size: 267 bytes
+Coeff  0:  -8.119452
+Coeff  1:  13.606549
+Coeff  2:  0.974238
+Coeff  3:  -3.604128
+Coeff  4:  -2.721059
+Coeff  5:  2.576268
+Coeff  6:  0.341637
+Coeff  7:  -0.351766
+Coeff  8:  0.363798
+Coeff  9:  -1.245059
+Coeff 10:  0.538754
+Coeff 11:  -0.780612
+Coeff 12:  -1.041740
+----------------------------------------
+File: 1_lucas_21.wav
+Audio size: 10914 bytes
+Feature size: 266 bytes
+Coeff  0:  -42.442326
+Coeff  1:  3.067147
+Coeff  2:  1.911210
+Coeff  3:  -0.798247
+Coeff  4:  0.172062
+Coeff  5:  1.930809
+Coeff  6:  -0.321940
+Coeff  7:  0.529304
+Coeff  8:  -0.369687
+Coeff  9:  -0.057916
+Coeff 10:  0.159465
+Coeff 11:  0.466950
+Coeff 12:  -0.597823
+----------------------------------------
+File: 1_lucas_22.wav
+Audio size: 7162 bytes
+Feature size: 265 bytes
+Coeff  0:  -40.412380
+Coeff  1:  0.284734
+Coeff  2:  1.612553
+Coeff  3:  0.376483
+Coeff  4:  -0.549898
+Coeff  5:  1.911080
+Coeff  6:  -1.147704
+Coeff  7:  2.309527
+Coeff  8:  -0.618634
+Coeff  9:  0.047872
+Coeff 10:  0.083103
+Coeff 11:  0.172447
+Coeff 12:  -0.001253
+----------------------------------------
+File: 1_lucas_23.wav
+Audio size: 6906 bytes
+Feature size: 265 bytes
+Coeff  0:  -42.450634
+Coeff  1:  1.917010
+Coeff  2:  1.449181
+Coeff  3:  0.214629
+Coeff  4:  -0.356467
+Coeff  5:  1.763548
+Coeff  6:  -0.407277
+Coeff  7:  0.732441
+Coeff  8:  -0.278115
+Coeff  9:  0.217400
+Coeff 10:  0.499345
+Coeff 11:  -0.107867
+Coeff 12:  0.471063
+----------------------------------------
+File: 1_lucas_24.wav
+Audio size: 9842 bytes
+Feature size: 267 bytes
+Coeff  0:  -30.487066
+Coeff  1:  11.719368
+Coeff  2:  5.546731
+Coeff  3:  -1.925385
+Coeff  4:  -1.778167
+Coeff  5:  0.763885
+Coeff  6:  -1.184289
+Coeff  7:  0.846536
+Coeff  8:  -0.724011
+Coeff  9:  0.402093
+Coeff 10:  0.021699
+Coeff 11:  0.931503
+Coeff 12:  -0.064640
+----------------------------------------
+File: 1_lucas_25.wav
+Audio size: 6540 bytes
+Feature size: 265 bytes
+Coeff  0:  -27.431000
+Coeff  1:  11.576340
+Coeff  2:  4.875197
+Coeff  3:  0.325274
+Coeff  4:  -2.552433
+Coeff  5:  1.338386
+Coeff  6:  -1.120196
+Coeff  7:  0.804368
+Coeff  8:  0.634255
+Coeff  9:  -1.264033
+Coeff 10:  0.453869
+Coeff 11:  0.629440
+Coeff 12:  0.078912
+----------------------------------------
+File: 1_lucas_26.wav
+Audio size: 6730 bytes
+Feature size: 265 bytes
+Coeff  0:  -35.168148
+Coeff  1:  5.772444
+Coeff  2:  2.461828
+Coeff  3:  -0.119960
+Coeff  4:  -1.116156
+Coeff  5:  1.364305
+Coeff  6:  -0.210368
+Coeff  7:  0.751741
+Coeff  8:  0.083945
+Coeff  9:  0.174335
+Coeff 10:  0.125651
+Coeff 11:  0.373759
+Coeff 12:  -0.374310
+----------------------------------------
+File: 1_lucas_27.wav
+Audio size: 3966 bytes
+Feature size: 267 bytes
+Coeff  0:  18.066397
+Coeff  1:  9.752754
+Coeff  2:  -0.038594
+Coeff  3:  -4.931823
+Coeff  4:  -1.156487
+Coeff  5:  3.782799
+Coeff  6:  -0.462878
+Coeff  7:  0.104672
+Coeff  8:  1.330473
+Coeff  9:  -0.429024
+Coeff 10:  0.356732
+Coeff 11:  -0.141315
+Coeff 12:  -0.696880
+----------------------------------------
+File: 1_lucas_28.wav
+Audio size: 5408 bytes
+Feature size: 269 bytes
+Coeff  0:  8.003126
+Coeff  1:  12.986738
+Coeff  2:  -0.634855
+Coeff  3:  -4.389217
+Coeff  4:  -3.355209
+Coeff  5:  2.664748
+Coeff  6:  -0.748047
+Coeff  7:  -1.300158
+Coeff  8:  2.273865
+Coeff  9:  -1.416378
+Coeff 10:  -0.324247
+Coeff 11:  -0.602677
+Coeff 12:  -1.184515
+----------------------------------------
+File: 1_lucas_29.wav
+Audio size: 7044 bytes
+Feature size: 265 bytes
+Coeff  0:  -45.220928
+Coeff  1:  2.227836
+Coeff  2:  1.270900
+Coeff  3:  0.420170
+Coeff  4:  -0.404278
+Coeff  5:  1.179830
+Coeff  6:  0.115654
+Coeff  7:  0.312473
+Coeff  8:  0.373378
+Coeff  9:  -0.506317
+Coeff 10:  -0.279032
+Coeff 11:  0.350275
+Coeff 12:  -0.079070
+----------------------------------------
+File: 1_lucas_3.wav
+Audio size: 12812 bytes
+Feature size: 266 bytes
+Coeff  0:  4.385567
+Coeff  1:  11.059772
+Coeff  2:  -0.639291
+Coeff  3:  -2.297997
+Coeff  4:  -3.496734
+Coeff  5:  3.967215
+Coeff  6:  0.015982
+Coeff  7:  1.036318
+Coeff  8:  0.295255
+Coeff  9:  -0.657692
+Coeff 10:  -0.056384
+Coeff 11:  0.418109
+Coeff 12:  -0.843538
+----------------------------------------
+File: 1_lucas_30.wav
+Audio size: 8294 bytes
+Feature size: 266 bytes
+Coeff  0:  -50.109859
+Coeff  1:  1.583707
+Coeff  2:  0.746211
+Coeff  3:  -1.333529
+Coeff  4:  0.218059
+Coeff  5:  1.231046
+Coeff  6:  -1.066575
+Coeff  7:  0.177873
+Coeff  8:  0.566704
+Coeff  9:  -0.027577
+Coeff 10:  -0.147587
+Coeff 11:  -0.203120
+Coeff 12:  0.415447
+----------------------------------------
+File: 1_lucas_31.wav
+Audio size: 7544 bytes
+Feature size: 267 bytes
+Coeff  0:  -36.447750
+Coeff  1:  -1.358987
+Coeff  2:  1.632517
+Coeff  3:  -0.599025
+Coeff  4:  0.040617
+Coeff  5:  1.559595
+Coeff  6:  -0.482920
+Coeff  7:  1.515270
+Coeff  8:  -0.758199
+Coeff  9:  0.317621
+Coeff 10:  -0.622085
+Coeff 11:  0.701238
+Coeff 12:  -1.140108
+----------------------------------------
+File: 1_lucas_32.wav
+Audio size: 10838 bytes
+Feature size: 266 bytes
+Coeff  0:  -19.122185
+Coeff  1:  10.989875
+Coeff  2:  3.567312
+Coeff  3:  -2.083671
+Coeff  4:  -5.079962
+Coeff  5:  2.559435
+Coeff  6:  -1.423715
+Coeff  7:  1.692466
+Coeff  8:  1.840068
+Coeff  9:  -1.590131
+Coeff 10:  0.981016
+Coeff 11:  0.162742
+Coeff 12:  0.399004
+----------------------------------------
+File: 1_lucas_33.wav
+Audio size: 16072 bytes
+Feature size: 266 bytes
+Coeff  0:  -11.822132
+Coeff  1:  15.982454
+Coeff  2:  3.766061
+Coeff  3:  -3.392571
+Coeff  4:  -2.193077
+Coeff  5:  2.131825
+Coeff  6:  0.477012
+Coeff  7:  0.097991
+Coeff  8:  0.245773
+Coeff  9:  -0.389135
+Coeff 10:  1.683689
+Coeff 11:  0.086603
+Coeff 12:  -0.646283
+----------------------------------------
+File: 1_lucas_34.wav
+Audio size: 7230 bytes
+Feature size: 266 bytes
+Coeff  0:  -45.569336
+Coeff  1:  2.374535
+Coeff  2:  -0.105259
+Coeff  3:  0.543600
+Coeff  4:  0.231963
+Coeff  5:  0.621207
+Coeff  6:  -0.696240
+Coeff  7:  -0.806144
+Coeff  8:  0.028133
+Coeff  9:  -0.293761
+Coeff 10:  0.429231
+Coeff 11:  0.089127
+Coeff 12:  -0.198766
+----------------------------------------
+File: 1_lucas_35.wav
+Audio size: 6996 bytes
+Feature size: 269 bytes
+Coeff  0:  -40.485352
+Coeff  1:  3.873734
+Coeff  2:  -2.128763
+Coeff  3:  -0.350866
+Coeff  4:  0.657704
+Coeff  5:  1.647402
+Coeff  6:  -0.616010
+Coeff  7:  -1.054226
+Coeff  8:  1.080006
+Coeff  9:  -0.653667
+Coeff 10:  -0.135788
+Coeff 11:  -0.783117
+Coeff 12:  -0.183684
+----------------------------------------
+File: 1_lucas_36.wav
+Audio size: 11836 bytes
+Feature size: 266 bytes
+Coeff  0:  2.633705
+Coeff  1:  12.752432
+Coeff  2:  0.026693
+Coeff  3:  -2.396843
+Coeff  4:  -5.404136
+Coeff  5:  3.786099
+Coeff  6:  -0.382540
+Coeff  7:  0.055718
+Coeff  8:  0.755393
+Coeff  9:  -1.174510
+Coeff 10:  0.240136
+Coeff 11:  -0.013046
+Coeff 12:  -1.265577
+----------------------------------------
+File: 1_lucas_37.wav
+Audio size: 6748 bytes
+Feature size: 267 bytes
+Coeff  0:  -47.755165
+Coeff  1:  2.614190
+Coeff  2:  1.584872
+Coeff  3:  -1.246775
+Coeff  4:  -0.879506
+Coeff  5:  1.313983
+Coeff  6:  -0.172628
+Coeff  7:  0.344239
+Coeff  8:  -0.706517
+Coeff  9:  -0.521983
+Coeff 10:  0.293727
+Coeff 11:  -0.255902
+Coeff 12:  0.482464
+----------------------------------------
+File: 1_lucas_38.wav
+Audio size: 7374 bytes
+Feature size: 267 bytes
+Coeff  0:  -31.612537
+Coeff  1:  10.577192
+Coeff  2:  3.882678
+Coeff  3:  0.164251
+Coeff  4:  -2.586704
+Coeff  5:  0.595670
+Coeff  6:  0.769177
+Coeff  7:  1.118843
+Coeff  8:  0.925183
+Coeff  9:  -0.535192
+Coeff 10:  -0.602058
+Coeff 11:  -0.218844
+Coeff 12:  -0.404098
+----------------------------------------
+File: 1_lucas_39.wav
+Audio size: 6818 bytes
+Feature size: 267 bytes
+Coeff  0:  1.243802
+Coeff  1:  11.797638
+Coeff  2:  0.242312
+Coeff  3:  -4.385329
+Coeff  4:  -3.570106
+Coeff  5:  2.416519
+Coeff  6:  -0.383205
+Coeff  7:  -2.074500
+Coeff  8:  0.560920
+Coeff  9:  -1.638909
+Coeff 10:  0.415606
+Coeff 11:  -1.314509
+Coeff 12:  -1.527384
+----------------------------------------
+File: 1_lucas_4.wav
+Audio size: 6158 bytes
+Feature size: 267 bytes
+Coeff  0:  -18.680141
+Coeff  1:  16.271866
+Coeff  2:  5.012897
+Coeff  3:  -2.991763
+Coeff  4:  -3.371223
+Coeff  5:  1.502510
+Coeff  6:  0.048405
+Coeff  7:  0.224460
+Coeff  8:  0.718099
+Coeff  9:  -0.229383
+Coeff 10:  1.313240
+Coeff 11:  -0.440658
+Coeff 12:  -0.699940
+----------------------------------------
+File: 1_lucas_40.wav
+Audio size: 10492 bytes
+Feature size: 271 bytes
+Coeff  0:  -18.459286
+Coeff  1:  14.306044
+Coeff  2:  0.567814
+Coeff  3:  -3.222155
+Coeff  4:  -3.671245
+Coeff  5:  1.274384
+Coeff  6:  -0.586546
+Coeff  7:  -0.871097
+Coeff  8:  -0.338151
+Coeff  9:  -1.839541
+Coeff 10:  -0.654714
+Coeff 11:  -1.127302
+Coeff 12:  -1.384485
+----------------------------------------
+File: 1_lucas_41.wav
+Audio size: 11952 bytes
+Feature size: 266 bytes
+Coeff  0:  7.096454
+Coeff  1:  14.638641
+Coeff  2:  1.469054
+Coeff  3:  -3.070938
+Coeff  4:  -3.164431
+Coeff  5:  1.730718
+Coeff  6:  0.662218
+Coeff  7:  -1.108699
+Coeff  8:  1.710853
+Coeff  9:  -0.649933
+Coeff 10:  1.110616
+Coeff 11:  -0.705240
+Coeff 12:  -1.196845
+----------------------------------------
+File: 1_lucas_42.wav
+Audio size: 8516 bytes
+Feature size: 266 bytes
+Coeff  0:  -50.782726
+Coeff  1:  2.680569
+Coeff  2:  1.789922
+Coeff  3:  -1.773020
+Coeff  4:  0.212880
+Coeff  5:  1.327455
+Coeff  6:  -0.523308
+Coeff  7:  0.378610
+Coeff  8:  -0.148459
+Coeff  9:  -1.289594
+Coeff 10:  0.351879
+Coeff 11:  -0.370925
+Coeff 12:  0.154065
+----------------------------------------
+File: 1_lucas_43.wav
+Audio size: 11386 bytes
+Feature size: 268 bytes
+Coeff  0:  -19.194172
+Coeff  1:  11.041369
+Coeff  2:  3.764540
+Coeff  3:  -1.461009
+Coeff  4:  -4.357918
+Coeff  5:  1.895612
+Coeff  6:  -1.958617
+Coeff  7:  0.615212
+Coeff  8:  0.930799
+Coeff  9:  -1.860501
+Coeff 10:  0.661631
+Coeff 11:  -1.864980
+Coeff 12:  -0.299671
+----------------------------------------
+File: 1_lucas_44.wav
+Audio size: 8228 bytes
+Feature size: 265 bytes
+Coeff  0:  -33.752808
+Coeff  1:  -8.070399
+Coeff  2:  2.660107
+Coeff  3:  2.872705
+Coeff  4:  -1.232405
+Coeff  5:  1.298359
+Coeff  6:  0.122959
+Coeff  7:  2.030515
+Coeff  8:  -1.886526
+Coeff  9:  1.159673
+Coeff 10:  0.510961
+Coeff 11:  0.475625
+Coeff 12:  -0.409048
+----------------------------------------
+File: 1_lucas_45.wav
+Audio size: 6570 bytes
+Feature size: 268 bytes
+Coeff  0:  13.025549
+Coeff  1:  13.525447
+Coeff  2:  2.373924
+Coeff  3:  -4.181056
+Coeff  4:  -3.605407
+Coeff  5:  3.979739
+Coeff  6:  -0.595980
+Coeff  7:  -0.324300
+Coeff  8:  1.042188
+Coeff  9:  -0.525501
+Coeff 10:  0.980434
+Coeff 11:  -1.192802
+Coeff 12:  -0.475798
+----------------------------------------
+File: 1_lucas_46.wav
+Audio size: 5952 bytes
+Feature size: 269 bytes
+Coeff  0:  20.948868
+Coeff  1:  9.509076
+Coeff  2:  -2.006228
+Coeff  3:  -5.423588
+Coeff  4:  -1.756130
+Coeff  5:  3.440494
+Coeff  6:  -1.232588
+Coeff  7:  -1.378330
+Coeff  8:  1.029313
+Coeff  9:  -1.813875
+Coeff 10:  -0.411739
+Coeff 11:  -1.891006
+Coeff 12:  -0.607962
+----------------------------------------
+File: 1_lucas_47.wav
+Audio size: 7198 bytes
+Feature size: 266 bytes
+Coeff  0:  -10.819477
+Coeff  1:  14.015792
+Coeff  2:  5.307725
+Coeff  3:  -1.153903
+Coeff  4:  -4.447717
+Coeff  5:  1.398038
+Coeff  6:  -1.865793
+Coeff  7:  1.577087
+Coeff  8:  1.884768
+Coeff  9:  -2.724319
+Coeff 10:  0.524555
+Coeff 11:  0.138573
+Coeff 12:  0.948739
+----------------------------------------
+File: 1_lucas_48.wav
+Audio size: 4160 bytes
+Feature size: 266 bytes
+Coeff  0:  21.464991
+Coeff  1:  9.477365
+Coeff  2:  0.031853
+Coeff  3:  -6.100323
+Coeff  4:  -2.511649
+Coeff  5:  5.036920
+Coeff  6:  -1.303207
+Coeff  7:  0.153251
+Coeff  8:  0.684154
+Coeff  9:  -0.566077
+Coeff 10:  0.003395
+Coeff 11:  -0.897837
+Coeff 12:  -0.786515
+----------------------------------------
+File: 1_lucas_49.wav
+Audio size: 6466 bytes
+Feature size: 265 bytes
+Coeff  0:  2.125440
+Coeff  1:  14.843302
+Coeff  2:  0.778247
+Coeff  3:  -2.352967
+Coeff  4:  -4.113436
+Coeff  5:  2.016798
+Coeff  6:  0.368667
+Coeff  7:  -1.405410
+Coeff  8:  1.110975
+Coeff  9:  -0.466751
+Coeff 10:  0.727930
+Coeff 11:  0.369663
+Coeff 12:  -1.927011
+----------------------------------------
+File: 1_lucas_5.wav
+Audio size: 5392 bytes
+Feature size: 265 bytes
+Coeff  0:  -8.386771
+Coeff  1:  15.062161
+Coeff  2:  0.935282
+Coeff  3:  -3.662398
+Coeff  4:  -2.250793
+Coeff  5:  4.358646
+Coeff  6:  0.018121
+Coeff  7:  -0.308551
+Coeff  8:  0.829565
+Coeff  9:  0.124858
+Coeff 10:  0.071267
+Coeff 11:  0.047907
+Coeff 12:  -0.848819
+----------------------------------------
+File: 1_lucas_6.wav
+Audio size: 6930 bytes
+Feature size: 268 bytes
+Coeff  0:  -41.724804
+Coeff  1:  -0.555744
+Coeff  2:  3.085855
+Coeff  3:  -0.446518
+Coeff  4:  -0.240765
+Coeff  5:  2.783908
+Coeff  6:  -2.409519
+Coeff  7:  1.971555
+Coeff  8:  -0.255248
+Coeff  9:  0.655643
+Coeff 10:  -0.104772
+Coeff 11:  0.601065
+Coeff 12:  -0.229262
+----------------------------------------
+File: 1_lucas_7.wav
+Audio size: 7498 bytes
+Feature size: 267 bytes
+Coeff  0:  -52.238750
+Coeff  1:  4.032510
+Coeff  2:  1.918012
+Coeff  3:  -1.982184
+Coeff  4:  -0.327339
+Coeff  5:  0.115052
+Coeff  6:  0.001033
+Coeff  7:  -0.407145
+Coeff  8:  0.106394
+Coeff  9:  -0.957925
+Coeff 10:  0.810258
+Coeff 11:  -0.432834
+Coeff 12:  -0.853275
+----------------------------------------
+File: 1_lucas_8.wav
+Audio size: 7732 bytes
+Feature size: 266 bytes
+Coeff  0:  -35.757256
+Coeff  1:  -2.706847
+Coeff  2:  3.406057
+Coeff  3:  1.559912
+Coeff  4:  -1.763289
+Coeff  5:  4.053245
+Coeff  6:  -1.595516
+Coeff  7:  1.470755
+Coeff  8:  -1.414711
+Coeff  9:  0.265782
+Coeff 10:  0.114098
+Coeff 11:  0.043912
+Coeff 12:  -0.218621
+----------------------------------------
+File: 1_lucas_9.wav
+Audio size: 7534 bytes
+Feature size: 269 bytes
+Coeff  0:  -30.676249
+Coeff  1:  7.823944
+Coeff  2:  -1.148535
+Coeff  3:  -1.756787
+Coeff  4:  0.671264
+Coeff  5:  3.845029
+Coeff  6:  -1.168629
+Coeff  7:  -1.408145
+Coeff  8:  1.537427
+Coeff  9:  -0.627819
+Coeff 10:  -0.098140
+Coeff 11:  -0.088941
+Coeff 12:  -1.041229
+----------------------------------------
+File: 1_nicolas_0.wav
+Audio size: 5858 bytes
+Feature size: 267 bytes
+Coeff  0:  3.767093
+Coeff  1:  10.063105
+Coeff  2:  4.541506
+Coeff  3:  -3.958389
+Coeff  4:  -2.715501
+Coeff  5:  -2.707357
+Coeff  6:  -0.716711
+Coeff  7:  -0.368301
+Coeff  8:  0.470753
+Coeff  9:  0.570940
+Coeff 10:  0.486404
+Coeff 11:  -0.089770
+Coeff 12:  -0.050323
+----------------------------------------
+File: 1_nicolas_1.wav
+Audio size: 4648 bytes
+Feature size: 266 bytes
+Coeff  0:  5.846771
+Coeff  1:  9.584811
+Coeff  2:  1.846354
+Coeff  3:  -4.188194
+Coeff  4:  -0.072815
+Coeff  5:  -0.731339
+Coeff  6:  -1.402176
+Coeff  7:  -0.768882
+Coeff  8:  0.894804
+Coeff  9:  0.712989
+Coeff 10:  0.276921
+Coeff 11:  -0.585398
+Coeff 12:  -0.196877
+----------------------------------------
+File: 1_nicolas_10.wav
+Audio size: 5820 bytes
+Feature size: 263 bytes
+Coeff  0:  0.117725
+Coeff  1:  8.195560
+Coeff  2:  5.554807
+Coeff  3:  -2.731095
+Coeff  4:  -2.089461
+Coeff  5:  -1.507603
+Coeff  6:  0.645848
+Coeff  7:  0.418325
+Coeff  8:  0.733079
+Coeff  9:  0.304749
+Coeff 10:  0.362707
+Coeff 11:  0.177900
+Coeff 12:  -0.468001
+----------------------------------------
+File: 1_nicolas_11.wav
+Audio size: 5960 bytes
+Feature size: 268 bytes
+Coeff  0:  8.851163
+Coeff  1:  10.298510
+Coeff  2:  0.716113
+Coeff  3:  -5.211484
+Coeff  4:  -1.150381
+Coeff  5:  -1.186970
+Coeff  6:  -0.641076
+Coeff  7:  -0.244080
+Coeff  8:  0.921112
+Coeff  9:  0.344231
+Coeff 10:  -0.158828
+Coeff 11:  -0.088513
+Coeff 12:  -0.234847
+----------------------------------------
+File: 1_nicolas_12.wav
+Audio size: 5400 bytes
+Feature size: 266 bytes
+Coeff  0:  2.316728
+Coeff  1:  7.817699
+Coeff  2:  2.660704
+Coeff  3:  -3.169500
+Coeff  4:  -0.539588
+Coeff  5:  -0.753137
+Coeff  6:  0.456971
+Coeff  7:  0.395653
+Coeff  8:  0.611577
+Coeff  9:  -0.322962
+Coeff 10:  -0.735388
+Coeff 11:  -0.652988
+Coeff 12:  -0.330095
+----------------------------------------
+File: 1_nicolas_13.wav
+Audio size: 4558 bytes
+Feature size: 266 bytes
+Coeff  0:  6.441883
+Coeff  1:  10.139510
+Coeff  2:  1.569891
+Coeff  3:  -5.120902
+Coeff  4:  -1.006502
+Coeff  5:  -0.318266
+Coeff  6:  1.003343
+Coeff  7:  0.261551
+Coeff  8:  0.344363
+Coeff  9:  0.186124
+Coeff 10:  -0.029904
+Coeff 11:  -0.777070
+Coeff 12:  -0.388724
+----------------------------------------
+File: 1_nicolas_14.wav
+Audio size: 5120 bytes
+Feature size: 269 bytes
+Coeff  0:  4.709655
+Coeff  1:  8.727951
+Coeff  2:  1.297218
+Coeff  3:  -5.179880
+Coeff  4:  -2.089345
+Coeff  5:  -0.934499
+Coeff  6:  -0.504021
+Coeff  7:  -2.051661
+Coeff  8:  -0.546057
+Coeff  9:  -1.085208
+Coeff 10:  -0.981440
+Coeff 11:  -1.465668
+Coeff 12:  -1.421706
+----------------------------------------
+File: 1_nicolas_15.wav
+Audio size: 4698 bytes
+Feature size: 268 bytes
+Coeff  0:  11.045838
+Coeff  1:  10.458931
+Coeff  2:  -1.507401
+Coeff  3:  -4.372990
+Coeff  4:  1.530506
+Coeff  5:  -1.046155
+Coeff  6:  -1.642626
+Coeff  7:  0.054828
+Coeff  8:  1.299392
+Coeff  9:  -0.183149
+Coeff 10:  -0.728041
+Coeff 11:  -0.357413
+Coeff 12:  0.521139
+----------------------------------------
+File: 1_nicolas_16.wav
+Audio size: 4768 bytes
+Feature size: 266 bytes
+Coeff  0:  11.287698
+Coeff  1:  9.514028
+Coeff  2:  -1.176720
+Coeff  3:  -3.469123
+Coeff  4:  1.517384
+Coeff  5:  -1.408512
+Coeff  6:  -0.877220
+Coeff  7:  0.645751
+Coeff  8:  0.828929
+Coeff  9:  -0.497961
+Coeff 10:  -0.813312
+Coeff 11:  0.108529
+Coeff 12:  0.101601
+----------------------------------------
+File: 1_nicolas_17.wav
+Audio size: 4066 bytes
+Feature size: 267 bytes
+Coeff  0:  6.966018
+Coeff  1:  8.468790
+Coeff  2:  0.035471
+Coeff  3:  -5.091381
+Coeff  4:  -0.198767
+Coeff  5:  -0.905291
+Coeff  6:  -1.456551
+Coeff  7:  0.163801
+Coeff  8:  1.212283
+Coeff  9:  -1.126458
+Coeff 10:  -1.680521
+Coeff 11:  -0.460223
+Coeff 12:  -0.244713
+----------------------------------------
+File: 1_nicolas_18.wav
+Audio size: 4980 bytes
+Feature size: 266 bytes
+Coeff  0:  8.332127
+Coeff  1:  9.666250
+Coeff  2:  -0.764367
+Coeff  3:  -4.511591
+Coeff  4:  0.986314
+Coeff  5:  -0.738905
+Coeff  6:  -0.657435
+Coeff  7:  -0.860122
+Coeff  8:  0.606684
+Coeff  9:  0.644312
+Coeff 10:  -0.459322
+Coeff 11:  -0.596098
+Coeff 12:  0.149208
+----------------------------------------
+File: 1_nicolas_19.wav
+Audio size: 3926 bytes
+Feature size: 267 bytes
+Coeff  0:  7.684752
+Coeff  1:  9.490675
+Coeff  2:  -0.249451
+Coeff  3:  -4.466879
+Coeff  4:  0.682920
+Coeff  5:  -0.719748
+Coeff  6:  -0.437346
+Coeff  7:  -0.851827
+Coeff  8:  0.132410
+Coeff  9:  0.289349
+Coeff 10:  -0.118395
+Coeff 11:  -0.395959
+Coeff 12:  -0.231059
+----------------------------------------
+File: 1_nicolas_2.wav
+Audio size: 4174 bytes
+Feature size: 268 bytes
+Coeff  0:  10.218566
+Coeff  1:  8.782454
+Coeff  2:  -0.732788
+Coeff  3:  -3.716780
+Coeff  4:  0.938684
+Coeff  5:  -0.082202
+Coeff  6:  -0.726428
+Coeff  7:  -0.249160
+Coeff  8:  0.856007
+Coeff  9:  0.001156
+Coeff 10:  -0.251369
+Coeff 11:  -0.578782
+Coeff 12:  -0.022981
+----------------------------------------
+File: 1_nicolas_20.wav
+Audio size: 4896 bytes
+Feature size: 267 bytes
+Coeff  0:  4.260654
+Coeff  1:  10.239780
+Coeff  2:  4.155668
+Coeff  3:  -3.914332
+Coeff  4:  -2.177236
+Coeff  5:  -1.869303
+Coeff  6:  -0.573985
+Coeff  7:  -0.513613
+Coeff  8:  0.842110
+Coeff  9:  0.362838
+Coeff 10:  0.296765
+Coeff 11:  -0.433717
+Coeff 12:  -0.259402
+----------------------------------------
+File: 1_nicolas_21.wav
+Audio size: 4966 bytes
+Feature size: 266 bytes
+Coeff  0:  3.583691
+Coeff  1:  9.016930
+Coeff  2:  3.229756
+Coeff  3:  -4.255088
+Coeff  4:  -1.474652
+Coeff  5:  -0.802971
+Coeff  6:  0.548122
+Coeff  7:  -0.226884
+Coeff  8:  0.009840
+Coeff  9:  0.364939
+Coeff 10:  -0.319938
+Coeff 11:  -1.240512
+Coeff 12:  -0.671736
+----------------------------------------
+File: 1_nicolas_22.wav
+Audio size: 5576 bytes
+Feature size: 268 bytes
+Coeff  0:  7.080925
+Coeff  1:  9.839471
+Coeff  2:  1.408746
+Coeff  3:  -4.510041
+Coeff  4:  -0.396142
+Coeff  5:  -0.376197
+Coeff  6:  -0.102663
+Coeff  7:  -0.945749
+Coeff  8:  -0.062594
+Coeff  9:  0.208875
+Coeff 10:  -0.233021
+Coeff 11:  -0.324936
+Coeff 12:  -0.278748
+----------------------------------------
+File: 1_nicolas_23.wav
+Audio size: 5100 bytes
+Feature size: 266 bytes
+Coeff  0:  4.706248
+Coeff  1:  7.196225
+Coeff  2:  0.063295
+Coeff  3:  -2.939797
+Coeff  4:  0.901512
+Coeff  5:  -1.303908
+Coeff  6:  -0.650597
+Coeff  7:  0.405994
+Coeff  8:  0.594018
+Coeff  9:  -1.001699
+Coeff 10:  -1.160815
+Coeff 11:  -0.263721
+Coeff 12:  -0.023712
+----------------------------------------
+File: 1_nicolas_24.wav
+Audio size: 4830 bytes
+Feature size: 269 bytes
+Coeff  0:  10.066622
+Coeff  1:  9.345352
+Coeff  2:  -0.564139
+Coeff  3:  -3.855691
+Coeff  4:  0.302325
+Coeff  5:  -0.992393
+Coeff  6:  -0.353061
+Coeff  7:  -0.237269
+Coeff  8:  -0.109467
+Coeff  9:  -0.987836
+Coeff 10:  -0.393147
+Coeff 11:  0.042161
+Coeff 12:  -0.493408
+----------------------------------------
+File: 1_nicolas_25.wav
+Audio size: 5304 bytes
+Feature size: 269 bytes
+Coeff  0:  11.710812
+Coeff  1:  9.469891
+Coeff  2:  -0.974978
+Coeff  3:  -4.036975
+Coeff  4:  0.630203
+Coeff  5:  -0.660044
+Coeff  6:  -1.821047
+Coeff  7:  -0.712459
+Coeff  8:  1.056944
+Coeff  9:  -0.686337
+Coeff 10:  -0.717238
+Coeff 11:  -0.252968
+Coeff 12:  -0.183086
+----------------------------------------
+File: 1_nicolas_26.wav
+Audio size: 5168 bytes
+Feature size: 269 bytes
+Coeff  0:  11.490050
+Coeff  1:  8.907309
+Coeff  2:  -1.341561
+Coeff  3:  -3.152677
+Coeff  4:  0.016480
+Coeff  5:  -1.273728
+Coeff  6:  -0.980584
+Coeff  7:  -0.591828
+Coeff  8:  1.249244
+Coeff  9:  -1.162324
+Coeff 10:  -0.843210
+Coeff 11:  -0.107356
+Coeff 12:  -0.516216
+----------------------------------------
+File: 1_nicolas_27.wav
+Audio size: 4014 bytes
+Feature size: 268 bytes
+Coeff  0:  14.445748
+Coeff  1:  8.062281
+Coeff  2:  -2.226244
+Coeff  3:  -2.210175
+Coeff  4:  0.779663
+Coeff  5:  -3.022074
+Coeff  6:  -0.113545
+Coeff  7:  0.712159
+Coeff  8:  -0.235544
+Coeff  9:  -0.253803
+Coeff 10:  -0.232070
+Coeff 11:  0.163151
+Coeff 12:  -0.124362
+----------------------------------------
+File: 1_nicolas_28.wav
+Audio size: 5168 bytes
+Feature size: 268 bytes
+Coeff  0:  7.417248
+Coeff  1:  9.638551
+Coeff  2:  0.472418
+Coeff  3:  -5.282192
+Coeff  4:  -0.635040
+Coeff  5:  -0.373112
+Coeff  6:  -1.151512
+Coeff  7:  -0.907468
+Coeff  8:  0.703603
+Coeff  9:  -0.562288
+Coeff 10:  -0.759585
+Coeff 11:  -0.474846
+Coeff 12:  -0.009814
+----------------------------------------
+File: 1_nicolas_29.wav
+Audio size: 5100 bytes
+Feature size: 268 bytes
+Coeff  0:  13.999088
+Coeff  1:  8.884421
+Coeff  2:  -1.500970
+Coeff  3:  -6.307262
+Coeff  4:  0.376133
+Coeff  5:  -0.187697
+Coeff  6:  -1.853345
+Coeff  7:  -0.278463
+Coeff  8:  0.770429
+Coeff  9:  0.230756
+Coeff 10:  -1.461668
+Coeff 11:  -0.035823
+Coeff 12:  -0.202041
+----------------------------------------
+File: 1_nicolas_3.wav
+Audio size: 4648 bytes
+Feature size: 267 bytes
+Coeff  0:  9.496008
+Coeff  1:  10.271558
+Coeff  2:  -0.164212
+Coeff  3:  -4.867357
+Coeff  4:  0.509029
+Coeff  5:  -0.340704
+Coeff  6:  -0.986189
+Coeff  7:  -0.449159
+Coeff  8:  0.953682
+Coeff  9:  0.201718
+Coeff 10:  -0.260977
+Coeff 11:  -0.678094
+Coeff 12:  0.137639
+----------------------------------------
+File: 1_nicolas_30.wav
+Audio size: 4908 bytes
+Feature size: 267 bytes
+Coeff  0:  9.474729
+Coeff  1:  10.814944
+Coeff  2:  1.489598
+Coeff  3:  -4.921194
+Coeff  4:  -0.520784
+Coeff  5:  -1.179291
+Coeff  6:  -0.997336
+Coeff  7:  -0.257916
+Coeff  8:  1.229090
+Coeff  9:  0.759569
+Coeff 10:  -0.525796
+Coeff 11:  -0.876646
+Coeff 12:  0.157700
+----------------------------------------
+File: 1_nicolas_31.wav
+Audio size: 4908 bytes
+Feature size: 267 bytes
+Coeff  0:  6.000208
+Coeff  1:  9.678910
+Coeff  2:  1.283384
+Coeff  3:  -5.019162
+Coeff  4:  -0.698148
+Coeff  5:  -0.900594
+Coeff  6:  -0.649215
+Coeff  7:  -0.895991
+Coeff  8:  0.864388
+Coeff  9:  0.286643
+Coeff 10:  -0.730322
+Coeff 11:  -0.806083
+Coeff 12:  -0.276698
+----------------------------------------
+File: 1_nicolas_32.wav
+Audio size: 5168 bytes
+Feature size: 271 bytes
+Coeff  0:  10.838136
+Coeff  1:  10.006093
+Coeff  2:  -0.494817
+Coeff  3:  -5.345617
+Coeff  4:  -0.575811
+Coeff  5:  -0.806390
+Coeff  6:  -1.080800
+Coeff  7:  -0.634769
+Coeff  8:  0.977980
+Coeff  9:  -0.643719
+Coeff 10:  -1.062265
+Coeff 11:  -0.186130
+Coeff 12:  -0.120615
+----------------------------------------
+File: 1_nicolas_33.wav
+Audio size: 6328 bytes
+Feature size: 266 bytes
+Coeff  0:  1.108745
+Coeff  1:  8.575129
+Coeff  2:  5.079671
+Coeff  3:  -3.103425
+Coeff  4:  -2.445820
+Coeff  5:  -2.006332
+Coeff  6:  -0.174677
+Coeff  7:  -0.072826
+Coeff  8:  0.086717
+Coeff  9:  -0.192963
+Coeff 10:  0.327355
+Coeff 11:  0.024155
+Coeff 12:  -0.390076
+----------------------------------------
+File: 1_nicolas_34.wav
+Audio size: 4522 bytes
+Feature size: 267 bytes
+Coeff  0:  5.051624
+Coeff  1:  9.729182
+Coeff  2:  1.693061
+Coeff  3:  -4.721376
+Coeff  4:  -1.049902
+Coeff  5:  -1.337575
+Coeff  6:  -0.580394
+Coeff  7:  -0.826802
+Coeff  8:  0.404704
+Coeff  9:  0.380226
+Coeff 10:  -0.627416
+Coeff 11:  -0.396723
+Coeff 12:  -0.101133
+----------------------------------------
+File: 1_nicolas_35.wav
+Audio size: 4650 bytes
+Feature size: 268 bytes
+Coeff  0:  5.962827
+Coeff  1:  9.153958
+Coeff  2:  2.298355
+Coeff  3:  -4.366462
+Coeff  4:  -0.967132
+Coeff  5:  -0.432489
+Coeff  6:  -0.375976
+Coeff  7:  -1.145140
+Coeff  8:  -0.004177
+Coeff  9:  0.356057
+Coeff 10:  -0.222744
+Coeff 11:  -0.651227
+Coeff 12:  -0.247050
+----------------------------------------
+File: 1_nicolas_36.wav
+Audio size: 5488 bytes
+Feature size: 264 bytes
+Coeff  0:  6.520448
+Coeff  1:  9.135629
+Coeff  2:  1.715915
+Coeff  3:  -3.344866
+Coeff  4:  0.817017
+Coeff  5:  0.600256
+Coeff  6:  -0.409962
+Coeff  7:  -0.350903
+Coeff  8:  1.152998
+Coeff  9:  0.192383
+Coeff 10:  -0.851818
+Coeff 11:  -0.636602
+Coeff 12:  0.084775
+----------------------------------------
+File: 1_nicolas_37.wav
+Audio size: 5296 bytes
+Feature size: 266 bytes
+Coeff  0:  5.520591
+Coeff  1:  9.264602
+Coeff  2:  2.498379
+Coeff  3:  -3.863237
+Coeff  4:  -1.256099
+Coeff  5:  -0.956050
+Coeff  6:  0.225375
+Coeff  7:  -0.712908
+Coeff  8:  -0.494938
+Coeff  9:  -0.130407
+Coeff 10:  0.015732
+Coeff 11:  -0.406702
+Coeff 12:  0.196400
+----------------------------------------
+File: 1_nicolas_38.wav
+Audio size: 4908 bytes
+Feature size: 269 bytes
+Coeff  0:  10.255652
+Coeff  1:  10.403966
+Coeff  2:  0.467929
+Coeff  3:  -5.371081
+Coeff  4:  -0.855881
+Coeff  5:  -0.419940
+Coeff  6:  -0.628346
+Coeff  7:  -1.081993
+Coeff  8:  1.033010
+Coeff  9:  0.572194
+Coeff 10:  -0.356168
+Coeff 11:  -0.308293
+Coeff 12:  -0.087955
+----------------------------------------
+File: 1_nicolas_39.wav
+Audio size: 5490 bytes
+Feature size: 270 bytes
+Coeff  0:  11.576166
+Coeff  1:  10.501675
+Coeff  2:  -0.324201
+Coeff  3:  -5.526194
+Coeff  4:  -0.399654
+Coeff  5:  -0.334638
+Coeff  6:  -0.727898
+Coeff  7:  -0.333318
+Coeff  8:  0.816804
+Coeff  9:  0.427678
+Coeff 10:  -0.425501
+Coeff 11:  -0.315489
+Coeff 12:  -0.151715
+----------------------------------------
+File: 1_nicolas_4.wav
+Audio size: 4714 bytes
+Feature size: 268 bytes
+Coeff  0:  9.265982
+Coeff  1:  10.333237
+Coeff  2:  0.460853
+Coeff  3:  -4.930165
+Coeff  4:  -0.259039
+Coeff  5:  -0.501745
+Coeff  6:  -0.474264
+Coeff  7:  -1.000763
+Coeff  8:  0.426053
+Coeff  9:  1.024244
+Coeff 10:  -0.149394
+Coeff 11:  -0.883442
+Coeff 12:  -0.251088
+----------------------------------------
+File: 1_nicolas_40.wav
+Audio size: 5832 bytes
+Feature size: 268 bytes
+Coeff  0:  12.605918
+Coeff  1:  10.871559
+Coeff  2:  0.195235
+Coeff  3:  -5.043637
+Coeff  4:  -0.132360
+Coeff  5:  -0.014108
+Coeff  6:  0.096565
+Coeff  7:  -0.103896
+Coeff  8:  0.769227
+Coeff  9:  0.499728
+Coeff 10:  -0.326105
+Coeff 11:  -0.789222
+Coeff 12:  -0.609891
+----------------------------------------
+File: 1_nicolas_41.wav
+Audio size: 4990 bytes
+Feature size: 268 bytes
+Coeff  0:  13.300514
+Coeff  1:  9.793971
+Coeff  2:  -1.723806
+Coeff  3:  -5.070354
+Coeff  4:  -0.244806
+Coeff  5:  0.162699
+Coeff  6:  -0.904525
+Coeff  7:  -1.327603
+Coeff  8:  0.988509
+Coeff  9:  1.008423
+Coeff 10:  -0.391128
+Coeff 11:  -0.854683
+Coeff 12:  -0.338589
+----------------------------------------
+File: 1_nicolas_42.wav
+Audio size: 4600 bytes
+Feature size: 265 bytes
+Coeff  0:  3.880011
+Coeff  1:  7.607262
+Coeff  2:  1.456185
+Coeff  3:  -2.206425
+Coeff  4:  2.070418
+Coeff  5:  -1.739283
+Coeff  6:  -1.089290
+Coeff  7:  1.132433
+Coeff  8:  0.740304
+Coeff  9:  -1.043030
+Coeff 10:  -0.563136
+Coeff 11:  0.538391
+Coeff 12:  -0.169412
+----------------------------------------
+File: 1_nicolas_43.wav
+Audio size: 5056 bytes
+Feature size: 267 bytes
+Coeff  0:  9.645011
+Coeff  1:  10.290866
+Coeff  2:  0.279038
+Coeff  3:  -5.403879
+Coeff  4:  0.102505
+Coeff  5:  -0.494181
+Coeff  6:  -1.136151
+Coeff  7:  -0.825790
+Coeff  8:  0.991130
+Coeff  9:  0.796078
+Coeff 10:  -0.368720
+Coeff 11:  -0.574323
+Coeff 12:  -0.145803
+----------------------------------------
+File: 1_nicolas_44.wav
+Audio size: 5248 bytes
+Feature size: 270 bytes
+Coeff  0:  12.786424
+Coeff  1:  10.622350
+Coeff  2:  -0.485382
+Coeff  3:  -5.720258
+Coeff  4:  -0.306490
+Coeff  5:  -0.212646
+Coeff  6:  -1.186351
+Coeff  7:  -0.635897
+Coeff  8:  1.771479
+Coeff  9:  0.539208
+Coeff 10:  -0.947250
+Coeff 11:  -0.908369
+Coeff 12:  -0.104380
+----------------------------------------
+File: 1_nicolas_45.wav
+Audio size: 4860 bytes
+Feature size: 267 bytes
+Coeff  0:  7.268230
+Coeff  1:  10.545936
+Coeff  2:  1.996654
+Coeff  3:  -5.659172
+Coeff  4:  -1.319481
+Coeff  5:  -0.163879
+Coeff  6:  0.048542
+Coeff  7:  -0.996819
+Coeff  8:  0.357515
+Coeff  9:  1.163742
+Coeff 10:  -0.214735
+Coeff 11:  -0.913603
+Coeff 12:  -0.274763
+----------------------------------------
+File: 1_nicolas_46.wav
+Audio size: 4796 bytes
+Feature size: 268 bytes
+Coeff  0:  12.124385
+Coeff  1:  9.421207
+Coeff  2:  -1.364047
+Coeff  3:  -4.955019
+Coeff  4:  0.813269
+Coeff  5:  -0.406655
+Coeff  6:  -0.867835
+Coeff  7:  -0.510248
+Coeff  8:  0.214321
+Coeff  9:  0.336034
+Coeff 10:  -0.424516
+Coeff 11:  -0.158625
+Coeff 12:  -0.059544
+----------------------------------------
+File: 1_nicolas_47.wav
+Audio size: 3952 bytes
+Feature size: 266 bytes
+Coeff  0:  9.488676
+Coeff  1:  9.768354
+Coeff  2:  0.204525
+Coeff  3:  -5.220964
+Coeff  4:  -0.368058
+Coeff  5:  -0.391741
+Coeff  6:  -0.413740
+Coeff  7:  -0.945122
+Coeff  8:  0.480638
+Coeff  9:  0.027089
+Coeff 10:  0.116677
+Coeff 11:  -0.459295
+Coeff 12:  -0.199387
+----------------------------------------
+File: 1_nicolas_48.wav
+Audio size: 5962 bytes
+Feature size: 266 bytes
+Coeff  0:  1.474844
+Coeff  1:  8.626757
+Coeff  2:  4.241068
+Coeff  3:  -3.552551
+Coeff  4:  -1.786099
+Coeff  5:  -1.833026
+Coeff  6:  -0.350002
+Coeff  7:  0.006296
+Coeff  8:  0.618129
+Coeff  9:  0.683086
+Coeff 10:  -0.022289
+Coeff 11:  -0.588483
+Coeff 12:  -0.496550
+----------------------------------------
+File: 1_nicolas_49.wav
+Audio size: 4212 bytes
+Feature size: 265 bytes
+Coeff  0:  6.378175
+Coeff  1:  8.920913
+Coeff  2:  1.121397
+Coeff  3:  -5.445576
+Coeff  4:  -0.832242
+Coeff  5:  0.592447
+Coeff  6:  0.737222
+Coeff  7:  -0.567171
+Coeff  8:  0.353663
+Coeff  9:  0.135895
+Coeff 10:  -0.738279
+Coeff 11:  -0.661396
+Coeff 12:  -0.137591
+----------------------------------------
+File: 1_nicolas_5.wav
+Audio size: 5252 bytes
+Feature size: 268 bytes
+Coeff  0:  11.807125
+Coeff  1:  9.836522
+Coeff  2:  -0.957667
+Coeff  3:  -4.363812
+Coeff  4:  1.041427
+Coeff  5:  0.018601
+Coeff  6:  -0.326269
+Coeff  7:  -0.202181
+Coeff  8:  0.995734
+Coeff  9:  -0.030108
+Coeff 10:  -0.703568
+Coeff 11:  -0.876252
+Coeff 12:  -0.479475
+----------------------------------------
+File: 1_nicolas_6.wav
+Audio size: 4648 bytes
+Feature size: 266 bytes
+Coeff  0:  6.225285
+Coeff  1:  9.392243
+Coeff  2:  1.018139
+Coeff  3:  -3.880121
+Coeff  4:  1.385832
+Coeff  5:  0.249926
+Coeff  6:  -1.056952
+Coeff  7:  -0.449711
+Coeff  8:  0.604337
+Coeff  9:  -0.036922
+Coeff 10:  -0.234530
+Coeff 11:  -0.306268
+Coeff 12:  -0.088376
+----------------------------------------
+File: 1_nicolas_7.wav
+Audio size: 4780 bytes
+Feature size: 269 bytes
+Coeff  0:  11.417410
+Coeff  1:  9.948977
+Coeff  2:  -0.976276
+Coeff  3:  -5.161422
+Coeff  4:  -0.548918
+Coeff  5:  -0.134983
+Coeff  6:  -0.921701
+Coeff  7:  -1.883638
+Coeff  8:  0.619396
+Coeff  9:  0.271516
+Coeff 10:  -0.028492
+Coeff 11:  -0.740055
+Coeff 12:  -0.322861
+----------------------------------------
+File: 1_nicolas_8.wav
+Audio size: 3974 bytes
+Feature size: 265 bytes
+Coeff  0:  4.191616
+Coeff  1:  9.719043
+Coeff  2:  3.456736
+Coeff  3:  -4.450651
+Coeff  4:  -1.257128
+Coeff  5:  -1.061841
+Coeff  6:  0.083645
+Coeff  7:  -0.787286
+Coeff  8:  0.211041
+Coeff  9:  0.656197
+Coeff 10:  0.341256
+Coeff 11:  -0.033547
+Coeff 12:  -0.297832
+----------------------------------------
+File: 1_nicolas_9.wav
+Audio size: 4916 bytes
+Feature size: 267 bytes
+Coeff  0:  9.206040
+Coeff  1:  11.261737
+Coeff  2:  0.668804
+Coeff  3:  -5.677118
+Coeff  4:  -0.660013
+Coeff  5:  -0.964899
+Coeff  6:  0.655653
+Coeff  7:  -0.016526
+Coeff  8:  -0.173910
+Coeff  9:  0.603186
+Coeff 10:  0.099929
+Coeff 11:  -0.590329
+Coeff 12:  -0.507557
+----------------------------------------
