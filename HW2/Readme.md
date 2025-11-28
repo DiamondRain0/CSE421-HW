@@ -55,7 +55,7 @@ To reduce the high-dimensional raw accelerometer data into a compact and discrim
 The QDA classifier computes the posterior probability of each class for the incoming feature vector. The core of this computation involves calculating the **Mahalanobis distance**, which requires heavy matrix algebra. To ensure real-time performance, these operations were implemented using the **ARM CMSIS-DSP library** (specifically `arm_mat_mult_f32` and `arm_mat_trans_f32`), leveraging the STM32F7’s hardware Floating Point Unit (FPU). The MCU receives feature vectors via the established handshake protocol, computes the discriminant scores, and transmits the predicted class label back to the PC.
 
 ### 5.4 Performance Analysis
-Validation was performed using a withheld subset of the WISDM dataset. The system demonstrated high efficacy in recognizing dynamic activities, with **Jogging** and **Walking** achieving recognition rates of **94.48%** and **80.00%** respectively. Static activities such as Sitting and Standing were also classified with high accuracy due to distinct orientation signatures. However, activities with biomechanically similar signatures, specifically climbing stairs (Upstairs/Downstairs), exhibited higher misclassification rates.
+Validation was performed using a withheld subset of the WISDM dataset, yielding an overall system accuracy of **75.6%**. The system demonstrated high efficacy in recognizing dynamic activities, with Jogging and Walking achieving recognition rates of 94.48% and 80.00% respectively. Static activities such as Sitting and Standing were also classified with high accuracy due to distinct orientation signatures. However, activities with biomechanically similar signatures, specifically climbing stairs (Upstairs/Downstairs), exhibited higher misclassification rates.
 
 <img width="740" height="333" alt="Per-Class Accuracy Histogram" src="https://github.com/user-attachments/assets/18ca12b7-6d90-45b4-9862-18d484e9ed0f" />
 
@@ -132,9 +132,7 @@ Testing with 500 unseen MNIST images yielded an overall accuracy of **49.4%**. W
 
 **FIGURE 7.1 — Confusion Matrix Heatmap**
 
-<img width="575" height="942" alt="Python Terminal Output Screenshot" src="https://github.com/user-attachments/assets/2482fa6b-6c6d-4694-9303-c9a2c2bad566" />
 
-**FIGURE 7.3 — Python Terminal Output Screenshot**
 
 This performance indicates that while Hu Moments provide substantial dimensionality reduction (from 784 to 7 dimensions), they may discard fine-grained spatial details required to distinguish between complex handwriting variations in a limited feature space.
 
