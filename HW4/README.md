@@ -23,6 +23,8 @@ We implemented a classifier for the **WISDM dataset** to recognize activities li
 
 ### 2.2 Results
 
+<img width="640" height="480" alt="Part-1" src="https://github.com/user-attachments/assets/8b94c831-9478-483a-a6a3-b219ac70e79d" />
+
 The model successfully converged over 50 epochs. Results were visualized using a Confusion Matrix, demonstrating high precision in distinguishing repetitive movements like "Jogging" from static states like "Sitting." The final model was saved as `mlp_har_model.h5`.
 
 ---
@@ -38,6 +40,8 @@ This task focused on recognizing spoken digits (0-9) from the Speech Commands/FS
 * **Architecture:** An MLP with 26 input features corresponding to the log-magnitude frequency bins.
 
 ### 3.2 Results
+
+
 
 By incorporating standardization and log-scaling, the model achieved significant accuracy gains. The trained model was preserved as `mlp_kws_model.h5`.
 
@@ -55,6 +59,9 @@ To simulate an embedded environment with limited memory, we avoided using all 78
 
 ### 4.2 Results
 
+<img width="287" height="35" alt="part-3_result" src="https://github.com/user-attachments/assets/221c8ce7-ce8d-4904-a4e4-618c9f94b12b" />
+
+
 Despite the 99% reduction in input data (from 784 to 7 features), the model achieved a stable classification performance. The model was saved as `mlp_mnist_model.h5`.
 
 ---
@@ -71,6 +78,10 @@ Using the **SML2010 dataset**, we built a regressor to predict indoor temperatur
 
 ### 5.2 Results
 
+
+<img width="1200" height="600" alt="Part-4" src="https://github.com/user-attachments/assets/0b468a8e-8651-41eb-80b9-a1470c063d76" />
+
+
 The model achieved a very low MAE, indicating high accuracy in tracking temperature trends. The performance was visualized by plotting the predicted vs. actual temperature curves. The model was saved as `temperature_prediction_mlp.h5`.
 
 ---
@@ -83,6 +94,9 @@ The original `Listing10_4.py` contained a shape mismatch in the weight initializ
 
 * **Change:** We corrected the weight array from a 1D list `[.5, -0.5]` to a 2D list `[[0.5], [-0.5]]`.
 * **Visualization:** The corrected script successfully produced a 3D surface plot, illustrating the "S-curve" decision boundary created by the Sigmoid activation function across a 2D input space.
+
+
+<img width="1000" height="700" alt="Listing10_4_figure" src="https://github.com/user-attachments/assets/0510bc27-6ed0-4bc6-b51d-c381924ac6c1" />
 
 ---
 
