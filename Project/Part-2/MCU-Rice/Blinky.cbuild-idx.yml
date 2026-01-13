@@ -1,0 +1,21 @@
+build-idx:
+  generated-by: csolution version 2.12.0+p41-gfeadfc5e
+  cdefault: ${CMSIS_COMPILER_ROOT}/cdefault.yml
+  csolution: Blinky.csolution.yml
+  cbuild-run: out/Blinky+STM32F746G-DISCO.cbuild-run.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: Blinky.cproject.yml
+  cbuilds:
+    - cbuild: out/Blinky/STM32F746G-DISCO/Debug/Blinky.Debug+STM32F746G-DISCO.cbuild.yml
+      project: Blinky
+      configuration: .Debug+STM32F746G-DISCO
+      clayers:
+        - clayer: STM32CubeMX/STM32F746G-DISCO/Blinky.cgen.yml
+      messages:
+        info:
+          - Blinky.cbuild-pack.yml - file is already up-to-date
+          - Blinky+STM32F746G-DISCO.cbuild-run.yml - file is already up-to-date
+          - Blinky.Debug+STM32F746G-DISCO.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::ethos-u-core-driver@1.25.2
