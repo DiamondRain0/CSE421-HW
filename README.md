@@ -1,3 +1,5 @@
+<img width="1565" height="343" alt="image" src="https://github.com/user-attachments/assets/1096073b-0aa6-4b2b-b17d-9f1afd59f1c5" />
+
 # CSE421 — Embedded Machine Learning Homework Collection
 
 This repository is the course deliverable for CSE421: a collection of embedded signal-processing
